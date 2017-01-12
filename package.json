@@ -1,0 +1,29 @@
+{
+  "name": "translationHelps",
+  "version": "1.0.0",
+  "description": "A sub-module for translation helps resources such as translationAcademy and translationWords",
+  "main": "Container.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/translationCoreApps/translationHelps.git"
+  },
+  "keywords": [
+    "translation",
+    "helps",
+    "resources"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/translationCoreApps/translationHelps/issues"
+  },
+  "homepage": "https://github.com/translationCoreApps/translationHelps#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.16.0",
+    "react": "^15.4.2",
+    "react-remarkable": "^1.1.1"
+  }
+}
