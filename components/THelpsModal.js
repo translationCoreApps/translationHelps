@@ -7,7 +7,7 @@ const api = window.ModuleApi;
 const React = api.React;
 const RB = api.ReactBootstrap;
 const {Modal, Button, FormControl} = RB;
-const style = require('./css/style');
+const style = require('../css/style');
 
 class THelpsModal extends React.Component {
   render() {
