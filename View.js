@@ -4,8 +4,8 @@ const React = api.React;
 const RB = api.ReactBootstrap;
 const { Glyphicon } = RB;
 const Markdown = require('react-remarkable');
-const style = require('./css/style');
 const THelpsModal = require('./components/THelpsModal');
+const style = require('./css/style');
 
 class TranslationHelpsDisplay extends React.Component {
     render() {
@@ -15,7 +15,7 @@ class TranslationHelpsDisplay extends React.Component {
                 <div style={style.translationHelpsContent}>
                     <div onClick={this.props.showModal}>
                       <Glyphicon glyph={"new-window"}
-                                 style={{float: "right",color: "#333333", fontSize: "20px", cursor: "pointer"}}/>
+                                 style={style.tHGlyphicon}/>
                     </div>
                     <THelpsModal show={this.props.modalVisibility}
                                  onHide={this.props.hideModal}>

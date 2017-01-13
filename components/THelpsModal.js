@@ -7,6 +7,7 @@ const api = window.ModuleApi;
 const React = api.React;
 const RB = api.ReactBootstrap;
 const {Modal, Button, FormControl} = RB;
+const style = require('./css/style');
 
 class THelpsModal extends React.Component {
   render() {
@@ -20,7 +21,7 @@ class THelpsModal extends React.Component {
               translationHelps
           </Modal.Title>
         </Modal.Header>
-          <Modal.Body style={{fontSize: "18px",backgroundColor: "#333333", color: "#FFFFFF", padding: "45px 80px"}}>
+          <Modal.Body style={style.tHModalContent}>
             {children}
           </Modal.Body>
         <Modal.Footer style={{backgroundColor: "#333333"}}>
