@@ -17,7 +17,7 @@ class THelpsModal extends React.Component {
       <Modal {...this.props} bsSize="lg" aria-labelledby="contained-modal-title-sm">
         <Modal.Header style={{backgroundColor: "#333333"}} closeButton>
           <Modal.Title id="contained-modal-title-sm"
-                      style={{textAlign: "center", color: "#FFFFFF"}}>
+                      style={style.modalTitle}>
               translationHelps
           </Modal.Title>
         </Modal.Header>
