@@ -28,7 +28,6 @@ class TranslationHelpsDisplay extends React.Component {
             );
         }
         else {
-            console.error('Source for TranslationWordsDisplay is undefined');
             return (<div></div>);
         }
     }
