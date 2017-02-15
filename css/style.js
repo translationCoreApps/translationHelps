@@ -15,12 +15,12 @@ var style = {
   },
   modalTitle:{
     textAlign: "center",
-    color: "#FFFFFF"
+    color: "#000000"
   },
   tHModalContent:{
     fontSize: "18px",
-    backgroundColor: "#333333",
-    color: "#FFFFFF",
+    backgroundColor: "#e7e7e7",
+    color: "#000000",
     padding: "45px 80px"
   },
 };
