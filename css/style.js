@@ -5,7 +5,7 @@ var style = {
     padding: '9px',
     minHeight: "100%",
     maxHeight: "100%",
-    backgroundColor: "#c4c4c4"
+    backgroundColor: "#e7e7e7"
   },
   tHGlyphicon: {
     float: "right",
