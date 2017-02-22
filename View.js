@@ -9,7 +9,7 @@ const style = require('./css/style');
 
 class TranslationHelpsDisplay extends React.Component {
     render() {
-        let { currentFile } = this.props;
+        let { currentFile, modalFile } = this.props;
         if (currentFile) {
             return (
                 <div style={style.translationHelpsContent}>
@@ -19,10 +19,10 @@ class TranslationHelpsDisplay extends React.Component {
                     </div>
                     <THelpsModal show={this.props.modalVisibility}
                                  onHide={this.props.hideModal}>
-                        <Markdown source={currentFile} />
+                        <Markdown options={{html: true}} source={modalFile}/>
                     </THelpsModal>
                     <div>
-                        <Markdown source={currentFile} />
+                        <Markdown options={{html: true}} source={currentFile} />
                     </div>
                 </div>
             );

@@ -1,0 +1,12 @@
+# member #
+
+## Definition: ##
+
+The term "member" refers to one part of a complex body or group.
+
+* The New Testament describes Christians as "members" of the Body of Christ. Believers in Christ belong to a group that is made up of many members. 
+* Jesus Christ is the "head" of the Body and individual believers function as the members of the body. The Holy Spirit gives each member of the body a special role to help the entire body to function well.
+* Individuals who participate in groups such as the Jewish Council and the Pharisees are also called "members" of these groups.
+
+(See also: [body](../kt/body.md) **·** [pharisee](../other/pharisee.md) **·** [council](../other/council.md))
+
