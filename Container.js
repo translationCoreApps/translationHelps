@@ -54,8 +54,6 @@ class Container extends React.Component {
           try {
             found = fs.readFileSync(__dirname + '/static/words/' + currentWord[currentWord.length-1]).toString();
           } catch(err) {
-            console.log(this.props.online ? "You are online" : "You are offline");
-            console.log("Found = ", found);
             if(!this.props.online && !found){
               this.setState({modalVisibility: true, modalView: "You are attempting to load an external resource in offline mode, please enable online mode to view this resource"});
               return false;
