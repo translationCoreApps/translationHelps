@@ -1,0 +1,15 @@
+# Absalom #
+
+## Facts: ##
+
+Absalom was the third son of King David. He was known for his handsome appearance and fiery temperament.
+
+* When Absalom's sister Tamar was raped by their half-brother, Amnon, Absalom made a plan to have Amnon killed.
+* After the murder of Amnon, Absalom fled to the region of Geshur (where his mother Maacah was from) and stayed there three years. Then King David sent for him to come back to Jerusalem, but did not allow Absalom to come into his presence for two years.
+* Absalom turned some of the people against King David and led a revolt against him.
+* David's army fought against Absalom and killed him. David was very grieved when this happened.
+
+(Translation suggestions: [How to Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
+
+(See also: [geshur](../other/geshur.md) **·** [amnon](../other/amnon.md))
+

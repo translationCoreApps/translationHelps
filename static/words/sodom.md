@@ -1,0 +1,12 @@
+# Sodom #
+
+## Definition: ##
+
+Sodom was a city in the southern part of Canaan where Abraham's nephew Lot lived with his wife and children.
+
+* The land of the region surrounding Sodom was very well-watered and fertile, so that is where Lot chose to live when he first settled in Caanan.
+* The exact location of this city is not known because Sodom and the nearby city of Gomorrah were completely destroyed by God as punishment for the evil things the people there were doing.
+* The most significant sin that the people of Sodom and Gomorrah were practicing was homosexuality.
+
+(See also: [canaan](../other/canaan.md) **·** [gomorrah](../other/gomorrah.md))
+
