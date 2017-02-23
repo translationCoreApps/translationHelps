@@ -13,7 +13,7 @@ class Container extends React.Component {
       modalVisibility: false,
     }
     this.wordList = api.getDataFromCheckStore(NAMESPACE, 'wordList');
-    this.sectionList = api.getDataFromCheckStore(NAMESPACE, 'sectionList');
+    this.sectionList = api.getDataFromCheckStore(NAMESPACE, 'sectionList') || {};
     this.followLink = this.followLink.bind(this);
   }
   convertToMarkdown(src) {
