@@ -12,3 +12,12 @@ Rachel was one of Jacob's wives. She and her sister Leah were the daughters of L
 
 (See also: [bethlehem](../other/bethlehem.md) **·** [jacob](../other/jacob.md) **·** [laban](../other/laban.md) **·** [leah](../other/leah.md) **·** [josephot](../other/josephot.md) **·** [12tribesofisrael](../other/12tribesofisrael.md))
 
+## Bible References: ##
+
+* [Genesis 29:4-6](https://door43.org/en/bible/notes/gen/29/04)
+* [Genesis 29:19-20](https://door43.org/en/bible/notes/gen/29/19)
+* [Genesis 29:28-30](https://door43.org/en/bible/notes/gen/29/28)
+* [Genesis 31:4-6](https://door43.org/en/bible/notes/gen/31/04)
+* [Genesis 33:1-3](https://door43.org/en/bible/notes/gen/33/01)
+* [Matthew 02:17-18](https://door43.org/en/bible/notes/mat/02/17)
+

@@ -12,3 +12,5 @@ A trance is a state of mind in which a person is awake but is not aware of what 
 
 (See also: [dream](../other/dream.md) **·** [vision](../other/vision.md))
 
+## Bible References: ##
+

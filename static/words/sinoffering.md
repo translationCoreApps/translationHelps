@@ -12,3 +12,11 @@ The "sin offering" was one of several sacrifices that God required the Israelite
 
 (See also: [altar](../other/altar.md) **·** [cow](../other/cow.md) **·** [forgive](../kt/forgive.md) **·** [sacrifice](../other/sacrifice.md) **·** [sin](../kt/sin.md))
 
+## Bible References: ##
+
+* [2 Chronicles 29:20-21](https://door43.org/en/bible/notes/2ch/29/20)
+* [Exodus 29:35-37](https://door43.org/en/bible/notes/exo/29/35)
+* [Ezekiel 44:25-27](https://door43.org/en/bible/notes/ezk/44/25)
+* [Leviticus 05:11](https://door43.org/en/bible/notes/lev/05/11)
+* [Numbers 07:15-17](https://door43.org/en/bible/notes/num/07/15)
+

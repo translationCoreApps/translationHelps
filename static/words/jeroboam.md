@@ -14,3 +14,18 @@ Jeroboam son of Nebat was the first king of the northern kingdom of Israel aroun
 
 (See also: [idol](../other/idol.md) **·** [kingdomofisrael](../other/kingdomofisrael.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [solomon](../other/solomon.md))
 
+## Bible References: ##
+
+* [1 Chronicles 05:16-17](https://door43.org/en/bible/notes/1ch/05/16)
+* [1 Kings 12:1-2](https://door43.org/en/bible/notes/1ki/12/01)
+* [2 Chronicles 09:29-31](https://door43.org/en/bible/notes/2ch/09/29)
+* [2 Kings 03:1-3](https://door43.org/en/bible/notes/2ki/03/01)
+* [Amos 01:1-2](https://door43.org/en/bible/notes/amo/01/01)
+
+## Examples from the Bible stories: ##
+
+* __[18-08](https://door43.org/en/obs/notes/frames/18-08)__ The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named __Jeroboam__  to be their king.
+* __[18-09](https://door43.org/en/obs/notes/frames/18-09)____Jeroboam__  rebelled against God and caused the people to sin. He built two idols for his people to worship instead of worshiping God at the Temple in the kingdom of Judah.
+
+
+

@@ -14,3 +14,17 @@ In the Old Testament, Naaman was the commander of the army of the king of Aram.
 
 (See also: [aram](../other/aram.md) **·** [jordanriver](../other/jordanriver.md) **·** [leprosy](../other/leprosy.md) **·** [prophet](../kt/prophet.md))
 
+## Bible References: ##
+
+* [1 Chronicles 08:6-7](https://door43.org/en/bible/notes/1ch/08/06)
+* [2 Kings 05:1-2](https://door43.org/en/bible/notes/2ki/05/01)
+* [Luke 04:25-27](https://door43.org/en/bible/notes/luk/04/25)
+
+## Examples from the Bible stories: ##
+
+* __[19-14](https://door43.org/en/obs/notes/frames/19-14)__ One of the miracles happened to __Naaman__, an enemy commander, who had a horrible skin disease.
+* __[19-15](https://door43.org/en/obs/notes/frames/19-15)__ At first __Naaman__  was angry and would not do it because it seemed foolish. But later he changed his mind and dipped himself seven times in the Jordan River.
+* __[26-06](https://door43.org/en/obs/notes/frames/26-06)__"He (Elisha) only healed the skin disease of __Naaman__, a commander of Israel's enemies."
+
+
+

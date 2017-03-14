@@ -17,3 +17,14 @@ The term "prison" refers to a place where criminals are kept as a punishment for
 
 (See also: [captive](../other/captive.md))
 
+## Bible References: ##
+
+* [Acts 25:4-5](https://door43.org/en/bible/notes/act/25/04)
+* [Ephesians 04:1-3](https://door43.org/en/bible/notes/eph/04/01)
+* [Luke 12:57-59](https://door43.org/en/bible/notes/luk/12/57)
+* [Luke 22:33-34](https://door43.org/en/bible/notes/luk/22/33)
+* [Mark 06:16-17](https://door43.org/en/bible/notes/mrk/06/16)
+* [Matthew 05:25-26](https://door43.org/en/bible/notes/mat/05/25)
+* [Matthew 14:3-5](https://door43.org/en/bible/notes/mat/14/03)
+* [Matthew 25:34-36](https://door43.org/en/bible/notes/mat/25/34)
+

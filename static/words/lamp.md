@@ -13,3 +13,12 @@ The type of lamp that was used in Bible times is a small container with a fuel s
 
 (See also: [lampstand](../other/lampstand.md) **·** [life](../kt/life.md) **·** [light](../kt/light.md))
 
+## Bible References: ##
+
+* [1 Kings 11:34-36](https://door43.org/en/bible/notes/1ki/11/34)
+* [Exodus 25:3-7](https://door43.org/en/bible/notes/exo/25/03)
+* [Luke 08:16-18](https://door43.org/en/bible/notes/luk/08/16)
+* [Matthew 05:15-16](https://door43.org/en/bible/notes/mat/05/15)
+* [Matthew 06:22-24](https://door43.org/en/bible/notes/mat/06/22)
+* [Matthew 25:1-4](https://door43.org/en/bible/notes/mat/25/01)
+

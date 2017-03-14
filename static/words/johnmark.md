@@ -12,3 +12,13 @@ John Mark, also known as "Mark," was one of the men who traveled with Paul on hi
 
 (See also: [barnabas](../other/barnabas.md) **·** [paul](../other/paul.md))
 
+## Bible References: ##
+
+* [2 Timothy 04:11-13](https://door43.org/en/bible/notes/2ti/04/11)
+* [Acts 12:24-25](https://door43.org/en/bible/notes/act/12/24)
+* [Acts 13:4-5](https://door43.org/en/bible/notes/act/13/04)
+* [Acts 13:13-15](https://door43.org/en/bible/notes/act/13/13)
+* [Acts 15:36-38](https://door43.org/en/bible/notes/act/15/36)
+* [Acts 15:39-41](https://door43.org/en/bible/notes/act/15/39)
+* [Colossians 04:10-11](https://door43.org/en/bible/notes/col/04/10)
+

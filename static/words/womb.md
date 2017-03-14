@@ -9,3 +9,14 @@ The term "womb" refers to where a baby grows inside its mother.
 * Some languages use a word like "belly" to refer to a woman's womb or uterus.
 * Use a word for this in the project language that is well-known, natural, and acceptable.
 
+## Bible References: ##
+
+* [Genesis 25:23](https://door43.org/en/bible/notes/gen/25/23)
+* [Genesis 25:24-26](https://door43.org/en/bible/notes/gen/25/24)
+* [Genesis 38:27-28](https://door43.org/en/bible/notes/gen/38/27)
+* [Genesis 49:25](https://door43.org/en/bible/notes/gen/49/25)
+* [Luke 02:21](https://door43.org/en/bible/notes/luk/02/21)
+* [Luke 11:27-28](https://door43.org/en/bible/notes/luk/11/27)
+* [Luke 23:29-31](https://door43.org/en/bible/notes/luk/23/29)
+* [Matthew 19:10-12](https://door43.org/en/bible/notes/mat/19/10)
+

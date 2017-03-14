@@ -10,3 +10,11 @@ Originally, the term "Zion" or "Mount Zion" referred to a stronghold or fortress
 
 (See also: [abraham](../other/abraham.md) **·** [david](../other/david.md) **·** [jerusalem](../other/jerusalem.md) **·** [bethlehem](../other/bethlehem.md) **·** [jebusites](../other/jebusites.md))
 
+## Bible References: ##
+
+* [1 Chronicles 11:4-6](https://door43.org/en/bible/notes/1ch/11/04)
+* [Amos 01:1-2](https://door43.org/en/bible/notes/amo/01/01)
+* [Jeremiah 51:34-35](https://door43.org/en/bible/notes/jer/51/34)
+* [Psalm 076:1-3](https://door43.org/en/bible/notes/psa/076/001)
+* [Romans 11:26-27](https://door43.org/en/bible/notes/rom/11/26)
+

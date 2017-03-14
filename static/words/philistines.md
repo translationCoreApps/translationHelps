@@ -14,3 +14,11 @@ The Philistines were a people group who occupied a region known as Philistia​ 
 
 (See also: [ashdod](../other/ashdod.md) **·** [ashkelon](../other/ashkelon.md) **·** [david](../other/david.md) **·** [ekron](../other/ekron.md) **·** [gath](../other/gath.md) **·** [gaza](../other/gaza.md) **·** [goliath](../other/goliath.md) **·** [saltsea](../other/saltsea.md))
 
+## Bible References: ##
+
+* [1 Chronicles 18:9-11](https://door43.org/en/bible/notes/1ch/18/09)
+* [1 Samuel 13:3-4](https://door43.org/en/bible/notes/1sa/13/03)
+* [2 Chronicles 09:25-26](https://door43.org/en/bible/notes/2ch/09/25)
+* [Genesis 10:11-14](https://door43.org/en/bible/notes/gen/10/11)
+* [Psalm 056:1-2](https://door43.org/en/bible/notes/psa/056/001)
+

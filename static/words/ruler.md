@@ -13,3 +13,14 @@ The term "ruler" is a general reference to a person who has authority over other
 
 (See also: [authority](../kt/authority.md) **·** [governor](../other/governor.md) **·** [king](../other/king.md) **·** [synagogue](../other/synagogue.md))
 
+## Bible References: ##
+
+* [Acts 03:17-18](https://door43.org/en/bible/notes/act/03/17)
+* [Acts 07:35-37](https://door43.org/en/bible/notes/act/07/35)
+* [Luke 12:11-12](https://door43.org/en/bible/notes/luk/12/11)
+* [Luke 23:35](https://door43.org/en/bible/notes/luk/23/35)
+* [Mark 10:41-42](https://door43.org/en/bible/notes/mrk/10/41)
+* [Matthew 09:32-34](https://door43.org/en/bible/notes/mat/09/32)
+* [Matthew 20:25-28](https://door43.org/en/bible/notes/mat/20/25)
+* [Titus 03:1-2](https://door43.org/en/bible/notes/tit/03/01)
+

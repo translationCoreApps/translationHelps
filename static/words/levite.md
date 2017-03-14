@@ -12,3 +12,12 @@ Levi was one of the twelve sons of Jacob, or Israel. The term "Levite" refers to
 
 (See also: [matthew](../other/matthew.md) **·** [priest](../kt/priest.md) **·** [sacrifice](../other/sacrifice.md) **·** [temple](../kt/temple.md) **·** [12tribesofisrael](../other/12tribesofisrael.md))
 
+## Bible References: ##
+
+* [1 Chronicles 02:1-2](https://door43.org/en/bible/notes/1ch/02/01)
+* [1 Kings 08:3-5](https://door43.org/en/bible/notes/1ki/08/03)
+* [Acts 04:36-37](https://door43.org/en/bible/notes/act/04/36)
+* [Genesis 29:33-34](https://door43.org/en/bible/notes/gen/29/33)
+* [John 01:19-21](https://door43.org/en/bible/notes/jhn/01/19)
+* [Luke 10:31-32](https://door43.org/en/bible/notes/luk/10/31)
+

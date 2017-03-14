@@ -11,3 +11,10 @@ The term "palm" refers to a type of tall tree with long, flexible, leafy branche
 
 (See also: [donkey](../other/donkey.md) **·** [jerusalem](../other/jerusalem.md) **·** [peace](../other/peace.md)) 
 
+## Bible References: ##
+
+* [1 Kings 06:29-30](https://door43.org/en/bible/notes/1ki/06/29)
+* [Ezekiel 40:14-16](https://door43.org/en/bible/notes/ezk/40/14)
+* [John 12:12-13](https://door43.org/en/bible/notes/jhn/12/12)
+* [Numbers 33:8-10](https://door43.org/en/bible/notes/num/33/08)
+

@@ -15,3 +15,15 @@ The chief priests were important Jewish religious leaders during the time that J
 
 (See also: [chief](../other/chief.md) **·** [highpriest](../kt/highpriest.md) **·** [jewishleaders](../other/jewishleaders.md) **·** [priest](../kt/priest.md))
 
+## Bible References: ##
+
+* [Acts 09:13-16](https://door43.org/en/bible/notes/act/09/13)
+* [Acts 22:30](https://door43.org/en/bible/notes/act/22/30)
+* [Acts 26:12-14](https://door43.org/en/bible/notes/act/26/12)
+* [Luke 20:1-2](https://door43.org/en/bible/notes/luk/20/01)
+* [Mark 08:31-32](https://door43.org/en/bible/notes/mrk/08/31)
+* [Matthew 16:21-23](https://door43.org/en/bible/notes/mat/16/21)
+* [Matthew 26:3-5](https://door43.org/en/bible/notes/mat/26/03)
+* [Matthew 26:59-61](https://door43.org/en/bible/notes/mat/26/59)
+* [Matthew 27:41-42](https://door43.org/en/bible/notes/mat/27/41)
+

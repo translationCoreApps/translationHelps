@@ -12,3 +12,11 @@ In the Bible, there are several men named Simeon.
 
 (See also: [canaan](../other/canaan.md) **·** [christ](../kt/christ.md) **·** [dedicate](../other/dedicate.md) **·** [jacob](../other/jacob.md) **·** [judah](../other/judah.md) **·** [temple](../kt/temple.md))
 
+## Bible References: ##
+
+* [Genesis 29:33-34](https://door43.org/en/bible/notes/gen/29/33)
+* [Genesis 34:24-26](https://door43.org/en/bible/notes/gen/34/24)
+* [Genesis 42:35-36](https://door43.org/en/bible/notes/gen/42/35)
+* [Genesis 43:21-23](https://door43.org/en/bible/notes/gen/43/21)
+* [Luke 02:25-26](https://door43.org/en/bible/notes/luk/02/25)
+

@@ -9,3 +9,9 @@ The expression "man of God" is a respectful way of referring to a prophet of Yah
 
 (See also: [angel](../kt/angel.md) **·** [honor](../other/honor.md) **·** [prophet](../kt/prophet.md))
 
+## Bible References: ##
+
+* [1 Chronicles 23:12-14](https://door43.org/en/bible/notes/1ch/23/12)
+* [1 Kings 12:22-24](https://door43.org/en/bible/notes/1ki/12/22)
+* [1 Samuel 09:9-11](https://door43.org/en/bible/notes/1sa/09/09)
+

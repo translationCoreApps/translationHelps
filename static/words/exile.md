@@ -17,3 +17,11 @@ The term "exile" refers to people being forced to live somewhere away from their
 
 (See also: [babylon](../other/babylon.md) **·** [kingdomofjudah](../other/kingdomofjudah.md))
 
+## Bible References: ##
+
+* [2 Kings 24:13-14](https://door43.org/en/bible/notes/2ki/24/13)
+* [Daniel 02:25-26](https://door43.org/en/bible/notes/dan/02/25)
+* [Ezekiel 01:1-3](https://door43.org/en/bible/notes/ezk/01/01)
+* [Isaiah 20:3-4](https://door43.org/en/bible/notes/isa/20/03)
+* [Jeremiah 29:1-3](https://door43.org/en/bible/notes/jer/29/01)
+

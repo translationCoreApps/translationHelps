@@ -9,3 +9,10 @@ The term "month" refers to a period of time lasting about four weeks. The number
 * All the names of months referred to in the Bible are those of the lunar calendar since this was the system used by the Israelites. Modern Jews still use this calendar for religious purposes.
 * The modern-day solar calendar is based on how long it takes the earth to go around the sun (about 365 days). In this system, the year is always divided up into 12 months, with the length of each month ranging from 28 to 31 days.
 
+## Bible References: ##
+
+* [1 Samuel 20:32-34](https://door43.org/en/bible/notes/1sa/20/32)
+* [Acts 18:9-11](https://door43.org/en/bible/notes/act/18/09)
+* [Hebrews 11:23-26](https://door43.org/en/bible/notes/heb/11/23)
+* [Numbers 10:10](https://door43.org/en/bible/notes/num/10/10)
+

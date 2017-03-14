@@ -13,3 +13,7 @@ The term "melt" refers to something becoming liquid when it is heated. It is als
 
 (See also: [heart](../other/heart.md),[idol](../other/idol.md) **·** [image](../other/image.md) **·** [seal](../other/seal.md))
 
+## Bible References: ##
+
+* [Psalms 112:10](https://door43.org/en/bible/notes/psa/112/010)
+

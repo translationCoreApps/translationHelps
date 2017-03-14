@@ -14,3 +14,10 @@ An ambassador is a person who is chosen to officially represent his country in r
 
 (See also: [messenger](../other/messenger.md))
 
+## Bible References: ##
+
+* [Ephesians 06:19-20](https://door43.org/en/bible/notes/eph/06/19)
+* [Luke 14:31-33](https://door43.org/en/bible/notes/luk/14/31)
+* [Luke 19:13-15](https://door43.org/en/bible/notes/luk/19/13)
+
+

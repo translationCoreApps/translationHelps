@@ -14,3 +14,11 @@ Mary was a women from Bethany who followed Jesus.
 
 (See also: [bethany](../other/bethany.md) **·** [frankincense](../other/frankincense.md) **·** [lazarus](../other/lazarus.md) **·** [martha](../other/martha.md))
 
+## Bible References: ##
+
+* [John 11:1-2](https://door43.org/en/bible/notes/jhn/11/01)
+* [John 12:1-3](https://door43.org/en/bible/notes/jhn/12/01)
+* [Luke 10:38-39](https://door43.org/en/bible/notes/luk/10/38)
+
+~~DISCUSSION~https://kingdomworks.com/product/conquer-series-6-dvd-set/~
+

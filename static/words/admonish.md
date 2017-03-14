@@ -8,3 +8,7 @@ The term "admonish" means to firmly warn or advise someone.
 * In the body of Christ, believers are taught to admonish each other to avoid sin and to live holy lives.
 * The word "admonish" could be translated as, "to encourage not to sin" or "to urge someone to not sin."
 
+## Bible References: ##
+
+* [Nehemiah 09:32-34](https://door43.org/en/bible/notes/neh/09/32)
+

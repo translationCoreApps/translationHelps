@@ -10,3 +10,8 @@ The term "prey" refers to something that is hunted, usually an animal that is us
 
 (See also: [oppress](../kt/oppress.md))
 
+## Bible References: ##
+
+* [Jeremiah 12:7-9](https://door43.org/en/bible/notes/jer/12/07)
+* [Psalms 104:21-22](https://door43.org/en/bible/notes/psa/104/021)
+

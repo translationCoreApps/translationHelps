@@ -12,3 +12,8 @@ The term "Leviathan" refers to a very large, extinct animal mentioned in the ear
 
 (See also: [isaiah](../other/isaiah.md) **·** [job](../other/job.md) **·** [serpent](../other/serpent.md))
 
+## Bible References: ##
+
+* [Job 03:8-10](https://door43.org/en/bible/notes/job/03/08)
+* [Psalms 104:25-26](https://door43.org/en/bible/notes/psa/104/025)
+

@@ -14,3 +14,11 @@ The terms "tax" and "taxes" refer to money or goods that people pay to a governm
 
 (See also: [bethlehem](../other/bethlehem.md) **·** [census](../other/census.md) **·** [citizen](../other/citizen.md) **·** [rome](../other/rome.md) **·** [taxcollector](../other/taxcollector.md))
 
+## Bible References: ##
+
+* [Luke 20:21-22](https://door43.org/en/bible/notes/luk/20/21)
+* [Mark 02:13-14](https://door43.org/en/bible/notes/mrk/02/13)
+* [Matthew 09:7-9](https://door43.org/en/bible/notes/mat/09/07)
+* [Numbers 31:28-29](https://door43.org/en/bible/notes/num/31/28)
+* [Romans 13:6-7](https://door43.org/en/bible/notes/rom/13/06)
+

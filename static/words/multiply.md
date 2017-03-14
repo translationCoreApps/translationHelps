@@ -10,3 +10,10 @@ The term "multiply" means to greatly increase in number. It can also mean to cau
 * The phrase "greatly multiply your pain" could also be translated as, "cause your pain to become more severe" or "cause you to experience much more pain."
 * To "multiply horses" means to "greedily keep acquiring more horses" or to "get large numbers of horses."
 
+## Bible References: ##
+
+* [Deuteronomy 08:1-2](https://door43.org/en/bible/notes/deu/08/01)
+* [Genesis 09:5-7](https://door43.org/en/bible/notes/gen/09/05)
+* [Genesis 22:15-17](https://door43.org/en/bible/notes/gen/22/15)
+* [Hosea 04:6-7](https://door43.org/en/bible/notes/hos/04/06)
+

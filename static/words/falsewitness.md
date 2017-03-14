@@ -15,3 +15,12 @@ The terms "false witness" and "corrupt witness" refer to a person who says untru
 
 (See also: [testimony](../kt/testimony.md) **·** [true](../kt/true.md) **·** [witness](../kt/witness.md))
 
+## Bible References: ##
+
+* [Deuteronomy 19:17-19](https://door43.org/en/bible/notes/deu/19/17)
+* [Exodus 20:15-17](https://door43.org/en/bible/notes/exo/20/15)
+* [Matthew 15:18-20](https://door43.org/en/bible/notes/mat/15/18)
+* [Matthew 19:18-19](https://door43.org/en/bible/notes/mat/19/18)
+* [Proverbs 14:5-6](https://door43.org/en/bible/notes/pro/14/05)
+* [Psalms 027:11-12](https://door43.org/en/bible/notes/psa/027/011)
+

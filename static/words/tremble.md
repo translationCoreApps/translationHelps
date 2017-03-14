@@ -11,3 +11,11 @@ The term "tremble" means to shake or quiver out of fear or extreme distress.
 
 (See also: [earth](../other/earth.md) **·** [fear](../kt/fear.md) **·** [lordgod](../kt/lordgod.md))
 
+## Bible References: ##
+
+* [2 Corinthians 07:15-16](https://door43.org/en/bible/notes/2co/07/15)
+* [2 Samuel 22:44-46](https://door43.org/en/bible/notes/2sa/22/44)
+* [Acts 16:29-31](https://door43.org/en/bible/notes/act/16/29)
+* [Jeremiah 05:20-22](https://door43.org/en/bible/notes/jer/05/20)
+* [Luke 08:47-48](https://door43.org/en/bible/notes/luk/08/47)
+

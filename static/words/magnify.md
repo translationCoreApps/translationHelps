@@ -16,3 +16,8 @@ The term "magnify" means to make something or someone greater or to draw attenti
 
 (See also: [exalt](../kt/exalt.md) **·** [glorify](../kt/glorify.md))
 
+## Bible References: ##
+
+* [Daniel 11:36-37](https://door43.org/en/bible/notes/dan/11/36)
+* [Psalm 138:1-2](https://door43.org/en/bible/notes/psa/138/001)
+

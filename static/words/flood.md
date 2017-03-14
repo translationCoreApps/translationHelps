@@ -18,3 +18,12 @@ The term "flood" literally refers to a large amount of water that completely cov
 
 (See also: [ark](../other/ark.md) **·** [Noah](../other/noah.md))
 
+## Bible References: ##
+
+* [Daniel 11:10](https://door43.org/en/bible/notes/dan/11/10)
+* [Genesis 07:6-7](https://door43.org/en/bible/notes/gen/07/06)
+* [Luke 06:46-48](https://door43.org/en/bible/notes/luk/06/46)
+* [Matthew 07:24-25](https://door43.org/en/bible/notes/mat/07/24)
+* [Matthew 07:26-27](https://door43.org/en/bible/notes/mat/07/26)
+* [Matthew 24:37-39](https://door43.org/en/bible/notes/mat/24/37)
+

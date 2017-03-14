@@ -18,3 +18,11 @@ A sister is a female person who shares at least one biological parent with anoth
 
 (See also: [brother](../kt/brother.md) [in Christ, in Jesus, in the Lord](../kt/inchrist.md) **·** [spirit](../kt/spirit.md))
 
+## Bible References: ##
+
+* [1 Chronicles 02:16-17](https://door43.org/en/bible/notes/1ch/02/16)
+* [Deuteronomy 27:22-23](https://door43.org/en/bible/notes/deu/27/22)
+* [Philemon 01:1-3](https://door43.org/en/bible/notes/phm/01/01)
+* [Romans 16:1-2](https://door43.org/en/bible/notes/rom/16/01)
+
+

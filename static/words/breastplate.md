@@ -11,3 +11,11 @@ The term "breastplate" refers to a piece of armor covering the front of the ches
 
 (See also: [armor](../other/armor.md) **·** [highpriest](../kt/highpriest.md) **·** [pierce](../other/pierce.md) **·** [priest](../kt/priest.md) **·** [temple](../kt/temple.md) **·** [warrior](../other/warrior.md))
 
+## Bible References: ##
+
+* [1 Thessalonians 05:8-11](https://door43.org/en/bible/notes/1th/05/08)
+* [Exodus 39:14-16](https://door43.org/en/bible/notes/exo/39/14)
+* [Isaiah 59:17-18](https://door43.org/en/bible/notes/isa/59/17)
+* [Revelation 09:7-9](https://door43.org/en/bible/notes/rev/09/07)
+
+

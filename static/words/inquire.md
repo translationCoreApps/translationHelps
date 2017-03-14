@@ -11,3 +11,11 @@ The term "inquire" means to ask someone for information. The expression "inquire
 * To "inquire after" something could be translated as "ask questions about" or "ask for information about."
 * When Yahweh says, "I will not be inquired of by you" this could be translated as, "I will not allow you to ask me for information" or  "you will not be permitted to seek help from me."
 
+## Bible References: ##
+
+* [Deuteronomy 19:17-19](https://door43.org/en/bible/notes/deu/19/17)
+* [Ezekiel 20:1](https://door43.org/en/bible/notes/ezk/20/01)
+* [Ezekiel 20:30-32](https://door43.org/en/bible/notes/ezk/20/30)
+* [Ezra 07:14-16](https://door43.org/en/bible/notes/ezr/07/14)
+* [Job 10:4-7](https://door43.org/en/bible/notes/job/10/04)
+

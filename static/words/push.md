@@ -11,3 +11,5 @@ The term "push" literally means to physically move something away using force. T
 
 (See also: [oppress](../kt/oppress.md) **·** [persecute](../other/persecute.md) **·** [reject](../other/reject.md))
 
+## Bible References: ##
+

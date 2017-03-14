@@ -10,3 +10,10 @@ Term "sacred" describes something that relates to worshiping God or to the pagan
 
 (See also: [holy](../kt/holy.md) **·** [consecrate](../kt/consecrate.md) **·** [priest](../kt/priest.md)))
 
+## Bible References: ##
+
+* [2 Corinthians 12:3-5](https://door43.org/en/bible/notes/2co/12/03)
+* [2 Kings 03:1-3](https://door43.org/en/bible/notes/2ki/03/01)
+* [2 Timothy 03:14-15](https://door43.org/en/bible/notes/2ti/03/14)
+* [Genesis 28:20-22](https://door43.org/en/bible/notes/gen/28/20)
+

@@ -14,3 +14,12 @@ Abimelech was a Philistine king over the region of Gerar during the time when Ab
 
 (See also: [Beersheba](../other/beersheba.md) **·** [Gerar](../other/gerar.md), , [Gideon](../other/gideon.md),[Jotham](../other/jotham.md) **·** [Philistines](../other/philistines.md))
 
+## Bible References: ##
+
+* [2 Samuel 11:21](https://door43.org/en/bible/notes/2sa/11/21)
+* [Genesis 20:1-3](https://door43.org/en/bible/notes/gen/20/01)
+* [Genesis 20:4-5](https://door43.org/en/bible/notes/gen/20/04)
+* [Genesis 21:22-24](https://door43.org/en/bible/notes/gen/21/22)
+* [Genesis 26:9-11](https://door43.org/en/bible/notes/gen/26/09)
+* [Judges 09:52-54](https://door43.org/en/bible/notes/jdg/09/52)
+

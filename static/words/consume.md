@@ -21,3 +21,11 @@ The term "consume" literally means to use up something. It has several figurativ
 
 (See also: [devour](../other/devour.md) **·** [wrath](../kt/wrath.md))
 
+## Bible References: ##
+
+* [1 Kings 18:38-40](https://door43.org/en/bible/notes/1ki/18/38)
+* [Deuteronomy 07:16](https://door43.org/en/bible/notes/deu/07/16)
+* [Jeremiah 03:23-25](https://door43.org/en/bible/notes/jer/03/23)
+* [Job 07:8-10](https://door43.org/en/bible/notes/job/07/08)
+* [Numbers 11:1-3](https://door43.org/en/bible/notes/num/11/01)
+

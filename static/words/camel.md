@@ -12,3 +12,12 @@ A camel is a large, four legged animal with one or two humps on its back.
 
 (See also: [burden](../other/burden.md) **·** [unclean](../kt/unclean.md))
 
+## Bible References: ##
+
+* [1 Chronicles 05:20-22](https://door43.org/en/bible/notes/1ch/05/20)
+* [2 Chronicles 09:1-2](https://door43.org/en/bible/notes/2ch/09/01)
+* [Exodus 09:1-4](https://door43.org/en/bible/notes/exo/09/01)
+* [Mark 10:23-25](https://door43.org/en/bible/notes/mrk/10/23)
+* [Matthew 03:4-6](https://door43.org/en/bible/notes/mat/03/04)
+* [Matthew 19:23-24](https://door43.org/en/bible/notes/mat/19/23)
+

@@ -10,3 +10,11 @@ Plagues are events which cause suffering or death to a large number of people. O
 
 (See also: [hail](../other/hail.md) **·** [israel](../other/israel.md) **·** [moses](../other/moses.md) **·** [pharaoh](../other/pharaoh.md))
 
+## Bible References: ##
+
+* [2 Samuel 24:13-14](https://door43.org/en/bible/notes/2sa/24/13)
+* [Exodus 09:13-14](https://door43.org/en/bible/notes/exo/09/13)
+* [Genesis 12:17-20](https://door43.org/en/bible/notes/gen/12/17)
+* [Luke 21:10-11](https://door43.org/en/bible/notes/luk/21/10)
+* [Revelation 09:18-19](https://door43.org/en/bible/notes/rev/09/18)
+

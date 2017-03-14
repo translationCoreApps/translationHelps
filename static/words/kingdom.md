@@ -19,3 +19,24 @@ A kingdom is a group of people ruled by a king. It also refers to the realm or p
 
 (See also: [authority](../other/authority.md) **·** [king](../other/king.md) **·** [kingdomofgod](../kt/kingdomofgod.md) **·** [kingdomofisrael](../other/kingdomofisrael.md) **·** [judah](../other/judah.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [priest](../kt/priest.md))
 
+## Bible References: ##
+
+* [1 Thessalonians 02:10-12](https://door43.org/en/bible/notes/1th/02/10)
+* [2 Timothy 04:17-18](https://door43.org/en/bible/notes/2ti/04/17)
+* [Colossians 01:13-14](https://door43.org/en/bible/notes/col/01/13)
+* [John 18:36-37](https://door43.org/en/bible/notes/jhn/18/36)
+* [Mark 03:23-25](https://door43.org/en/bible/notes/mrk/03/23)
+* [Matthew 04:7-9](https://door43.org/en/bible/notes/mat/04/07)
+* [Matthew 13:18-19](https://door43.org/en/bible/notes/mat/13/18)
+* [Matthew 16:27-28](https://door43.org/en/bible/notes/mat/16/27)
+* [Revelation 01:9-11](https://door43.org/en/bible/notes/rev/01/09)
+
+## Examples from the Bible stories: ##
+
+* __[13-02](https://door43.org/en/obs/notes/frames/13-02)__ God said to Moses and the people of Israel, "If you will obey me and keep my covenant, you will be my prized possession, a __kingdom__  of priests, and a holy nation."
+* __[18-04](https://door43.org/en/obs/notes/frames/18-04)__ God was angry with Solomon and, as a punishment for Solomon's unfaithfulness, he promised to divide the nation of Israel in two __kingdoms__  after Solomon's death.
+* __[18-07](https://door43.org/en/obs/notes/frames/18-07)__ Ten of the tribes of the nation of Israel rebelled against Rehoboam. Only two tribes remained faithful to him. These two tribes became the __kingdom__  of Judah.
+* __[18-08](https://door43.org/en/obs/notes/frames/18-08)__ The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their __kingdom__  in the northern part of the land and were called the __kingdom__  of Israel.
+* __[21-08](https://door43.org/en/obs/notes/frames/21-08)__ A king is someone who rules over a __kingdom__  and judges the people.
+
+

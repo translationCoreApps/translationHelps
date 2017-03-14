@@ -13,3 +13,10 @@ In ancient times, Phoenicia was a wealthy nation located in Canaan along the coa
 
 (See also: [cedar](../other/cedar.md) **·** [purple](../other/purple.md) **·** [sidon](../other/sidon.md) **·** [tyre](../other/tyre.md))
 
+## Bible References: ##
+
+* [Acts 11:19-21](https://door43.org/en/bible/notes/act/11/19)
+* [Acts 15:3-4](https://door43.org/en/bible/notes/act/15/03)
+* [Acts 21:1-2](https://door43.org/en/bible/notes/act/21/01)
+* [Isaiah 23:10-12](https://door43.org/en/bible/notes/isa/23/10)
+

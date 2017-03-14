@@ -10,3 +10,11 @@ In Matthew's account of the birth of Christ, these "learned" or "educated" men w
 
 (See also: [babylon](../other/babylon.md) **·** [bethlehem](../other/bethlehem.md) **·** [daniel](../other/daniel.md))
 
+## Bible References: ##
+
+* [Daniel 02:27-28](https://door43.org/en/bible/notes/dan/02/27)
+* [Daniel 05:7](https://door43.org/en/bible/notes/dan/05/07)
+* [Matthew 02:1-3](https://door43.org/en/bible/notes/mat/02/01)
+* [Matthew 02:7-8](https://door43.org/en/bible/notes/mat/02/07)
+* [Matthew 02:16](https://door43.org/en/bible/notes/mat/02/16)
+

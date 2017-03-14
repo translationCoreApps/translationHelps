@@ -19,3 +19,11 @@ The term "trouble" refers to experiences in life that are very difficult and dis
 
 (See also: [afflict](../kt/afflict.md) **·** [persecute](../other/persecute.md))
 
+## Bible References: ##
+
+* [1 Kings 18:18-19](https://door43.org/en/bible/notes/1ki/18/18)
+* [2 Chronicles 25:18-19](https://door43.org/en/bible/notes/2ch/25/18)
+* [Luke 24:38-40](https://door43.org/en/bible/notes/luk/24/38)
+* [Matthew 24:6-8](https://door43.org/en/bible/notes/mat/24/06)
+* [Matthew 26:36-38](https://door43.org/en/bible/notes/mat/26/36)
+

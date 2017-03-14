@@ -14,3 +14,11 @@ The term "bronze" refers to a kind of metal that is made from melting together t
 
 (See also: [armor](../other/armor.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
 
+## Bible References: ##
+
+* [1 Kings 07:15-17](https://door43.org/en/bible/notes/1ki/07/15)
+* [1 Samuel 17:37-38](https://door43.org/en/bible/notes/1sa/17/37)
+* [Daniel 02:44-45](https://door43.org/en/bible/notes/dan/02/44)
+* [Exodus 25:3-7](https://door43.org/en/bible/notes/exo/25/03)
+* [Revelation 01:14-16](https://door43.org/en/bible/notes/rev/01/14)
+

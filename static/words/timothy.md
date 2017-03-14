@@ -12,3 +12,13 @@ Timothy was a young man from Lystra who became a believer in Christ as a result 
 
 (See also: [appoint](../kt/appoint.md) **·** [believer](../kt/believer.md) **·** [church](../kt/church.md) **·** [greek](../other/greek.md) **·** [minister](../kt/minister.md))
 
+## Bible References: ##
+
+* [1 Thessalonians 03:1-3](https://door43.org/en/bible/notes/1th/03/01)
+* [1 Timothy 01:1-2](https://door43.org/en/bible/notes/1ti/01/01)
+* [Acts 16:1-3](https://door43.org/en/bible/notes/act/16/01)
+* [Colossians 01:1-3](https://door43.org/en/bible/notes/col/01/01)
+* [Philemon 01:1-3](https://door43.org/en/bible/notes/phm/01/01)
+* [Philippians 01:1-2](https://door43.org/en/bible/notes/php/01/01)
+* [Philippians 02:19-21](https://door43.org/en/bible/notes/php/02/19)
+

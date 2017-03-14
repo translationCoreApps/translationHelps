@@ -13,3 +13,11 @@ Gold is a yellow-colored high-quality metal that was used for making jewelry and
 
 (See also: [altar](../other/altar.md) **·** [arkofthecovenant](../other/arkofthecovenant.md) **·** [falsegod](../kt/falsegod.md) **·** [silver](../other/silver.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
 
+## Bible References: ##
+
+* [1 Peter 01:6-7](https://door43.org/en/bible/notes/1pe/01/06)
+* [1 Timothy 02:8-10](https://door43.org/en/bible/notes/1ti/02/08)
+* [2 Chronicles 01:14-15](https://door43.org/en/bible/notes/2ch/01/14)
+* [Acts 03:4-6](https://door43.org/en/bible/notes/act/03/04)
+* [Daniel 02:31-33](https://door43.org/en/bible/notes/dan/02/31)
+

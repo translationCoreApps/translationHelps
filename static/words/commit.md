@@ -12,3 +12,11 @@ The terms "commit" and "commitment" refers to making a decision or promising to 
 
 (See also: [adultery](../kt/adultery.md) **·** [faithful](../kt/faithful.md) **·** [promise](../kt/promise.md) **·** [sin](../kt/sin.md))
 
+## Bible References: ##
+
+* [1 Chronicles 28:6-7](https://door43.org/en/bible/notes/1ch/28/06)
+* [1 Peter 02:21-23](https://door43.org/en/bible/notes/1pe/02/21)
+* [Jeremiah 02:12-13](https://door43.org/en/bible/notes/jer/02/12)
+* [Matthew 13:40-43](https://door43.org/en/bible/notes/mat/13/40)
+* [Psalm 058:1-2](https://door43.org/en/bible/notes/psa/058/001)
+

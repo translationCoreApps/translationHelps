@@ -14,3 +14,11 @@ The term "barley" refers to a kind of grain that is used to make bread.
 
 (See also: [grain](../other/grain.md) **·** [thresh](../other/thresh.md) **·** [wheat](../other/wheat.md))
 
+## Bible References: ##
+
+* [1 Chronicles 11:12-14](https://door43.org/en/bible/notes/1ch/11/12)
+* [Job 31:38-40](https://door43.org/en/bible/notes/job/31/38)
+* [Judges 07:13-14](https://door43.org/en/bible/notes/jdg/07/13)
+* [Numbers 05:15](https://door43.org/en/bible/notes/num/05/15)
+* [Revelation 06:5-6](https://door43.org/en/bible/notes/rev/06/05)
+

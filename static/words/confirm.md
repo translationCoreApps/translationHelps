@@ -13,3 +13,10 @@ The terms "confirm" and "confirmation" refer to stating or assuring that somethi
 
 (See also: [covenant](../kt/covenant.md) **·** [oath](../other/oath.md) **·** [trust](../kt/trust.md))
 
+## Bible References: ##
+
+* [1 Chronicles 16:15-18](https://door43.org/en/bible/notes/1ch/16/15)
+* [2 Corinthians 01:21-22](https://door43.org/en/bible/notes/2co/01/21)
+* [2 Kings 23:3](https://door43.org/en/bible/notes/2ki/23/03)
+* [Hebrews 06:16-18](https://door43.org/en/bible/notes/heb/06/16)
+

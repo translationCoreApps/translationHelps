@@ -11,3 +11,11 @@ A fig is a small, soft, sweet fruit that grows on trees. When ripe, this fruit c
 * The presence of fruitful fig trees is frequently mentioned in the Bible as a sign of prosperity.
 * Several times Jesus used fig trees as an illustration to teach his disciples spiritual truths.
 
+## Bible References: ##
+
+* [Habakkuk 03:17](https://door43.org/en/bible/notes/hab/03/17)
+* [James 03:11-12](https://door43.org/en/bible/notes/jas/03/11)
+* [Luke 13:6-7](https://door43.org/en/bible/notes/luk/13/06)
+* [Mark 11:13-14](https://door43.org/en/bible/notes/mrk/11/13)
+* [Matthew 07:15-17](https://door43.org/en/bible/notes/mat/07/15)
+* [Matthew 21:18-19](https://door43.org/en/bible/notes/mat/21/18)

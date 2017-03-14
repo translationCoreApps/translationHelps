@@ -14,3 +14,12 @@ Edom was another name for Esau. The region where he lived also became known as "
 
 (See also: [adversary](../other/adversary.md) **·** [birthright](../kt/birthright.md) **·** [esau](../other/esau.md) **·** [obadiah](../other/obadiah.md) **·** [prophet](../kt/prophet.md))
 
+## Bible References: ##
+
+* [Genesis 25:29-30](https://door43.org/en/bible/notes/gen/25/29)
+* [Genesis 32:3-5](https://door43.org/en/bible/notes/gen/32/03)
+* [Genesis 36:1-3](https://door43.org/en/bible/notes/gen/36/01)
+* [Isaiah 11:14-15](https://door43.org/en/bible/notes/isa/11/14)
+* [Joshua 11:16-17](https://door43.org/en/bible/notes/jos/11/16)
+* [Obadiah 01:1-2](https://door43.org/en/bible/notes/oba/01/01)
+

@@ -15,3 +15,10 @@ The term "purple" is the name of a color that is a mixture of blue and red.
 
 (See also: [ephod](../other/ephod.md) **·** [philippi](../other/philippi.md) **·** [royal](../other/royal.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
 
+## Bible References: ##
+
+* [2 Chronicles 02:13-14](https://door43.org/en/bible/notes/2ch/02/13)
+* [Daniel 05:7](https://door43.org/en/bible/notes/dan/05/07)
+* [Daniel 05:29-31](https://door43.org/en/bible/notes/dan/05/29)
+* [Proverbs 31:22-23](https://door43.org/en/bible/notes/pro/31/22)
+

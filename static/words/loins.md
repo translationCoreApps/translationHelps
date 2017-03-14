@@ -12,3 +12,11 @@ The term "loins" refers to the part of the body of an animal or person that is b
 
 (See also: [descendant](../other/descendant.md) **·** [gird](../other/gird.md) **·** [offspring](../other/offspring.md))
 
+## Bible References: ##
+
+* [1 Peter 01:13-14](https://door43.org/en/bible/notes/1pe/01/13)
+* [2 Chronicles 06:7-9](https://door43.org/en/bible/notes/2ch/06/07)
+* [Deuteronomy 33:11](https://door43.org/en/bible/notes/deu/33/11)
+* [Genesis 37:34-36](https://door43.org/en/bible/notes/gen/37/34)
+* [Job 15:27-28](https://door43.org/en/bible/notes/job/15/27)
+

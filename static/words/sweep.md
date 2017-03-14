@@ -11,3 +11,11 @@ The terms "sweep" and "swept" usually refer to a broad, quick movement to remove
 
 (See also: [assyria](../other/assyria.md) **·** [isaiah](../other/isaiah.md) **·** [judah](../other/judah.md) **·** [prophet](../kt/prophet.md))
 
+## Bible References: ##
+
+* [1 Kings 16:3-4](https://door43.org/en/bible/notes/1ki/16/03)
+* [Daniel 11:40-41](https://door43.org/en/bible/notes/dan/11/40)
+* [Genesis 18:24-26](https://door43.org/en/bible/notes/gen/18/24)
+* [Proverbs 21:7-8](https://door43.org/en/bible/notes/pro/21/07)
+* [Psalms 090:5-6](https://door43.org/en/bible/notes/psa/090/005)
+

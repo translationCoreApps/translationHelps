@@ -15,3 +15,12 @@ The names Kadesh, Kadesh-Barnea, and Meribah Kadesh all refer to an important ci
 
 (See also: [desert](../other/desert.md) **·** [edom](../other/edom.md) **·** [holy](../kt/holy.md))
 
+## Bible References: ##
+
+* [Ezekiel 48:27-29](https://door43.org/en/bible/notes/ezk/48/27)
+* [Genesis 14:7-9](https://door43.org/en/bible/notes/gen/14/07)
+* [Genesis 16:13-14](https://door43.org/en/bible/notes/gen/16/13)
+* [Genesis 20:1-3](https://door43.org/en/bible/notes/gen/20/01)
+* [Joshua 10:40-41](https://door43.org/en/bible/notes/jos/10/40)
+* [Numbers 20:1](https://door43.org/en/bible/notes/num/20/01)
+

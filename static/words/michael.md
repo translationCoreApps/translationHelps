@@ -13,3 +13,10 @@ Michael is the chief of all God's holy, obedient angels. He is the only angel wh
 
 (See also: [angel](../kt/angel.md) **·** [daniel](../other/daniel.md) **·** [messenger](../other/messenger.md) **·** [persia](../other/persia.md))
 
+## Bible References: ##
+
+* [Daniel 10:12-13](https://door43.org/en/bible/notes/dan/10/12)
+* [Daniel 10:20-21](https://door43.org/en/bible/notes/dan/10/20)
+* [Ezra 08:8-11](https://door43.org/en/bible/notes/ezr/08/08)
+* [Revelation 12:7-9](https://door43.org/en/bible/notes/rev/12/07)
+

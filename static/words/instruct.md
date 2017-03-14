@@ -12,3 +12,12 @@ The terms "instruct" and "instruction" refer to giving specific directions about
 
 (See also: [command](../other/command.md) **·** [decree](../other/decree.md) **·** [teach](../other/teach.md))
 
+## Bible References: ##
+
+* [Exodus 14:4-5](https://door43.org/en/bible/notes/exo/14/04)
+* [Genesis 26:4-5](https://door43.org/en/bible/notes/gen/26/04)
+* [Hebrews 11:20-22](https://door43.org/en/bible/notes/heb/11/20)
+* [Matthew 10:5-7](https://door43.org/en/bible/notes/mat/10/05)
+* [Matthew 11:1-3](https://door43.org/en/bible/notes/mat/11/01)
+* [Proverbs 01:28-30](https://door43.org/en/bible/notes/pro/01/28)
+

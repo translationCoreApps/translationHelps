@@ -10,3 +10,18 @@ The "Ten Commandments" were commands that God gave to Moses on Mount Sinai durin
 
 (See also: [arkofthecovenant](../other/arkofthecovenant.md) **·** [command](../other/command.md) **·** [covenant](../kt/covenant.md) **·** [desert](../other/desert.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [obey](../other/obey.md) **·** [sinai](../other/sinai.md) **·** [worship](../kt/worship.md))
 
+## Bible References: ##
+
+* [Deuteronomy 04:13-14](https://door43.org/en/bible/notes/deu/04/13)
+* [Deuteronomy 10:3-4](https://door43.org/en/bible/notes/deu/10/03)
+* [Exodus 34:27-28](https://door43.org/en/bible/notes/exo/34/27)
+* [Luke 18:18-21](https://door43.org/en/bible/notes/luk/18/18)
+
+## Examples from the Bible stories: ##
+
+  __*[13-07](https://door43.org/en/obs/notes/frames/13-07)__  Then God wrote these __Ten Commandments__ on two stone tablets and gave them to Moses.
+  __*[13-13](https://door43.org/en/obs/notes/frames/13-13)__  When Moses came down the mountain and saw the idol, he was so angry that he smashed the stones on which God had written the __Ten Commandments__. 
+  __*[13-15](https://door43.org/en/obs/notes/frames/13-15)__  Moses wrote the __Ten Commandments__ on new stone tablets to replace the ones he had broken.
+
+
+

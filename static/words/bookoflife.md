@@ -9,3 +9,10 @@ The term "Book of Life" is used to refer to where God has written the names of a
 
 (See also: [everlasting](../kt/everlasting.md) **·** [lamb](../kt/lamb.md) **·** [life](../kt/life.md) **·** [sacrifice](../kt/sacrifice.md) **·** [scroll](../other/scroll.md))
 
+## Bible References: ##
+
+* [Philippians 04:1-3](https://door43.org/en/bible/notes/php/04/01)
+* [Psalms 069:28-29](https://door43.org/en/bible/notes/psa/069/028)
+* [Revelation 03:5-6](https://door43.org/en/bible/notes/rev/03/05)
+* [Revelation 20:11-12](https://door43.org/en/bible/notes/rev/20/11)
+

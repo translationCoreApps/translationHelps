@@ -15,3 +15,12 @@ In the Bible, the term "beast" is often just another way of saying "animal."
 * [Prev chunk](../other/bathsheba.md): [publish-current](../other/bathsheba?do=diff&rev2[0]=1412187431&rev2[1]=&difftype=sidebyside.md)
 * [Next chunk](../other/beelzebul.md): [review-publish](../other/beelzebul?do=diff&rev2[0]=1414961608&rev2[1]=1415116965&difftype=sidebyside.md) | [publish-current](../other/beelzebul?do=diff&rev2[0]=1415116965&rev2[1]=&difftype=sidebyside.md)
 
+## Bible References: ##
+
+* [1 Corinthians 15:31-32](https://door43.org/en/bible/notes/1co/15/31)
+* [1 Samuel 17:44-45](https://door43.org/en/bible/notes/1sa/17/44)
+* [2 Chronicles 25:18-19](https://door43.org/en/bible/notes/2ch/25/18)
+* [Jeremiah 16:1-4](https://door43.org/en/bible/notes/jer/16/01)
+* [Leviticus 07:21](https://door43.org/en/bible/notes/lev/07/21)
+* [Psalms 049:12-13](https://door43.org/en/bible/notes/psa/049/012)
+

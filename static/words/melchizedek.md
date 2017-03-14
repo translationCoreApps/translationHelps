@@ -15,3 +15,10 @@ During the time when Abram lived, Melchizedek was the king of the city of Salem 
 
 (See also: [abraham](../other/abraham.md) **·** [eternity](../kt/eternity.md) **·** [highpriest](../kt/highpriest.md) **·** [jerusalem](../other/jerusalem.md) **·** [levite](../other/levite.md) **·** [priest](../kt/priest.md) **·** [righteous](../kt/righteous.md))
 
+## Bible References: ##
+
+* [Genesis 14:17-18](https://door43.org/en/bible/notes/gen/14/17)
+* [Hebrews 06:19-20](https://door43.org/en/bible/notes/heb/06/19)
+* [Hebrews 07:15-17](https://door43.org/en/bible/notes/heb/07/15)
+* [Psalm 110:4](https://door43.org/en/bible/notes/psa/110/004)
+

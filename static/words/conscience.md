@@ -10,3 +10,12 @@ The conscience is the part of a person's thinking through which God makes him aw
 * If someone ignores their conscience and no longer feels guilty when he sins, this means his conscience is no longer sensitive to what is wrong. The Bible calls this a "seared" conscience, one that is "branded" as if with a hot iron. Such a conscience is also called "insensitive" and "polluted."
 * Possible ways to translate this term could include, "inner moral guide" or "moral thinking."
 
+## Bible References: ##
+
+* [1 Timothy 01:18-20](https://door43.org/en/bible/notes/1ti/01/18)
+* [1 Timothy 03:8-10](https://door43.org/en/bible/notes/1ti/03/08)
+* [2 Corinthians 05:11-12](https://door43.org/en/bible/notes/2co/05/11)
+* [2 Timothy 01:3-5](https://door43.org/en/bible/notes/2ti/01/03)
+* [Romans 09:1-2](https://door43.org/en/bible/notes/rom/09/01)
+* [Titus 01:15-16](https://door43.org/en/bible/notes/tit/01/15)
+

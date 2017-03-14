@@ -11,3 +11,11 @@ The term "puffed up" is a figurative expression that refers to being proud or ar
 
 (See also: [arrogant](../other/arrogant.md) **·** [proud](../other/proud.md))
 
+## Bible References: ##
+
+* [1 Corinthians 04:6-7](https://door43.org/en/bible/notes/1co/04/06)
+* [1 Corinthians 08:1-3](https://door43.org/en/bible/notes/1co/08/01)
+* [2 Corinthians 12:6-7](https://door43.org/en/bible/notes/2co/12/06)
+* [Habakkuk 02:4-5](https://door43.org/en/bible/notes/hab/02/04)
+
+

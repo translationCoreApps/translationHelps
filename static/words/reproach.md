@@ -10,3 +10,12 @@ To reproach someone means to criticize or disapprove of that person's character 
 
 (See also: [accuse](../other/accuse.md) **·** [rebuke](../other/rebuke.md) **·** [shame](../other/shame.md))
 
+## Bible References: ##
+
+* [1 Timothy 05:7-8](https://door43.org/en/bible/notes/1ti/05/07)
+* [1 Timothy 06:13-14](https://door43.org/en/bible/notes/1ti/06/13)
+* [Jeremiah 15:15-16](https://door43.org/en/bible/notes/jer/15/15)
+* [Job 16:9-10](https://door43.org/en/bible/notes/job/16/09)
+* [Proverbs 18:3-4](https://door43.org/en/bible/notes/pro/18/03)
+
+

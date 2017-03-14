@@ -17,3 +17,22 @@ There were several Israelite men named Joshua in the Bible. The most well-known 
 
 (See also: [canaan](../other/canaan.md) **·** [haggai](../other/haggai.md) **·** [jericho](../other/jericho.md) **·** [moses](../other/moses.md) **·** [promisedland](../kt/promisedland.md) **·** [zechariahot](../other/zechariahot.md))
  
+## Bible References: ##
+
+* [1 Chronicles 07:25-27](https://door43.org/en/bible/notes/1ch/07/25)
+* [Deuteronomy 03:21-22](https://door43.org/en/bible/notes/deu/03/21)
+* [Exodus 17:8-10](https://door43.org/en/bible/notes/exo/17/08)
+* [Joshua 01:1-3](https://door43.org/en/bible/notes/jos/01/01)
+* [Numbers 27:18-19](https://door43.org/en/bible/notes/num/27/18)
+
+## Examples from the Bible stories: ##
+
+  __*[14-04](https://door43.org/en/obs/notes/frames/14-04)__ When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like.
+  __*[14-06](https://door43.org/en/obs/notes/frames/14-06)__  Immediately Caleb and __Joshua__, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them!"
+  __*[14-08](https://door43.org/en/obs/notes/frames/14-08)__ Except for __Joshua__ and Caleb, everyone who is twenty years old or older will die there and never enter the Promised Land."
+  __*[14-14](https://door43.org/en/obs/notes/frames/14-14)__ Moses was now very old, so God chose __Joshua__ to help him lead the people.  
+  __*[14-15](https://door43.org/en/obs/notes/frames/14-15)__ __Joshua__ was a good leader because he trusted and obeyed God. 
+  __*[15-03](https://door43.org/en/obs/notes/frames/15-03)__ After the people crossed the Jordan River, God told __Joshua__ how to attack the powerful city of Jericho. 
+
+
+

@@ -12,3 +12,10 @@ The term "royal" describes people and things which are associated with a king or
 
 (See also: [king](../other/king.md). [palace](../other/palace.md) **·** [priest](../kt/priest.md) **·** [purple](../other/purple.md) **·** [queen](../other/queen.md) **·** [robe](../other/robe.md))
 
+## Bible References: ##
+
+* [1 Kings 10:13](https://door43.org/en/bible/notes/1ki/10/13)
+* [2 Chronicles 18:28-30](https://door43.org/en/bible/notes/2ch/18/28)
+* [Amos 07:12-13](https://door43.org/en/bible/notes/amo/07/12)
+* [Genesis 49:19-21](https://door43.org/en/bible/notes/gen/49/19)
+

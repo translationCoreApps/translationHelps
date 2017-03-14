@@ -11,3 +11,10 @@ The term "psalm" refers to a sacred song, often in the form of a poem that was w
 
 (See also: [david](../other/david.md) **·** [faith](../kt/faith.md) **·** [joy](../kt/joy.md) **·** [moses](../other/moses.md) **·** [sacred](../other/sacred.md))
 
+## Bible References: ##
+
+* [Acts 13:32-34](https://door43.org/en/bible/notes/act/13/32)
+* [Acts 13:35-37](https://door43.org/en/bible/notes/act/13/35)
+* [Colossians 03:15-17](https://door43.org/en/bible/notes/col/03/15)
+* [Luke 20:41-44](https://door43.org/en/bible/notes/luk/20/41)
+

@@ -17,3 +17,12 @@ A crown is a decorative, circular headpiece worn on the head of rulers such as k
 
 (See also: [glory](../kt/glory.md) **·** [king](../other/king.md) **·** [olive](../other/olive.md))
 
+## Bible References: ##
+
+* [John 19:1-3](https://door43.org/en/bible/notes/jhn/19/01)
+* [Lamentations 05:15-16](https://door43.org/en/bible/notes/lam/05/15)
+* [Matthew 27:27-29](https://door43.org/en/bible/notes/mat/27/27)
+* [Philippians 04:1-3](https://door43.org/en/bible/notes/php/04/01)
+* [Psalms 021:3-4](https://door43.org/en/bible/notes/psa/021/003)
+* [Revelation 03:9-11](https://door43.org/en/bible/notes/rev/03/09)
+

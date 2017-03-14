@@ -12,3 +12,10 @@ The terms "disperse" and  "dispersion" refer to the scattering of people or thin
 
 (See also: [believer](../kt/believer.md) **·** [persecute](../other/persecute.md))
 
+## Bible References: ##
+
+* [1 Peter 01:1-2](https://door43.org/en/bible/notes/1pe/01/01)
+* [Ezekiel 12:14-16](https://door43.org/en/bible/notes/ezk/12/14)
+* [Ezekiel 30:22-24](https://door43.org/en/bible/notes/ezk/30/22)
+* [Psalms 018:13-14](https://door43.org/en/bible/notes/psa/018/013)
+

@@ -11,3 +11,10 @@ The term "dung" refers to human or animal solid waste, and is also called feces 
 
 (See also: [gate](../kt/gate.md))
 
+## Bible References: ##
+
+* [1 Kings 14:9-10](https://door43.org/en/bible/notes/1ki/14/09)
+* [2 Kings 06:24-26](https://door43.org/en/bible/notes/2ki/06/24)
+* [Isaiah 25:9-10](https://door43.org/en/bible/notes/isa/25/09)
+* [Jeremiah 08:1-3](https://door43.org/en/bible/notes/jer/08/01)
+

@@ -12,3 +12,10 @@ Apollos was a Jew from the city of Alexandria in Egypt who had a special ability
 
 (See also: [aquila](../other/aquila.md) **·** [ephesus](../other/ephesus.md) **·** [priscilla](../other/priscilla.md) **·** [wordofgod](../kt/wordofgod.md))
 
+## Bible References: ##
+
+* [1 Corinthians 01:12-13](https://door43.org/en/bible/notes/1co/01/12)
+* [1 Corinthians 16:10-12](https://door43.org/en/bible/notes/1co/16/10)
+* [Acts 18:24-26](https://door43.org/en/bible/notes/act/18/24)
+* [Titus 03:12-13](https://door43.org/en/bible/notes/tit/03/12)
+

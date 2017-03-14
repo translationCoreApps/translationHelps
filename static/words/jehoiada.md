@@ -13,3 +13,8 @@ Jehoiada was a priest who helped hide and protect King Ahaziah's son Joash until
 
 (See also: [ahaziah](../other/ahaziah.md) **·** [baal](../other/baal.md) **·** [benaiah](../other/benaiah.md) **·** [joash](../other/joash.md))
 
+## Bible References: ##
+
+* [2 Kings 11:4-6](https://door43.org/en/bible/notes/2ki/11/04)
+* [2 Kings 12:1-3](https://door43.org/en/bible/notes/2ki/12/01)
+

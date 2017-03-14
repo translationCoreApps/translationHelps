@@ -17,3 +17,11 @@ Manna was a white, grain-like food that God provided for the Israelites to eat d
 
 (See also: [bread](../other/bread.md) **·** [desert](../other/desert.md) **·** [grain](../other/grain.md) **·** [heaven](../kt/heaven.md) **·** [sabbath](../kt/sabbath.md))
 
+## Bible References: ##
+
+* [Deuteronomy 08:3](https://door43.org/en/bible/notes/deu/08/03)
+* [Exodus 16:26-27](https://door43.org/en/bible/notes/exo/16/26)
+* [Hebrews 09:3-5](https://door43.org/en/bible/notes/heb/09/03)
+* [John 06:30-31](https://door43.org/en/bible/notes/jhn/06/30)
+* [Joshua 05:12](https://door43.org/en/bible/notes/jos/05/12)
+

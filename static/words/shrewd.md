@@ -8,3 +8,5 @@ The term "shrewd" describes a person who is intelligent and clever, especially i
 * A shrewd person is usually focused on helping himself, not others.
 * Other ways to translate this term could include "cunning" or "crafty" or "smart" or "clever," depending on the context.
 
+## Bible References: ##
+

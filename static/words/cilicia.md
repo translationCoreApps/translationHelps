@@ -12,3 +12,10 @@ Cilicia was a small Roman province located in the southeastern part of what is n
 
 (See also: [Paul](../other/paul.md) **·** [Stephen](../other/stephen.md) **·** [Tarsus](../other/tarsus.md))
 
+## Bible References: ##
+
+* [Acts 06:8-9](https://door43.org/en/bible/notes/act/06/08)
+* [Acts 15:39-41](https://door43.org/en/bible/notes/act/15/39)
+* [Acts 27:3-6](https://door43.org/en/bible/notes/act/27/03)
+* [Galatians 01:21-24](https://door43.org/en/bible/notes/gal/01/21)
+

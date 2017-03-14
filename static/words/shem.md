@@ -12,3 +12,13 @@ Shem was one of Noah's three sons who went with him into the ark during the worl
 
 (See also: [abraham](../other/abraham.md) **·** [arabia](../other/arabia.md) **·** [ark](../other/ark.md) **·** [flood](../other/flood.md),[Noah](../other/Noah.md))
 
+## Bible References: ##
+
+* [Genesis 05:32](https://door43.org/en/bible/notes/gen/05/32)
+* [Genesis 06:9-10](https://door43.org/en/bible/notes/gen/06/09)
+* [Genesis 07:13-14](https://door43.org/en/bible/notes/gen/07/13)
+* [Genesis 10:1](https://door43.org/en/bible/notes/gen/10/01)
+* [Genesis 10:30-31](https://door43.org/en/bible/notes/gen/10/30)
+* [Genesis 11:10-11](https://door43.org/en/bible/notes/gen/11/10)
+* [Luke 03:36-38](https://door43.org/en/bible/notes/luk/03/36)
+

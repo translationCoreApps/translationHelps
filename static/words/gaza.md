@@ -13,3 +13,12 @@ During Bible times, Gaza was a prosperous Philistine city located on the coast o
 
 (See also: [Ashdod](../other/Ashdod.md) **·** [philip](../other/philip.md) **·** [philistines](../other/philistines.md) **·** [ethiopia](../other/ethiopia.md) **·** [Gath](../other/Gath.md))
 
+## Bible References: ##
+
+* [1 Kings 04:24-25](https://door43.org/en/bible/notes/1ki/04/24)
+* [Acts 08:26-28](https://door43.org/en/bible/notes/act/08/26)
+* [Genesis 10:19-20](https://door43.org/en/bible/notes/gen/10/19)
+* [Joshua 10:40-41](https://door43.org/en/bible/notes/jos/10/40)
+* [Judges 06:3-4](https://door43.org/en/bible/notes/jdg/06/03)
+
+

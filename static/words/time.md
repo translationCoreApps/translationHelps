@@ -13,3 +13,12 @@ In the Bible the term "time" is often used figuratively to refer to a specific s
 
 (See also: [age](../other/age.md) **·** [tribulation](../other/tribulation.md))
 
+## Bible References: ##
+
+* [Acts 01:6-8](https://door43.org/en/bible/notes/act/01/06)
+* [Daniel 12:1-2](https://door43.org/en/bible/notes/dan/12/01)
+* [Mark 11:11-12](https://door43.org/en/bible/notes/mrk/11/11)
+* [Matthew 08:28-29](https://door43.org/en/bible/notes/mat/08/28)
+* [Psalms 068:28-29](https://door43.org/en/bible/notes/psa/068/028)
+* [Revelation 14:14-16](https://door43.org/en/bible/notes/rev/14/14)
+

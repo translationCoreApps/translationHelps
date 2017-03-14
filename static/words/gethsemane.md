@@ -11,3 +11,8 @@ Gethsemane was a garden of olive trees east of Jerusalem beyond the Kidron valle
 
 (See also: [judasiscariot](../other/judasiscariot.md) **·** [kidronvalley](../other/kidronvalley.md) **·** [mountofolives](../other/mountofolives.md))
 
+## Bible References: ##
+
+* [Mark 14:32-34](https://door43.org/en/bible/notes/mrk/14/32)
+* [Matthew 26:36-38](https://door43.org/en/bible/notes/mat/26/36)
+

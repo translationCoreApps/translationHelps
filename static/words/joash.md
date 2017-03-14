@@ -15,3 +15,11 @@ Joash was the name of several men in the Old Testament.
 
 (See also: [ahaziah](../other/ahaziah.md) **·** [altar](../other/altar.md) **·** [benjamin](../other/benjamin.md) **·** [falsegod](../kt/falsegod.md) **·** [gideon](../other/gideon.md) **·** [highplaces](../other/highplaces.md) **·** [idol](../other/idol.md))
 
+## Bible References: ##
+
+* [1 Chronicles 03:10-12](https://door43.org/en/bible/notes/1ch/03/10)
+* [2 Chronicles 18:25-27](https://door43.org/en/bible/notes/2ch/18/25)
+* [2 Kings 11:1-3](https://door43.org/en/bible/notes/2ki/11/01)
+* [Amos 01:1-2](https://door43.org/en/bible/notes/amo/01/01)
+* [Judges 06:11-12](https://door43.org/en/bible/notes/jdg/06/11)
+

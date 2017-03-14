@@ -11,3 +11,10 @@ The term "hour" is often used in the Bible to tell what time of day a certain ev
 * The phrase, "in that hour" could be translated as, "at that time" or "in that moment."
 * Referring to Jesus, the expression "his hour had come" could be translated as, "the time had come for him to" or "the appointed time for him had come."
 
+## Bible References: ## 
+
+* [Acts 02:14-15](https://door43.org/en/bible/notes/act/02/14)
+* [John 04:51-52](https://door43.org/en/bible/notes/jhn/04/51)
+* [Luke 23:44-45](https://door43.org/en/bible/notes/luk/23/44)
+* [Matthew 20:3-4](https://door43.org/en/bible/notes/mat/20/03)
+

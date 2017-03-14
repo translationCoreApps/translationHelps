@@ -17,3 +17,12 @@ The terms "honor" and "to honor" refer to giving someone respect, esteem, or rev
  
 (See also: [dishonor](../other/dishonor.md) **·** [glory](../kt/glory.md) **·** [glorify](../kt/glorify.md) **·** [praise](../other/praise.md))
 
+## Bible References: ##
+
+* [1 Samuel 02:8](https://door43.org/en/bible/notes/1sa/02/08)
+* [Acts 19:15-17](https://door43.org/en/bible/notes/act/19/15)
+* [John 04:43-45](https://door43.org/en/bible/notes/jhn/04/43)
+* [John 12:25-26](https://door43.org/en/bible/notes/jhn/12/25)
+* [Mark 06:4-6](https://door43.org/en/bible/notes/mrk/06/04)
+* [Matthew 15:4-6](https://door43.org/en/bible/notes/mat/15/04)
+

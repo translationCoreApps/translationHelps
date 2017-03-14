@@ -11,3 +11,23 @@ The tribe of Judah was the largest of the twelve tribes of Israel. The kingdom o
 
 (See also: [judah](../other/judah.md) **·** [saltsea](../other/saltsea.md))
 
+## Bible References: ##
+
+* [1 Samuel 30:26-28](https://door43.org/en/bible/notes/1sa/30/26)
+* [2 Samuel 12:7-8](https://door43.org/en/bible/notes/2sa/12/07)
+* [Hosea 05:14-15](https://door43.org/en/bible/notes/hos/05/14)
+* [Jeremiah 07:33-34](https://door43.org/en/bible/notes/jer/07/33)
+* [Judges 01:16-17](https://door43.org/en/bible/notes/jdg/01/16)
+
+## Examples from the Bible stories: ##
+
+  __*[18-07](https://door43.org/en/obs/notes/frames/18-07)__ Only two tribes remained faithful to him (Rehoboam). These two tribes became the __kingdom of Judah__.\\
+  __*[18-10](https://door43.org/en/obs/notes/frames/18-10)__ The __kingdoms of Judah__ and Israel became enemies and often fought against each other.\\
+  __*[18-13](https://door43.org/en/obs/notes/frames/18-13)__ The __kings of Judah__ were descendants of David. Some of these kings were good men who ruled justly and worshiped God. But most of __Judah's__ kings were evil, corrupt, and they worshiped idols.\\
+  __*[20-01](https://door43.org/en/obs/notes/frames/20-01)__ The __kingdoms of Israel and Judah__ both sinned against God.\\
+  __*[20-05](https://door43.org/en/obs/notes/frames/20-05)__ The people in the __kingdom of Judah__ saw how God had punished the people of the kingdom of Israel for not believing and obeying him. But they still worshiped idols, including the gods of the Canaanites.\\
+  __*[20-06](https://door43.org/en/obs/notes/frames/20-06)__ About 100 years after the Assyrians destroyed the kingdom of Israel, God sent Nebuchadnezzar, king of the Babylonians, to attack the __kingdom of Judah__.\\
+  __*[20-09](https://door43.org/en/obs/notes/frames/20-09)__ Nebuchadnezzar and his army took almost all of the people of __the kingdom of Judah__ to Babylon, leaving only the poorest people behind to plant the fields.\\
+
+
+

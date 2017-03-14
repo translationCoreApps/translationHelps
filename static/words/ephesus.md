@@ -14,3 +14,11 @@ Ephesus was an ancient Greek city on the west coast of what is now the present-d
 
 (See also: [asia](../other/asia.md) **·** [paul](../other/paul.md) **·** [timothy](../other/timothy.md))
 
+## Bible References: ##
+
+* [1 Corinthians 15:31-32](https://door43.org/en/bible/notes/1co/15/31)
+* [1 Timothy 01:3-4](https://door43.org/en/bible/notes/1ti/01/03)
+* [2 Timothy 04:11-13](https://door43.org/en/bible/notes/2ti/04/11)
+* [Acts 19:1-2](https://door43.org/en/bible/notes/act/19/01)
+* [Ephesians 01:1-2](https://door43.org/en/bible/notes/eph/01/01)
+

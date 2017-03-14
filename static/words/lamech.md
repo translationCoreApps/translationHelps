@@ -11,3 +11,12 @@ Lamech was the name of two men mentioned in the book of Genesis.
 
 (See also: [cain](../other/cain.md), , [noah](../other/noah.md) **·** [seth](../other/seth.md))
 
+## Bible References: ##
+
+* [Genesis 04:18-19](https://door43.org/en/bible/notes/gen/04/18)
+* [Genesis 04:23-24](https://door43.org/en/bible/notes/gen/04/23)
+* [Genesis 05:25-27](https://door43.org/en/bible/notes/gen/05/25)
+* [Genesis 05:28-29](https://door43.org/en/bible/notes/gen/05/28)
+* [Genesis 05:30-31](https://door43.org/en/bible/notes/gen/05/30)
+* [Luke 03:36-38](https://door43.org/en/bible/notes/luk/03/36)
+

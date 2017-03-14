@@ -13,3 +13,12 @@ These terms refer to a special wooden chest, overlaid with gold, that contained 
 
 (See also: [ark](../other/ark.md) **·** [covenant](../kt/covenant.md) **·** [atonement](../kt/atonement.md) **·** [holyplace](../kt/holyplace.md) **·** [testimony](../kt/testimony.md) **·** [witness](../kt/witness.md))
 
+## Bible References: ##
+
+* [1 Samuel 06:14-15](https://door43.org/en/bible/notes/1sa/06/14)
+* [Exodus 25:10-11](https://door43.org/en/bible/notes/exo/25/10)
+* [Hebrews 09:3-5](https://door43.org/en/bible/notes/heb/09/03)
+* [Judges 20:27-28](https://door43.org/en/bible/notes/jdg/20/27)
+* [Numbers 07:89](https://door43.org/en/bible/notes/num/07/89)
+* [Revelation 11:19](https://door43.org/en/bible/notes/rev/11/19)
+

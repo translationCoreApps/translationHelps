@@ -16,3 +16,12 @@ A goat is a medium-sized, four-legged animal which is similar to a sheep and is 
 
 (See also: [flock](../other/flock.md) **·** [sacrifice](../other/sacrifice.md) **·** [sheep](../other/sheep.md) **·** [unrighteous](../kt/unrighteous.md) **·** [wine](../other/wine.md))
 
+## Bible References: ##
+
+* [Exodus 12:3-4](https://door43.org/en/bible/notes/exo/12/03)
+* [Genesis 30:31-32](https://door43.org/en/bible/notes/gen/30/31)
+* [Genesis 31:10-11](https://door43.org/en/bible/notes/gen/31/10)
+* [Genesis 37:31-33](https://door43.org/en/bible/notes/gen/37/31)
+* [Leviticus 03:12-14](https://door43.org/en/bible/notes/lev/03/12)
+* [Matthew 25:31-33](https://door43.org/en/bible/notes/mat/25/31)
+

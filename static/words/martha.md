@@ -12,3 +12,9 @@ Martha was a woman from Bethany who followed Jesus.
 
 (See also: [lazarus](../other/lazarus.md) **·** [marysisterofmartha](../other/marysisterofmartha.md))
 
+## Bible References: ##
+
+* [John 11:1-2](https://door43.org/en/bible/notes/jhn/11/01)
+* [John 12:1-3](https://door43.org/en/bible/notes/jhn/12/01)
+* [Luke 10:38-39](https://door43.org/en/bible/notes/luk/10/38)
+

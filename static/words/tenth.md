@@ -11,3 +11,13 @@ The terms "tenth" and "tithe" refer to "ten percent" or "one-out-of-ten portion"
 
 (See also: [believer](../kt/believer.md) **·** [israel](../other/israel.md) **·** [levite](../other/levite.md) **·** [livestock](../other/livestock.md) **·** [melchizedek](../other/melchizedek.md) **·** [minister](../kt/minister.md) **·** [sacrifice](../other/sacrifice.md)  [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
 
+## Bible References: ##
+
+* [Genesis 14:19-20](https://door43.org/en/bible/notes/gen/14/19)
+* [Genesis 28:20-22](https://door43.org/en/bible/notes/gen/28/20)
+* [Hebrews 07:4-6](https://door43.org/en/bible/notes/heb/07/04)
+* [Isaiah 06:13](https://door43.org/en/bible/notes/isa/06/13)
+* [Luke 11:42](https://door43.org/en/bible/notes/luk/11/42)
+* [Luke 18:11-12](https://door43.org/en/bible/notes/luk/18/11)
+* [Matthew 23:23-24](https://door43.org/en/bible/notes/mat/23/23)
+

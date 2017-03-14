@@ -13,3 +13,9 @@ Luke was the author of two books of the New Testament: the gospel of Luke and th
 
 (See also: [Antioch](../other/Antioch.md) **·** [paul](../other/paul.md) **·** [syria](../other/syria.md))
 
+## Bible References: ##
+
+* [2 Timothy 04:11-13](https://door43.org/en/bible/notes/2ti/04/11)
+* [Colossians 04:12-14](https://door43.org/en/bible/notes/col/04/12)
+* [Philemon 01:23-25](https://door43.org/en/bible/notes/phm/01/23)
+

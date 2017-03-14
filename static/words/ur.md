@@ -11,3 +11,8 @@ Ur was an important city along the Euphrates River in the ancient region of Chal
 
 (See also: [abraham](../other/abraham.md) **·** [canaan](../other/canaan.md) **·** [chaldeans](../other/chaldeans.md) **·** [euphrates](../other/euphrates.md) **·** [haran](../other/haran.md) **·** [lot](../other/lot.md) **·** [mesopotamia](../other/mesopotamia.md))
 
+## Bible References: ##
+
+* [Genesis 11:27-28](https://door43.org/en/bible/notes/gen/11/27)
+* [Genesis 11:31-32](https://door43.org/en/bible/notes/gen/11/31)
+

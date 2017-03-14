@@ -17,3 +17,12 @@ Other figurative meanings of "run":
 
 (See also: [falsegod](../kt/falsegod.md) **·** [perseverance](../other/perseverance.md) **·** [refuge](../kt/refuge.md) **·** [turn](../kt/turn.md))
 
+## Bible References: ##
+
+* [1 Corinthians 06:18](https://door43.org/en/bible/notes/1co/06/18)
+* [Galatians 02:1-2](https://door43.org/en/bible/notes/gal/02/01)
+* [Galatians 05:5-8](https://door43.org/en/bible/notes/gal/05/05)
+* [Philippians 02:14-16](https://door43.org/en/bible/notes/php/02/14)
+* [Proverbs 01:15-17](https://door43.org/en/bible/notes/pro/01/15)
+
+

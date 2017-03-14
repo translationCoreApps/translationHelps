@@ -10,3 +10,9 @@ The term "week" literally refers to a period of time lasting seven days.
 
 (See also: [pentecost](../other/pentecost.md))
 
+## Bible References: ##
+
+* [Acts 20:7-8](https://door43.org/en/bible/notes/act/20/07)
+* [Deuteronomy 16:9-10](https://door43.org/en/bible/notes/deu/16/09)
+* [Leviticus 23:15-16](https://door43.org/en/bible/notes/lev/23/15)
+

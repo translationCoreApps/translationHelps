@@ -13,3 +13,12 @@ In the Bible, the term "tunic" refers to a garment that was worn next to the ski
 
 (See Also: [robe](../other/robe.md))
 
+## Bible References: ##
+
+* [Daniel 03:21-23](https://door43.org/en/bible/notes/dan/03/21)
+* [Isaiah 22:20-22](https://door43.org/en/bible/notes/isa/22/20)
+* [Leviticus 08:12-13](https://door43.org/en/bible/notes/lev/08/12)
+* [Luke 03:10-11](https://door43.org/en/bible/notes/luk/03/10)
+* [Mark 06:7-9](https://door43.org/en/bible/notes/mrk/06/07)
+* [Matthew 10:8-10](https://door43.org/en/bible/notes/mat/10/08)
+

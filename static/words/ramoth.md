@@ -13,3 +13,10 @@ Ramoth was an important city in the mountains of Gilead near the Jordan River. I
 
 (See also: [ahab](../other/ahab.md) **·** [ahaziah](../other/ahaziah.md) **·** [aram](../other/aram.md) **·** [gad](../other/gad.md) **·** [jehoshaphat](../other/jehoshaphat.md) **·** [jehu](../other/jehu.md) **·** [joram](../other/joram.md) **·** [jordanriver](../other/jordanriver.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [refuge](../kt/refuge.md))
 
+## Bible References: ##
+
+* [1 Chronicles 06:71-73](https://door43.org/en/bible/notes/1ch/06/71)
+* [1 Kings 22:3-4](https://door43.org/en/bible/notes/1ki/22/03)
+* [2 Chronicles 18:1-3](https://door43.org/en/bible/notes/2ch/18/01)
+* [2 Kings 08:28-29](https://door43.org/en/bible/notes/2ki/08/28)
+

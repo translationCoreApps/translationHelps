@@ -15,3 +15,11 @@ The term , "cattle" refers to a kind of large, four-legged farm animal that eats
 
 (See also: [heifer](../other/heifer.md) **·** [ox](../other/ox.md) **·** [yoke](../other/yoke.md))
 
+## Bible References: ##
+
+* [1 Kings 01:9-10](https://door43.org/en/bible/notes/1ki/01/09)
+* [1 Samuel 01:24-25](https://door43.org/en/bible/notes/1sa/01/24)
+* [2 Chronicles 11:13-15](https://door43.org/en/bible/notes/2ch/11/13)
+* [Luke 13:15-16](https://door43.org/en/bible/notes/luk/13/15)
+* [Matthew 22:4](https://door43.org/en/bible/notes/mat/22/04)
+

@@ -13,3 +13,9 @@ Ruth was a Moabite woman who married an Israelite man who had moved to Moab with
 
 (See also: [bethlehem](../other/bethlehem.md) **·** [boaz](../other/boaz.md) **·** [david](../other/david.md) **·** [judgeposition](../other/judgeposition.md) **·** [naomi](../other/naomi.md))
 
+## Bible References: ##
+
+* [Matthew 01:4-6](https://door43.org/en/bible/notes/mat/01/04)
+* [Ruth 01:3-5](https://door43.org/en/bible/notes/rut/01/03)
+* [Ruth 03:8-9](https://door43.org/en/bible/notes/rut/03/08)
+* [Ruth 04:5-6](https://door43.org/en/bible/notes/rut/04/05)

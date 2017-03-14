@@ -10,3 +10,8 @@ A "meal offering" or "grain offering" was a sacrifice to God in the form of grai
 
 (See also: [burntoffering](../other/burntoffering.md) **·** [grain](../other/grain.md) **·** [sacrifice](../other/sacrifice.md))
 
+## Bible References: ##
+
+* [Ezekiel 44:30-31](https://door43.org/en/bible/notes/ezk/44/30)
+* [Joel 02:14](https://door43.org/en/bible/notes/jol/02/14)
+

@@ -10,3 +10,11 @@ An "ox" refers to a type of cattle that is specifically trained to do agricultur
 
 (See also: [cow](../other/cow.md) **·** [yoke](../other/yoke.md))
 
+## Bible References: ##
+
+* [1 Samuel 15:1-3](https://door43.org/en/bible/notes/1sa/15/01)
+* [2 Chronicles 15:10-11](https://door43.org/en/bible/notes/2ch/15/10)
+* [Exodus 24:5-6](https://door43.org/en/bible/notes/exo/24/05)
+* [Luke 14:4-6](https://door43.org/en/bible/notes/luk/14/04)
+* [Matthew 22:4](https://door43.org/en/bible/notes/mat/22/04)
+

@@ -18,3 +18,11 @@ The term "destiny" refers to what will happen to people in the future. If someon
 
 (See also: [captive](../other/captive.md) **·** [eternity](../kt/eternity.md) **·** [heaven](../kt/heaven.md) **·** [hell](../kt/hell.md) **·** [johnthebaptist](../other/johnthebaptist.md) **·** [repent](../kt/repent.md),)
 
+## Bible References: ##
+
+* [1 Thessalonians 05:8-11](https://door43.org/en/bible/notes/1th/05/08)
+* [Ecclesiastes 02:13-14](https://door43.org/en/bible/notes/ecc/02/13)
+* [Hebrews 09:27-28](https://door43.org/en/bible/notes/heb/09/27)
+* [Philippians 03:17-19](https://door43.org/en/bible/notes/php/03/17)
+* [Psalms 009:17-18](https://door43.org/en/bible/notes/psa/009/017)
+

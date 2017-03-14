@@ -12,3 +12,12 @@ The term "scepter" refers to an ornamental rod or staff held by a ruler, such as
 
 (See also: [authority](../kt/authority.md) **·** [christ](../kt/christ.md) **·** [king](../other/king.md) **·** [righteous](../kt/righteous.md))
 
+## Bible References: ##
+
+* [Amos 01:5](https://door43.org/en/bible/notes/amo/01/05)
+* [Esther 04:9-12](https://door43.org/en/bible/notes/est/04/09)
+* [Genesis 49:10](https://door43.org/en/bible/notes/gen/49/10)
+* [Hebrews 01:8-9](https://door43.org/en/bible/notes/heb/01/08)
+* [Numbers 21:17-18](https://door43.org/en/bible/notes/num/21/17)
+* [Psalms 045:5-7](https://door43.org/en/bible/notes/psa/045/005)
+

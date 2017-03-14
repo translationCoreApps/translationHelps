@@ -11,3 +11,8 @@ In Old Testament times, a "cupbearer" was a king's servant who was given the tas
 
 (See also: [artaxerxes](../other/artaxerxes.md) **·** [babylon](../other/babylon.md) **·** [captive](../other/captive.md) **·** [persia](../other/persia.md) **·** [pharaoh](../other/pharaoh.md))
 
+## Bible References: ##
+
+* [1 Kings 10:3-5](https://door43.org/en/bible/notes/1ki/10/03)
+* [Nehemiah 01:10-11](https://door43.org/en/bible/notes/neh/01/10)
+

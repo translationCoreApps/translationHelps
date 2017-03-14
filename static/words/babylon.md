@@ -13,3 +13,22 @@ The city of Babylon was the capital of the ancient region of Babylonia, which wa
 
 (See also: [babel](../other/babel.md) **·** [chaldeans](../other/chaldeans.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [nebuchadnezzar](../other/nebuchadnezzar.md))
 
+## Bible References: ##
+
+* [1 Chronicles 09:1-3](https://door43.org/en/bible/notes/1ch/09/01)
+* [2 Kings 17:24-26](https://door43.org/en/bible/notes/2ki/17/24)
+* [Acts 07:43](https://door43.org/en/bible/notes/act/07/43)
+* [Daniel 01:1-2](https://door43.org/en/bible/notes/dan/01/01)
+* [Ezekiel 12:11-13](https://door43.org/en/bible/notes/ezk/12/11)
+* [Matthew 01:9-11](https://door43.org/en/bible/notes/mat/01/09)
+* [Matthew 01:15-17](https://door43.org/en/bible/notes/mat/01/15)
+
+## Examples from the Bible stories: ##
+
+* __[20-06](https://door43.org/en/obs/notes/frames/20-06)__ About 100 years after the Assyrians destroyed the kingdom of Israel, God sent Nebuchadnezzar, king of the __Babylonians__, to attack the kingdom of Judah. __Babylon__  was a powerful empire.
+* __[20-07](https://door43.org/en/obs/notes/frames/20-07)__ But after a few years, the king of Judah rebelled against __Babylon__. So, the __Babylonians__  came back and attacked the kingdom of Judah. They captured the city of Jerusalem, destroyed the Temple, and took away all the treasures of the city and the Temple.
+* __[20-09](https://door43.org/en/obs/notes/frames/20-09)__ Nebuchadnezzar and his army took almost all of the people of the kingdom of Judah to __Babylon__, leaving only the poorest people behind to plant the fields.
+* __[20-11](https://door43.org/en/obs/notes/frames/20-11)__ About seventy years later, Cyrus, the king of the Persians, defeated __Babylon__.
+
+
+

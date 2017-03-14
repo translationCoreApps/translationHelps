@@ -11,3 +11,9 @@ The terms "Peor" and "Mount Peor" refer to a mountain located northeast of the S
 
 (See also: [baal](../other/baal.md) **·** [falsegod](../kt/falsegod.md) **·** [moab](../other/moab.md) **·** [saltsea](../other/saltsea.md) **·** [worship](../kt/worship.md))
 
+## Bible References: ##
+
+* [Numbers 23:28-30](https://door43.org/en/bible/notes/num/23/28)
+* [Numbers 31:16-17](https://door43.org/en/bible/notes/num/31/16)
+* [Psalms 106:28-29](https://door43.org/en/bible/notes/psa/106/028)
+

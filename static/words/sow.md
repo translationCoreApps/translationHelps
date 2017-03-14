@@ -17,3 +17,11 @@ To "sow" means to put seeds in the ground in order to grow plants. A "sower" is 
 
 (See also: [evil](../kt/evil.md) **·** [good](../kt/good.md) **·** [reap](../other/reap.md))
 
+## Bible References: ##
+
+* [Galatians 06:6-8](https://door43.org/en/bible/notes/gal/06/06)
+* [Luke 08:4-6](https://door43.org/en/bible/notes/luk/08/04)
+* [Matthew 06:25-26](https://door43.org/en/bible/notes/mat/06/25)
+* [Matthew 13:3-6](https://door43.org/en/bible/notes/mat/13/03)
+* [Matthew 13:18-19](https://door43.org/en/bible/notes/mat/13/18)
+* [Matthew 25:24-25](https://door43.org/en/bible/notes/mat/25/24)

@@ -14,3 +14,12 @@ Damascus is the capital city of the country of Syria. It is still in the same lo
 
 (See also: [aram](../other/aram.md) **·** [assyria](../other/assyria.md) **·** [believer](../kt/believer.md) **·** [syria](../other/syria.md))
 
+## Bible References: ##
+
+* [2 Chronicles 24:23-24](https://door43.org/en/bible/notes/2ch/24/23)
+* [Acts 09:1-2](https://door43.org/en/bible/notes/act/09/01)
+* [Acts 09:3-4](https://door43.org/en/bible/notes/act/09/03)
+* [Acts 26:12-14](https://door43.org/en/bible/notes/act/26/12)
+* [Galatians 01:15-17](https://door43.org/en/bible/notes/gal/01/15)
+* [Genesis 14:15-16](https://door43.org/en/bible/notes/gen/14/15)
+

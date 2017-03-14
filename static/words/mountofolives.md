@@ -13,3 +13,11 @@ The Mount of Olives is a mountain or large hill located near the east side of th
 
 (See also: [gethsemane](../other/gethsemane.md) **·** [olive](../other/olive.md))
 
+## Bible References: ##
+
+* [Luke 19:29-31](https://door43.org/en/bible/notes/luk/19/29)
+* [Luke 19:37-38](https://door43.org/en/bible/notes/luk/19/37)
+* [Mark 13:3-4](https://door43.org/en/bible/notes/mrk/13/03)
+* [Matthew 21:1-3](https://door43.org/en/bible/notes/mat/21/01)
+* [Matthew 24:3-5](https://door43.org/en/bible/notes/mat/24/03)
+* [Matthew 26:30-32](https://door43.org/en/bible/notes/mat/26/30)

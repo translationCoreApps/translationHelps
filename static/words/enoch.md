@@ -12,3 +12,11 @@ Enoch is the name of two men in the Old Testament.
 
 (See also: [cain](../other/cain.md) **·** [seth](../other/seth.md))
 
+## Bible References: ##
+
+* [1 Chronicles 01:1-4](https://door43.org/en/bible/notes/1ch/01/01)
+* [Genesis 05:18-20](https://door43.org/en/bible/notes/gen/05/18)
+* [Genesis 05:21-24](https://door43.org/en/bible/notes/gen/05/21)
+* [Jude 01:14-16](https://door43.org/en/bible/notes/jud/01/14)
+* [Luke 03:36-38](https://door43.org/en/bible/notes/luk/03/36)
+

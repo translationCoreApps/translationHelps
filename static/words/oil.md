@@ -10,3 +10,12 @@ Oil is a thick, clear liquid that is taken from certain plants or fruits. In Bib
 
 (See also: [olive](../other/olive.md) **·** [sacrifice](../other/sacrifice.md)))
 
+## Bible References: ##
+
+* [2 Samuel 01:21-22](https://door43.org/en/bible/notes/2sa/01/21)
+* [Exodus 29:1-2](https://door43.org/en/bible/notes/exo/29/01)
+* [Leviticus 05:11](https://door43.org/en/bible/notes/lev/05/11)
+* [Leviticus 08:1-3](https://door43.org/en/bible/notes/lev/08/01)
+* [Mark 06:12-13](https://door43.org/en/bible/notes/mrk/06/12)
+* [Matthew 25:7-9](https://door43.org/en/bible/notes/mat/25/07)
+

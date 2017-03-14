@@ -13,3 +13,13 @@ Capernaum was a fishing village on the northwest shore of the Sea of Galilee.
 
 (See also: [galilee](../other/galilee.md) **·** [seaofgalilee](../other/seaofgalilee.md))
 
+## Bible References: ##
+
+* [John 02:12](https://door43.org/en/bible/notes/jhn/02/12)
+* [Luke 04:31-32](https://door43.org/en/bible/notes/luk/04/31)
+* [Luke 07:1](https://door43.org/en/bible/notes/luk/07/01)
+* [Mark 01:21-22](https://door43.org/en/bible/notes/mrk/01/21)
+* [Mark 02:1-2](https://door43.org/en/bible/notes/mrk/02/01)
+* [Matthew 04:12-13](https://door43.org/en/bible/notes/mat/04/12)
+* [Matthew 17:24-25](https://door43.org/en/bible/notes/mat/17/24)
+

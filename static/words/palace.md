@@ -11,3 +11,11 @@ The term "palace" refers to the building or house where a king lived, along with
 
 (See also: [courtyard](../other/courtyard.md) **·** [highpriest](../kt/highpriest.md) **·** [king](../other/king.md))
 
+## Bible References: ##
+
+* [2 Chronicles 28:7-8](https://door43.org/en/bible/notes/2ch/28/07)
+* [2 Samuel 11:2-3](https://door43.org/en/bible/notes/2sa/11/02)
+* [Daniel 05:5-6](https://door43.org/en/bible/notes/dan/05/05)
+* [Matthew 26:3-5](https://door43.org/en/bible/notes/mat/26/03)
+* [Psalms 045:8-9](https://door43.org/en/bible/notes/psa/045/008)
+

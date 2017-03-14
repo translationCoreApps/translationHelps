@@ -11,3 +11,8 @@ The term "gird" means to fasten something around something else. It often refers
 
 (See also: [loins](../other/loins.md))
 
+## Bible References: ##
+
+* [1 Peter 01:13-14](https://door43.org/en/bible/notes/1pe/01/13)
+* [Job 38:1-3](https://door43.org/en/bible/notes/job/38/01)
+

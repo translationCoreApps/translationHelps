@@ -12,3 +12,13 @@ The term "Gentile" refers to anyone who is not a Jew. Gentiles are people who ar
 
 (See also: [Israel, Israelites, nation of Israel](../other/israel.md),[Jacob, Israel](../other/jacob.md) **·** [Jew, Jewish](../other/jew.md))
 
+## Bible References: ##
+
+* [Acts 09:13-16](https://door43.org/en/bible/notes/act/09/13)
+* [Acts 14:5-7](https://door43.org/en/bible/notes/act/14/05)
+* [Galatians 02:15-16](https://door43.org/en/bible/notes/gal/02/15)
+* [Luke 02:30-32](https://door43.org/en/bible/notes/luk/02/30)
+* [Matthew 05:46-48](https://door43.org/en/bible/notes/mat/05/46)
+* [Matthew 06:5-7](https://door43.org/en/bible/notes/mat/06/05)
+* [Romans 11:25](https://door43.org/en/bible/notes/rom/11/25)
+

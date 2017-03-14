@@ -10,3 +10,12 @@ Usually the term "eunuch" refers to a man who has been castrated. The term later
 
 (See also: [Philip the evangelist](../other/philip.md))
 
+## Bible References: ##
+
+* [Acts 08:26-28](https://door43.org/en/bible/notes/act/08/26)
+* [Acts 08:36-38](https://door43.org/en/bible/notes/act/08/36)
+* [Acts 08:39-40](https://door43.org/en/bible/notes/act/08/39)
+* [Isaiah 39:7-8](https://door43.org/en/bible/notes/isa/39/07)
+* [Jeremiah 34:17-19](https://door43.org/en/bible/notes/jer/34/17)
+* [Matthew 19:10-12](https://door43.org/en/bible/notes/mat/19/10)
+

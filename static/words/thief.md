@@ -11,3 +11,11 @@ The terms "thief" and "thieves" refer in general to people who steal money or pr
 
 (See also: [bless](../kt/bless.md) **·** [criminal](../other/criminal.md) **·** [crucify](../kt/crucify.md) **·** [darkness](../kt/darkness.md),[destroyer](../other/destroyer.md) **·** [power](../kt/power.md) **·** [samaria](../other/samaria.md) **·** [satan](../kt/satan.md))
 
+## Bible References: ##
+
+* [2 Peter 03:10](https://door43.org/en/bible/notes/2pe/03/10)
+* [Luke 12:33-34](https://door43.org/en/bible/notes/luk/12/33)
+* [Mark 14:47-50](https://door43.org/en/bible/notes/mrk/14/47)
+* [Proverbs 06:30-31](https://door43.org/en/bible/notes/pro/06/30)
+* [Revelation 03:3-4](https://door43.org/en/bible/notes/rev/03/03)
+

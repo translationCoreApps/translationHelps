@@ -12,3 +12,11 @@ In Bible times, the city of Joppa was an important commercial seaport located on
 
 (See also: [mediterranean](../other/mediterranean.md) **·** [jerusalem](../other/jerusalem.md) **·** [sharon](../other/sharon.md) **·** [tarshish](../other/tarshish.md)) 
 
+## Bible References: ##
+
+* [Acts 09:36-37](https://door43.org/en/bible/notes/act/09/36)
+* [Acts 10:7-8](https://door43.org/en/bible/notes/act/10/07)
+* [Acts 11:4-6](https://door43.org/en/bible/notes/act/11/04)
+* [Acts 11:11-14](https://door43.org/en/bible/notes/act/11/11)
+* [Jonah 01:1-3](https://door43.org/en/bible/notes/jon/01/01)
+

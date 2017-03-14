@@ -21,3 +21,10 @@ The terms "comfort" and "comforter" refer to helping someone who is suffering ph
 
 (See also: [encourage](../other/encourage.md) **·** [holyspirit](../kt/holyspirit.md))
 
+## Bible References: ##
+
+* [1 Thessalonians 05:8-11](https://door43.org/en/bible/notes/1th/05/08)
+* [2 Corinthians 01:3-4](https://door43.org/en/bible/notes/2co/01/03)
+* [2 Samuel 10:1-3](https://door43.org/en/bible/notes/2sa/10/01)
+* [Acts 20:11-12](https://door43.org/en/bible/notes/act/20/11)
+

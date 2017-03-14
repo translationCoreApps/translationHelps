@@ -11,3 +11,9 @@ Potiphar was an important official for the pharaoh of Egypt during the time that
 
 (See also: [egypt](../other/egypt.md) **·** [josephot](../other/josephot.md) **·** [pharaoh](../other/pharaoh.md))
 
+## Bible References: ##
+
+* [Genesis 37:34-36](https://door43.org/en/bible/notes/gen/37/34)
+* [Genesis 39:1-2](https://door43.org/en/bible/notes/gen/39/01)
+* [Genesis 39:13-15](https://door43.org/en/bible/notes/gen/39/13)
+

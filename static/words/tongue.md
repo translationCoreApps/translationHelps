@@ -21,3 +21,12 @@ There are several figurative meanings of "tongue" in the Bible.
 
 (See also: [gift](../kt/gift.md) **·** [holyspirit](../kt/holyspirit.md) **·** [joy](../kt/joy.md) **·** [praise](../other/praise.md) **·** [rejoice](../other/rejoice.md) **·** [spirit](../kt/spirit.md))
 
+## Bible References: ##
+
+* [1 Corinthians 12:9-11](https://door43.org/en/bible/notes/1co/12/09)
+* [1 John 03:16-18](https://door43.org/en/bible/notes/1jn/03/16)
+* [2 Samuel 23:1-2](https://door43.org/en/bible/notes/2sa/23/01)
+* [Acts 02:25-26](https://door43.org/en/bible/notes/act/02/25)
+* [Ezekiel 36:1-3](https://door43.org/en/bible/notes/ezk/36/01)
+* [Philippians 02:9-11](https://door43.org/en/bible/notes/php/02/09)
+

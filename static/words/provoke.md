@@ -9,3 +9,7 @@ The term "provoke" means to cause someone to experience a negative reaction or f
 
 (See also: [angry](../other/angry.md))
 
+## Bible References: ##
+
+* [Ezekiel 20:27-29](https://door43.org/en/bible/notes/ezk/20/27)
+

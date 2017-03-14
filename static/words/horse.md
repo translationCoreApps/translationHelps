@@ -11,3 +11,11 @@ A horse is a large, four-legged animal that in Bible times was mostly used for d
   
 (See also: [chariot](../other/chariot.md), , [donkey](../other/donkey.md) **·** [solomon](../other/solomon.md))
 
+## Bible References: ##
+
+* [1 Chronicles 18:3-4](https://door43.org/en/bible/notes/1ch/18/03)
+* [2 Kings 02:11-12](https://door43.org/en/bible/notes/2ki/02/11)
+* [Exodus 14:23-25](https://door43.org/en/bible/notes/exo/14/23)
+* [Ezekiel 23:5-7](https://door43.org/en/bible/notes/ezk/23/05)
+* [Zechariah 06:7-8](https://door43.org/en/bible/notes/zec/06/07)
+

@@ -13,3 +13,10 @@ Zadok was the name of an important high priest in Israel during the reign of Kin
 
 (See also: [arkofthecovenant](../other/arkofthecovenant.md) **·** [david](../other/david.md) **·** [jotham](../other/jotham.md) **·** [nehemiah](../other/nehemiah.md) **·** [reign](../other/reign.md) **·** [solomon](../other/solomon.md))
 
+## Bible References: ##
+
+* [1 Chronicles 24:1-3](https://door43.org/en/bible/notes/1ch/24/01)
+* [1 Kings 01:26-27](https://door43.org/en/bible/notes/1ki/01/26)
+* [2 Samuel 15:24-26](https://door43.org/en/bible/notes/2sa/15/24)
+* [Matthew 01:12-14](https://door43.org/en/bible/notes/mat/01/12)
+

@@ -13,3 +13,12 @@ Chaldea was a region in the southern part of Mesopotamia or Babylonia. The peopl
 
 (See also: [Abraham](../other/abraham.md) **·** [Babylon](../other/babylon.md) **·** [Shinar](../other/shinar.md) **·** [Ur](../other/ur.md))
 
+## Bible References: ##
+
+* [Acts 07:4-5](https://door43.org/en/bible/notes/act/07/04)
+* [Ezekiel 01:1-3](https://door43.org/en/bible/notes/ezk/01/01)
+* [Genesis 11:27-28](https://door43.org/en/bible/notes/gen/11/27)
+* [Genesis 11:31-32](https://door43.org/en/bible/notes/gen/11/31)
+* [Genesis 15:6-8](https://door43.org/en/bible/notes/gen/15/06)
+* [Isaiah 13:19-20](https://door43.org/en/bible/notes/isa/13/19)
+

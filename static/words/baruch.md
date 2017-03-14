@@ -12,3 +12,9 @@ Baruch is the name of several men in the Old Testament.
 
 (See also: [disciple](../kt/disciple.md) **·** [jeremiah](../other/jeremiah.md), , [jerusalem](../other/jerusalem.md) **·** [nehemiah](../other/nehemiah.md) **·** [prophet](../kt/prophet.md))
 
+## Bible References: ##
+
+* [Jeremiah 32:10-12](https://door43.org/en/bible/notes/jer/32/10)
+* [Jeremiah 36:4-6](https://door43.org/en/bible/notes/jer/36/04)
+* [Jeremiah 43:1-3](https://door43.org/en/bible/notes/jer/43/01)
+

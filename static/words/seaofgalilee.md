@@ -14,3 +14,14 @@ The "Sea of Galilee" is the name of a lake in eastern Israel. In the Old Testame
 
 (See also: [capernaum](../other/capernaum.md) **·** [galilee](../other/galilee.md) **·** [jordanriver](../other/jordanriver.md) **·** [saltsea](../other/saltsea.md))
 
+## Bible References: ##
+
+* [John 06:1-3](https://door43.org/en/bible/notes/jhn/06/01)
+* [Luke 05:1-3](https://door43.org/en/bible/notes/luk/05/01)
+* [Mark 01:16-18](https://door43.org/en/bible/notes/mrk/01/16)
+* [Matthew 04:12-13](https://door43.org/en/bible/notes/mat/04/12)
+* [Matthew 04:18-20](https://door43.org/en/bible/notes/mat/04/18)
+* [Matthew 08:18-20](https://door43.org/en/bible/notes/mat/08/18)
+* [Matthew 13:1-2](https://door43.org/en/bible/notes/mat/13/01)
+* [Matthew 15:29-31](https://door43.org/en/bible/notes/mat/15/29)
+

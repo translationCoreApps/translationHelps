@@ -18,3 +18,13 @@ The term "earth" refers to the world that human beings live on, along with all o
 
 (See also: [spirit](../kt/spirit.md) **·** [world](../kt/world.md))
 
+## Bible References: ##
+
+* [1 Kings 01:38-40](https://door43.org/en/bible/notes/1ki/01/38)
+* [2 Chronicles 02:11-12](https://door43.org/en/bible/notes/2ch/02/11)
+* [Daniel 04:35](https://door43.org/en/bible/notes/dan/04/35)
+* [Luke 12:51-53](https://door43.org/en/bible/notes/luk/12/51)
+* [Matthew 06:8-10](https://door43.org/en/bible/notes/mat/06/08)
+* [Matthew 11:25-27](https://door43.org/en/bible/notes/mat/11/25)
+* [Zechariah 06:5-6](https://door43.org/en/bible/notes/zec/06/05)
+

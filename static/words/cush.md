@@ -12,3 +12,11 @@ Cush was the oldest son of Noah's son Ham. He was also the ancestor of Nimrod. T
 
 (See also: [arabia](../other/arabia.md) **·** [canaan](../other/canaan.md) **·** [egypt](../other/egypt.md) **·** [ethiopia](../other/ethiopia.md))
 
+## Bible References: ##
+
+* [1 Chronicles 01:8-10](https://door43.org/en/bible/notes/1ch/01/08)
+* [Ezekiel 29:8-10](https://door43.org/en/bible/notes/ezk/29/08)
+* [Genesis 02:13-14](https://door43.org/en/bible/notes/gen/02/13)
+* [Genesis 10:6-7](https://door43.org/en/bible/notes/gen/10/06)
+* [Jeremiah 13:22-24](https://door43.org/en/bible/notes/jer/13/22)
+

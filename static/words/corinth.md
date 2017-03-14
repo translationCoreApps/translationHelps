@@ -14,3 +14,10 @@ Corinth was a city in the country of Greece, about 50 miles west of Athens. The 
 
 (See also: [apollos](../other/apollos.md) **·** [timothy](../other/timothy.md), :en:obe:other:titus])
 
+## Bible References: ##
+
+* [1 Corinthians 01:1-3](https://door43.org/en/bible/notes/1co/01/01)
+* [2 Corinthians 01:23-24](https://door43.org/en/bible/notes/2co/01/23)
+* [2 Timothy 04:19-22](https://door43.org/en/bible/notes/2ti/04/19)
+* [Acts 18:1-3](https://door43.org/en/bible/notes/act/18/01)
+

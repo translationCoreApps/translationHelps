@@ -14,3 +14,11 @@ The terms "encourage" and encouragement" refer to saying and doing things to cau
 
 (See also: [exhort](../kt/exhort.md))
 
+## Bible References: ##
+
+* [1 Corinthians 14:1-4](https://door43.org/en/bible/notes/1co/14/01)
+* [2 Corinthians 07:13-14](https://door43.org/en/bible/notes/2co/07/13)
+* [Acts 16:40](https://door43.org/en/bible/notes/act/16/40)
+* [Deuteronomy 01:37-38](https://door43.org/en/bible/notes/deu/01/37)
+* [Hebrews 03:12-13](https://door43.org/en/bible/notes/heb/03/12)
+

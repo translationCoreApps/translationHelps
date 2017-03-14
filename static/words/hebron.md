@@ -12,3 +12,13 @@ Hebron was a city located in the high, rocky hills about 20 miles south of Jerus
 
 (See also: [absalom](../other/absalom.md))
 
+## Bible References: ##
+
+* [2 Samuel 02:10-11](https://door43.org/en/bible/notes/2sa/02/10)
+* [Genesis 13:16-18](https://door43.org/en/bible/notes/gen/13/16)
+* [Genesis 23:1-2](https://door43.org/en/bible/notes/gen/23/01)
+* [Genesis 35:26-27](https://door43.org/en/bible/notes/gen/35/26)
+* [Genesis 37:12-14](https://door43.org/en/bible/notes/gen/37/12)
+* [Judges 01:8-10](https://door43.org/en/bible/notes/jdg/01/08)
+* [Numbers 13:21-22](https://door43.org/en/bible/notes/num/13/21)
+

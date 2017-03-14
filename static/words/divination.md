@@ -11,3 +11,12 @@ The terms "divination" and "soothsaying" refer to the practice of trying to get 
 
 (See also: [apostle](../kt/apostle.md) **·** [falsegod](../kt/falsegod.md) **·** [magic](../other/magic.md) **·** [sorcery](../other/sorcery.md))
 
+## Bible References: ##
+
+* [1 Samuel 06:1-2](https://door43.org/en/bible/notes/1sa/06/01)
+* [Acts 16:16-18](https://door43.org/en/bible/notes/act/16/16)
+* [Ezekiel 12:24-25](https://door43.org/en/bible/notes/ezk/12/24)
+* [Genesis 44:3-5](https://door43.org/en/bible/notes/gen/44/03)
+* [Jeremiah 27:9-11](https://door43.org/en/bible/notes/jer/27/09)
+
+

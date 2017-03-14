@@ -11,3 +11,8 @@ The term "abyss" refers to a very large, deep hole or chasm that has no bottom.
 
 (See Also: [hades](../other/hades.md) **·** [hell](../kt/hell.md) **·** [punish](../other/punish.md))
 
+## Bible References: ##
+
+* [Luke 08:30-31](https://door43.org/en/bible/notes/luk/08/30)
+* [Romans 10:6-7](https://door43.org/en/bible/notes/rom/10/06)
+

@@ -11,3 +11,9 @@ The term "contempt" refers to a deep disrespect and dishonor that is shown towar
 
 (See also: [dishonor](../other/dishonor.md))
 
+## Bible References: ##
+
+* [Daniel 12:1-2](https://door43.org/en/bible/notes/dan/12/01)
+* [Proverbs 15:5-6](https://door43.org/en/bible/notes/pro/15/05)
+* [Psalms 031:17-18](https://door43.org/en/bible/notes/psa/031/017)
+

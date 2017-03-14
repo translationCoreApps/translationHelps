@@ -14,3 +14,10 @@ The term Gilgal was a town north of Jericho and was the first place that the Isr
 
 (See also: [elijah](../other/elijah.md), , [elisha](../other/elisha.md) **·** [jericho](../other/jericho.md) **·** [jordanriver](../other/jordanriver.md))
 
+## Bible References: ##
+
+* [1 Samuel 07:15-17](https://door43.org/en/bible/notes/1sa/07/15)
+* [2 Kings 02:1-2](https://door43.org/en/bible/notes/2ki/02/01)
+* [Hosea 04:15-16](https://door43.org/en/bible/notes/hos/04/15)
+* [Judges 02:1-2](https://door43.org/en/bible/notes/jdg/02/01)
+

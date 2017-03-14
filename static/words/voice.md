@@ -11,3 +11,11 @@ The term "voice" is often used figuratively to refer to speaking or communicatin
 
 (See also: [call](../kt/call.md) **·** [proclaim](../other/proclaim.md) **·** [splendor](../other/splendor.md)
 
+## Bible References: ##
+
+* [John 05:36-38](https://door43.org/en/bible/notes/jhn/05/36)
+* [Luke 01:42-45](https://door43.org/en/bible/notes/luk/01/42)
+* [Luke 09:34-36](https://door43.org/en/bible/notes/luk/09/34)
+* [Matthew 03:16-17](https://door43.org/en/bible/notes/mat/03/16)
+* [Matthew 12:19-21](https://door43.org/en/bible/notes/mat/12/19)
+

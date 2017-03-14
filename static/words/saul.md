@@ -12,3 +12,19 @@ Saul was an Israelite man whom God chose to become the first king of Israel.
 
 (See also: [king](../other/king.md))
 
+## Bible References: ##
+
+* [1 Chronicles 10:1-3](https://door43.org/en/bible/notes/1ch/10/01)
+* [1 Samuel 09:1-2](https://door43.org/en/bible/notes/1sa/09/01)
+* [2 Samuel 01:1-2](https://door43.org/en/bible/notes/2sa/01/01)
+* [Acts 13:21-22](https://door43.org/en/bible/notes/act/13/21)
+* [Psalm 018:1](https://door43.org/en/bible/notes/psa/018/001)
+
+## Examples from the Bible stories: ##
+
+  __*[17-01](https://door43.org/en/obs/notes/frames/17-01)__ __Saul__ was the first king of Israel. He was tall and handsome, just like the people wanted. __Saul__ was a good king for the first few years that he ruled over Israel. But then he became a wicked man who did not obey God, so God chose a different man who would one day be king in his place.
+  __*[17-04](https://door43.org/en/obs/notes/frames/17-04)__ __Saul__ became jealous of the people's love for David. __Saul__ tried many times to kill him, so David hid from __Saul__. 
+  __*[17-05](https://door43.org/en/obs/notes/frames/17-05)__ Eventually, __Saul__ died in battle, and David became king of Israel.
+
+
+

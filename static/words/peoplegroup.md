@@ -21,3 +21,22 @@ The term "peoples" or "people groups" refers to groups of people who share a com
 
 (See also: [descendant](../other/descendant.md) **·** [nation](../other/nation.md) **·** [tribe](../other/tribe.md) **·** [world](../kt/world.md))
 
+## Bible References: ##
+
+* [1 Kings 08:51-53](https://door43.org/en/bible/notes/1ki/08/51)
+* [1 Samuel 08:6-7](https://door43.org/en/bible/notes/1sa/08/06)
+* [Deuteronomy 28:9-10](https://door43.org/en/bible/notes/deu/28/09)
+* [Genesis 49:16-18](https://door43.org/en/bible/notes/gen/49/16)
+* [Ruth 01:16-18](https://door43.org/en/bible/notes/rut/01/16)
+
+## Examples from the Bible stories: ##
+
+* __[14-02](https://door43.org/en/obs/notes/frames/14-02)__ God had promised Abraham, Isaac, and Jacob that he would give the Promised Land to their descendants, but now there were many __people groups__  living there. what follows is
+* __[21-02](https://door43.org/en/obs/notes/frames/21-02)__ God promised Abraham that through him all __people groups__  of the world would receive a blessing. This blessing would be that the Messiah would come sometime in the future and provide the way of salvation for people from all the __people groups__  of the world.
+* __[42-08](https://door43.org/en/obs/notes/frames/42-08)__"It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all __people groups__  everywhere."
+* __[42-10](https://door43.org/en/obs/notes/frames/42-10)__"So go, make disciples of all __people groups__  by baptizing them in the name of the Father, the Son, and the Holy Spirit and by teaching them to obey everything I have commanded you."
+* __[48-11](https://door43.org/en/obs/notes/frames/48-11)__ Because of this New Covenant, anyone from any __people group__  can become part of God's people by believing in Jesus.
+* __[50-03](https://door43.org/en/obs/notes/frames/50-03)__ He (Jesus) said, "Go and make disciples of all __people groups__!" and, "The fields are ripe for harvest!"
+
+
+

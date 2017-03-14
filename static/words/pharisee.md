@@ -12,3 +12,14 @@ The Pharisees were an important, powerful group of Jewish religious leaders in J
 
 (See also: [council](../other/council.md) **·** [jewishleaders](../other/jewishleaders.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [sadducee](../other/sadducee.md))
 
+## Bible References: ##
+
+* [Acts 26:4-5](https://door43.org/en/bible/notes/act/26/04)
+* [John 03:1-2](https://door43.org/en/bible/notes/jhn/03/01)
+* [Luke 11:43-44](https://door43.org/en/bible/notes/luk/11/43)
+* [Matthew 03:7-9](https://door43.org/en/bible/notes/mat/03/07)
+* [Matthew 05:19-20](https://door43.org/en/bible/notes/mat/05/19)
+* [Matthew 09:10-11](https://door43.org/en/bible/notes/mat/09/10)
+* [Matthew 12:1-2](https://door43.org/en/bible/notes/mat/12/01)
+* [Matthew 12:38-40](https://door43.org/en/bible/notes/mat/12/38)
+* [Philippians 03:4-5](https://door43.org/en/bible/notes/php/03/04)

@@ -14,3 +14,10 @@ Rimmon is the name of a man and of several places mentioned in the Bible. It was
 
 (See also: [benjamin](../other/benjamin.md) **·** [judea](../other/judea.md) **·** [naaman](../other/naaman.md) **·** [syria](../other/syria.md) **·** [zebulun](../other/zebulun.md))
 
+## Bible References: ##
+
+* [2 Kings 05:17-19](https://door43.org/en/bible/notes/2ki/05/17)
+* [2 Samuel 04:5-7](https://door43.org/en/bible/notes/2sa/04/05)
+* [Judges 20:45-46](https://door43.org/en/bible/notes/jdg/20/45)
+* [Judges 21:13-15](https://door43.org/en/bible/notes/jdg/21/13)
+

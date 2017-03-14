@@ -10,3 +10,10 @@ The terms "cry" or cry out" often mean to say something loudly and urgently. Som
 
 (See also: [call](../kt/call.md) **·** [plead](../other/plead.md))
 
+## Bible References: ##
+
+* [Job 27:8-10](https://door43.org/en/bible/notes/job/27/08)
+* [Mark 05:5-6](https://door43.org/en/bible/notes/mrk/05/05)
+* [Mark 06:48-50](https://door43.org/en/bible/notes/mrk/06/48)
+* [Psalm 022:1-2](https://door43.org/en/bible/notes/psa/022/001)
+

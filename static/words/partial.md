@@ -12,3 +12,11 @@ The terms "be partial" and "show partiality" refer to making a choice to treat c
 
 (See also: [favor](../kt/favor.md))
 
+## Bible References: ##
+
+* [Deuteronomy 01:17-18](https://door43.org/en/bible/notes/deu/01/17)
+* [Malachi 02:8-9](https://door43.org/en/bible/notes/mal/02/08)
+* [Mark 12:13-15](https://door43.org/en/bible/notes/mrk/12/13)
+* [Matthew 22:15-17](https://door43.org/en/bible/notes/mat/22/15)
+* [Romans 02:10-12](https://door43.org/en/bible/notes/rom/02/10)
+

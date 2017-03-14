@@ -14,3 +14,12 @@ A council is a group of people who meet to discuss, give advice, and make decisi
 
 (See also: [assembly](../kt/assembly.md) **·** [counselor](../other/counselor.md) **·** [pharisee](../other/pharisee.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [priest](../kt/priest.md) **·** [sadducee](../other/sadducee.md) **·** [scribe](../other/scribe.md))
 
+## Bible References: ##
+
+* [Acts 07:57-58](https://door43.org/en/bible/notes/act/07/57)
+* [Acts 24:20-21](https://door43.org/en/bible/notes/act/24/20)
+* [John 03:1-2](https://door43.org/en/bible/notes/jhn/03/01)
+* [Luke 22:66-68](https://door43.org/en/bible/notes/luk/22/66)
+* [Mark 13:9-10](https://door43.org/en/bible/notes/mrk/13/09)
+* [Matthew 05:21-22](https://door43.org/en/bible/notes/mat/05/21)
+* [Matthew 26:59-61](https://door43.org/en/bible/notes/mat/26/59)

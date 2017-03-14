@@ -10,3 +10,12 @@ The terms "patient" and "patience" refer to persevering through difficult circum
 
 (See also: [endure](../kt/endure.md) **·** [forgive](../kt/forgive.md) **·** [perseverance](../other/perseverance.md))
 
+## Bible References: ##
+
+* [1 Peter 03:18-20](https://door43.org/en/bible/notes/1pe/03/18)
+* [2 Peter 03:8-9](https://door43.org/en/bible/notes/2pe/03/08)
+* [Hebrews 06:11-12](https://door43.org/en/bible/notes/heb/06/11)
+* [Matthew 18:28-29](https://door43.org/en/bible/notes/mat/18/28)
+* [Psalms 037:7](https://door43.org/en/bible/notes/psa/037/007)
+* [Revelation 02:1-2](https://door43.org/en/bible/notes/rev/02/01)
+

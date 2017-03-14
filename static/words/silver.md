@@ -12,3 +12,11 @@ Silver is a shiny, gray precious metal used to make coins, jewelry, containers, 
 
 (See also: [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
 
+## Bible References: ##
+
+* [1 Chronicles 18:9-11](https://door43.org/en/bible/notes/1ch/18/09)
+* [1 Samuel 02:36](https://door43.org/en/bible/notes/1sa/02/36)
+* [2 Kings 25:13-15](https://door43.org/en/bible/notes/2ki/25/13)
+* [Acts 03:4-6](https://door43.org/en/bible/notes/act/03/04)
+* [Matthew 26:14-16](https://door43.org/en/bible/notes/mat/26/14)
+

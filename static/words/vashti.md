@@ -11,3 +11,9 @@ In the Old Testament book of Esther, Vashti was the wife of Ahasuerus, king of P
 
 (See also: [ahasuerus](../other/ahasuerus.md) **·** [esther](../other/esther.md) **·** [persia](../other/persia.md))
 
+## Bible References: ##
+
+* [Esther 01:9-11](https://door43.org/en/bible/notes/est/01/09)
+* [Esther 02:1-2](https://door43.org/en/bible/notes/est/02/01)
+* [Esther 02:17-18](https://door43.org/en/bible/notes/est/02/17)
+

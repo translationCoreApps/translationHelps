@@ -12,3 +12,10 @@ Moab was the son of Lot's elder daughter. It also became the name of the land wh
 
 (See also: [bethlehem](../other/bethlehem.md) **·** [judea](../other/judea.md) **·** [lot](../other/lot.md) **·** [ruth](../other/ruth.md) **·** [saltsea](../other/saltsea.md))
 
+## Bible References: ##
+
+* [Genesis 19:36-38](https://door43.org/en/bible/notes/gen/19/36)
+* [Genesis 36:34-36](https://door43.org/en/bible/notes/gen/36/34)
+* [Ruth 01:1-2](https://door43.org/en/bible/notes/rut/01/01)
+* [Ruth 01:22](https://door43.org/en/bible/notes/rut/01/22)
+

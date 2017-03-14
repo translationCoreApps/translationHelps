@@ -16,3 +16,13 @@ Bread is a food made from flour mixed with water and oil to form a dough. The do
 
 (See also: [passover](../kt/passover.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md) **·** [unleavenedbread](../kt/unleavenedbread.md) **·** [yeast](../other/yeast.md)) 
 
+## Bible References: ##
+
+* [Acts 02:46-47](https://door43.org/en/bible/notes/act/02/46)
+* [Acts 27:33-35](https://door43.org/en/bible/notes/act/27/33)
+* [Exodus 16:13-15](https://door43.org/en/bible/notes/exo/16/13)
+* [Luke 09:12-14](https://door43.org/en/bible/notes/luk/09/12)
+* [Mark 06:37-38](https://door43.org/en/bible/notes/mrk/06/37)
+* [Matthew 04:1-4](https://door43.org/en/bible/notes/mat/04/01)
+* [Matthew 11:18-19](https://door43.org/en/bible/notes/mat/11/18)
+

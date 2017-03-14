@@ -12,3 +12,10 @@ Eliakim was the name of two men in the Old Testament.
 
 (See also: [hezekiah](../other/hezekiah.md) **·** [jehoiakim](../other/jehoiakim.md) **·** [josiah](../other/josiah.md) **·** [pharaoh](../other/pharaoh.md))
 
+## Bible References: ##
+
+* [2 Kings 18:16-18](https://door43.org/en/bible/notes/2ki/18/16)
+* [2 Kings 18:26-27](https://door43.org/en/bible/notes/2ki/18/26)
+* [2 Kings 18:36-37](https://door43.org/en/bible/notes/2ki/18/36)
+* [2 Kings 23:34-35](https://door43.org/en/bible/notes/2ki/23/34)
+

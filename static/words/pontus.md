@@ -12,3 +12,8 @@ Pontus was a Roman province during the time of the Roman Empire and the early Ch
 
 (See also: [aquila](../other/aquila.md) **·** [pentecost](../other/pentecost.md)) 
 
+## Bible References: ##
+
+* [1 Peter 01:1-2](https://door43.org/en/bible/notes/1pe/01/01)
+* [Acts 02:8-11](https://door43.org/en/bible/notes/act/02/08)
+

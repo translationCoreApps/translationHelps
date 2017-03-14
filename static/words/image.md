@@ -17,3 +17,11 @@ These terms are all used to refer to idols that have been made for worshiping a 
 
 (See also: [falsegod](../kt/falsegod.md) **·** [god](../kt/god.md) **·** [idol](../other/idol.md) **·** [imageofgod](../kt/imageofgod.md))
 
+## Bible References: ##
+
+* [1 Kings 14:9-10](https://door43.org/en/bible/notes/1ki/14/09)
+* [Acts 07:43](https://door43.org/en/bible/notes/act/07/43)
+* [Isaiah 21:8-9](https://door43.org/en/bible/notes/isa/21/08)
+* [Matthew 22:20-22](https://door43.org/en/bible/notes/mat/22/20)
+* [Romans 01:22-23](https://door43.org/en/bible/notes/rom/01/22)
+

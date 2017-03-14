@@ -17,3 +17,7 @@ A mold is a hollowed-out piece of wood, metal, or clay that is used to form obje
 
 (See also: [falsegod](../kt/falsegod.md) **·** [gold](../other/gold.md) **·** [idol](../other/idol.md) **·** [silver](../other/silver.md))
 
+## Bible References: ##
+
+* [Exodus 32:3-4](https://door43.org/en/bible/notes/exo/32/03)
+

@@ -11,3 +11,10 @@ The term "lover" literally means "person who loves." Usually this refers to peop
  
 (See also: [adultery](../kt/adultery.md) **·** [falsegod](../kt/falsegod.md) **·** [idol](../other/idol.md) **·** [love](../kt/love.md))
 
+## Bible References: ##
+
+* [Hosea 02:4-5](https://door43.org/en/bible/notes/hos/02/04)
+* [Jeremiah 03:1-2](https://door43.org/en/bible/notes/jer/03/01)
+* [Lamentations 01:1-2](https://door43.org/en/bible/notes/lam/01/01)
+* [Luke 16:14-15](https://door43.org/en/bible/notes/luk/16/14)
+

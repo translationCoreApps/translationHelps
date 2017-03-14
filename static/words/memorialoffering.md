@@ -14,3 +14,11 @@ The term "memorial" refers to an action or object that causes someone or somethi
 * This could also be translated as, "lasting reminder."
 * A "memorial stone" could be translated as, a "stone to remind them (of something)."
 
+## Bible References: ##
+
+* [Acts 10:3-6](https://door43.org/en/bible/notes/act/10/03)
+* [Exodus 12:12-14](https://door43.org/en/bible/notes/exo/12/12)
+* [Isaiah 66:3](https://door43.org/en/bible/notes/isa/66/03)
+* [Joshua 04:6-7](https://door43.org/en/bible/notes/jos/04/06)
+* [Leviticus 23:23-25](https://door43.org/en/bible/notes/lev/23/23)
+

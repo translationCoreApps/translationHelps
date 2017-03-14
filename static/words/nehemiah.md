@@ -14,3 +14,10 @@ Nehemiah was an Israelite living in the Babylonian empire when the people of Isr
 
 (See also: [artaxerxes](../other/artaxerxes.md) **·** [babylon](../other/babylon.md) **·** [jerusalem](../other/jerusalem.md) **·** [son](../kt/son.md))
 
+## Bible References: ##
+
+* [Ezra 02:1-2](https://door43.org/en/bible/notes/ezr/02/01)
+* [Nehemiah 01:1-2](https://door43.org/en/bible/notes/neh/01/01)
+* [Nehemiah 10:1-3](https://door43.org/en/bible/notes/neh/10/01)
+* [Nehemiah 12:46-47](https://door43.org/en/bible/notes/neh/12/46)
+

@@ -15,3 +15,10 @@ The term "pardon" means to forgive and not punish someone for his sin.
 
 (See also: [forgive](../kt/forgive.md) **·** [guilt](../kt/guilt.md) **·** [judge](../kt/judge.md))
 
+## Bible References: ##
+
+* [2 Kings 05:17-19](https://door43.org/en/bible/notes/2ki/05/17)
+* [Deuteronomy 29:20-21](https://door43.org/en/bible/notes/deu/29/20)
+* [Isaiah 40:1-2](https://door43.org/en/bible/notes/isa/40/01)
+* [Psalms 025:10-11](https://door43.org/en/bible/notes/psa/025/010)
+

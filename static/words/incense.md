@@ -13,3 +13,11 @@ The term "incense" refers to a mixture of fragrant spices that are burned to pro
 
 (See also: [altarofincense](../other/altarofincense.md) **·** [burntoffering](../other/burntoffering.md) **·** [frankincense](../other/frankincense.md))
 
+## Bible References: ##
+
+* [1 Kings 03:1-3](https://door43.org/en/bible/notes/1ki/03/01)
+* [2 Chronicles 13:10-11](https://door43.org/en/bible/notes/2ch/13/10)
+* [2 Kings 14:4-5](https://door43.org/en/bible/notes/2ki/14/04)
+* [Exodus 25:3-7](https://door43.org/en/bible/notes/exo/25/03)
+* [Luke 01:8-10](https://door43.org/en/bible/notes/luk/01/08)
+

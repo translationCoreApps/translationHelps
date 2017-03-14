@@ -14,3 +14,11 @@ The term "prosper" generally refers to living well and can refer to prospering p
 
 (See also: [bless](../kt/bless.md) **·** [fruit](../kt/fruit.md) **·** [spirit](../kt/spirit.md))
 
+## Bible References: ##
+
+* [1 Chronicles 29:22-23](https://door43.org/en/bible/notes/1ch/29/22)
+* [Deuteronomy 23:5-6](https://door43.org/en/bible/notes/deu/23/05)
+* [Job 36:10-12](https://door43.org/en/bible/notes/job/36/10)
+* [Leviticus 25:26-28](https://door43.org/en/bible/notes/lev/25/26)
+* [Psalms 001:3](https://door43.org/en/bible/notes/psa/001/003)
+

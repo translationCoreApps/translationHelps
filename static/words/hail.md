@@ -11,3 +11,11 @@ This term usually refers to small or large lumps of frozen water that fall from 
 
 (Translation suggestions: [Translate Names](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_names.md))
 
+## Bible References: ##
+
+* [Matthew 27:27-29](https://door43.org/en/bible/notes/mat/27/27)
+* [Matthew 28:8-10](https://door43.org/en/bible/notes/mat/28/08)
+* [Psalms 078:47-49](https://door43.org/en/bible/notes/psa/078/047)
+* [Psalms 148:7-8](https://door43.org/en/bible/notes/psa/148/007)
+* [Revelation 08:6-7](https://door43.org/en/bible/notes/rev/08/06)
+

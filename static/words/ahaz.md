@@ -11,3 +11,13 @@ Ahaz was a wicked king who ruled over the kingdom of Judah from 732 BC to 716 BC
 
 (See also: [babylon](../other/babylon.md))
 
+## Bible References: ##
+
+* [1 Chronicles 08:35-37](https://door43.org/en/bible/notes/1ch/08/35)
+* [2 Chronicles 28:1-2](https://door43.org/en/bible/notes/2ch/28/01)
+* [2 Kings 16:19-20](https://door43.org/en/bible/notes/2ki/16/19)
+* [Hosea 01:1-2](https://door43.org/en/bible/notes/hos/01/01)
+* [Isaiah 01:1](https://door43.org/en/bible/notes/isa/01/01)
+* [Isaiah 07:3-4](https://door43.org/en/bible/notes/isa/07/03)
+* [Matthew 01:9-11](https://door43.org/en/bible/notes/mat/01/09)
+

@@ -13,3 +13,11 @@ James, a son of Zebedee, was one of Jesus' twelve apostles. He had a younger bro
 
 (See also: [apostle](../kt/apostle.md) **·** [elijah](../other/elijah.md) **·** [jamesbrotherofjesus](../other/jamesbrotherofjesus.md) **·** [jamessonofalphaeus], [[:en:obe:other:mosese](../other/jamessonofalphaeus], [[:en:obe:other:mosese.md)])
 
+## Bible References: ##
+
+* [Luke 09:28-29](https://door43.org/en/bible/notes/luk/09/28)
+* [Mark 01:19-20](https://door43.org/en/bible/notes/mrk/01/19)
+* [Mark 01:29-31](https://door43.org/en/bible/notes/mrk/01/29)
+* [Mark 03:17-19](https://door43.org/en/bible/notes/mrk/03/17)
+* [Matthew 04:21-22](https://door43.org/en/bible/notes/mat/04/21)
+* [Matthew 17:1-2](https://door43.org/en/bible/notes/mat/17/01)

@@ -17,3 +17,12 @@ The term "vain" describes something that is useless or has no purpose. Vain thin
 
 (See also: [idol](../other/idol.md) **·** [worthy](../kt/worthy.md))
 
+## Bible References: ##
+
+* [1 Corinthians 15:1-2](https://door43.org/en/bible/notes/1co/15/01)
+* [1 Samuel 25:21-22](https://door43.org/en/bible/notes/1sa/25/21)
+* [2 Peter 02:17-19](https://door43.org/en/bible/notes/2pe/02/17)
+* [Isaiah 45:19](https://door43.org/en/bible/notes/isa/45/19)
+* [Jeremiah 02:29-31](https://door43.org/en/bible/notes/jer/02/29)
+* [Matthew 15:7-9](https://door43.org/en/bible/notes/mat/15/07)
+

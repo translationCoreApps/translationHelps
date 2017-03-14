@@ -14,3 +14,10 @@ Obadiah was an Old Testament prophet who prophesied against the people of Edom, 
 
 (See also: [ahab](../other/ahab.md) **·** [babylon](../other/babylon.md) **·** [david](../other/david.md) **·** [edom](../other/edom.md) **·** [esau](../other/esau.md) **·** [ezekiel](../other/ezekiel.md) **·** [daniel](../other/daniel.md) **·** [gad](../other/gad.md) **·** [jehoshaphat](../other/jehoshaphat.md) **·** [josiah](../other/josiah.md) **·** [levite](../other/levite.md) **·** [saul](../other/saul.md) **·** [zedekiah](../other/zedekiah.md))
 
+## Bible References: ##
+
+* [1 Chronicles 03:19-21](https://door43.org/en/bible/notes/1ch/03/19)
+* [1 Chronicles 08:38-40](https://door43.org/en/bible/notes/1ch/08/38)
+* [Ezra 08:8-11](https://door43.org/en/bible/notes/ezr/08/08)
+* [Obadiah 01:1-2](https://door43.org/en/bible/notes/oba/01/01)
+

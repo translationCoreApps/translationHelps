@@ -13,3 +13,8 @@ Ezekiel was a prophet of God during the exile period when many Jews were taken t
 
 (See also: [babylon](../other/babylon.md) **·** [christ](../kt/christ.md) **·** [exile](../other/exile.md) **·** [prophet](../kt/prophet.md))
 
+## Bible References: ##
+
+* [Ezekiel 01:1-3](https://door43.org/en/bible/notes/ezk/01/01)
+* [Ezekiel 24:22-24](https://door43.org/en/bible/notes/ezk/24/22)
+

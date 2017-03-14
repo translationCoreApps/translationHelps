@@ -10,3 +10,10 @@ The term "trial" refers to a situation in which something or someone is "tried" 
 
 (See also: [tempt](../kt/tempt.md) **·** [test](../kt/test.md) **·** [innocent](../kt/innocent.md) **·** [guilt](../kt/guilt.md))
 
+## Bible References: ##
+
+* [Deuteronomy 04:34](https://door43.org/en/bible/notes/deu/04/34)
+* [Ezekiel 21:12-13](https://door43.org/en/bible/notes/ezk/21/12)
+* [Lamentations 03:58-61](https://door43.org/en/bible/notes/lam/03/58)
+* [Proverbs 25:7-8](https://door43.org/en/bible/notes/pro/25/07)
+

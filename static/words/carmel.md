@@ -13,3 +13,10 @@
 
 (See also: [baal](../other/baal.md) **·** [elijah](../other/elijah.md) **·** [judah](../other/judah.md) **·** [saltsea](../other/saltsea.md))
 
+## Bible References: ##
+
+* [1 Kings 18:18-19](https://door43.org/en/bible/notes/1ki/18/18)
+* [1 Samuel 15:12-13](https://door43.org/en/bible/notes/1sa/15/12)
+* [Jeremiah 46:18-19](https://door43.org/en/bible/notes/jer/46/18)
+* [Micah 07:14-15](https://door43.org/en/bible/notes/mic/07/14)
+

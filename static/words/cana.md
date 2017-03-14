@@ -10,3 +10,8 @@ Cana was a village or town in the province of Galilee, located about nine miles 
 
 (See also: [capernaum](../other/capernaum.md) **·** [galilee](../other/galilee.md) **·** [thetwelve](../kt/thetwelve.md))
 
+## Bible References: ##
+
+* [John 02:1-2](https://door43.org/en/bible/notes/jhn/02/01)
+* [John 04:46-47](https://door43.org/en/bible/notes/jhn/04/46)
+

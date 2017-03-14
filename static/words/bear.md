@@ -15,3 +15,7 @@ The term "to bear" literally means "to carry" something. There are also many fig
 
 (See also: [burden](../other/burden.md) **·** [elisha](../other/elisha.md) **·** [endure](../kt/endure.md) **·** [fruit](../kt/fruit.md) **·** [iniquity](../kt/iniquity.md) **·** [report](../other/report.md) **·** [sheep](../other/sheep.md) **·** [strength](../other/strength.md) **·** [testimony](../kt/testimony.md) **·** [witness](../kt/witness.md))
 
+## Bible References: ##
+
+* [Lamentations 03:25-29](https://door43.org/en/bible/notes/lam/03/25)
+

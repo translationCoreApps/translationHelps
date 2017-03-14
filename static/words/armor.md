@@ -11,3 +11,12 @@ The term "armor" refers to the equipment a soldier uses to fight in a battle and
 
 (See also: [faith](../kt/faith.md) **·** [holyspirit](../kt/holyspirit.md) **·** [peace](../other/peace.md) **·** [salvation](../kt/salvation.md) **·** [spirit](../kt/spirit.md))
 
+## Bible References: ##
+
+* [1 Samuel 31:9-10](https://door43.org/en/bible/notes/1sa/31/09)
+* [2 Samuel 20:8](https://door43.org/en/bible/notes/2sa/20/08)
+* [Ephesians 06:10-11](https://door43.org/en/bible/notes/eph/06/10)
+* [Jeremiah 51:3-4](https://door43.org/en/bible/notes/jer/51/03)
+* [Luke 11:21-23](https://door43.org/en/bible/notes/luk/11/21)
+* [Nehemiah 04:15-16](https://door43.org/en/bible/notes/neh/04/15)
+

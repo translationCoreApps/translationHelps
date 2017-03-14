@@ -13,3 +13,15 @@ Scribes were officials who were responsible to write or copy important governmen
 
 (See also: [lawofmoses](../kt/lawofmoses.md) **·** [pharisee](../other/pharisee.md))
 
+## Bible References: ##
+
+* [Acts 04:5-7](https://door43.org/en/bible/notes/act/04/05)
+* [Luke 07:29-30](https://door43.org/en/bible/notes/luk/07/29)
+* [Luke 20:45-47](https://door43.org/en/bible/notes/luk/20/45)
+* [Mark 01:21-22](https://door43.org/en/bible/notes/mrk/01/21)
+* [Mark 02:15-16](https://door43.org/en/bible/notes/mrk/02/15)
+* [Matthew 05:19-20](https://door43.org/en/bible/notes/mat/05/19)
+* [Matthew 07:28-29](https://door43.org/en/bible/notes/mat/07/28)
+* [Matthew 12:38-40](https://door43.org/en/bible/notes/mat/12/38)
+* [Matthew 13:51-53](https://door43.org/en/bible/notes/mat/13/51)
+

@@ -20,3 +20,10 @@ A "prince" is the son of a king.  A "princess" is a daughter of a king.
 
 (See also: [angel](../kt/angel.md) **·** [authority](../kt/authority.md) **·** [christ](../kt/christ.md),[demon](../kt/demon.md) **·** [lord](../kt/lord.md) **·** [power](../kt/power.md) **·** [ruler](../other/ruler.md) **·** [satan](../kt/satan.md) **·** [savior](../kt/savior.md) **·** [spirit](../kt/spirit.md))
 
+## Bible References: ##
+
+* [Acts 05:29-32](https://door43.org/en/bible/notes/act/05/29)
+* [Genesis 12:14-16](https://door43.org/en/bible/notes/gen/12/14)
+* [Genesis 49:26](https://door43.org/en/bible/notes/gen/49/26)
+* [Luke 01:52-53](https://door43.org/en/bible/notes/luk/01/52)
+

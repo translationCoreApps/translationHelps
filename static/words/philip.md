@@ -12,3 +12,12 @@ In the early Christian church in Jerusalem, Philip was one of seven leaders chos
 
 (See also: [Philip the apostle](../other/philiptheapostle.md))
 
+## Bible References: ##
+
+* [Acts 06:5-6](https://door43.org/en/bible/notes/act/06/05)
+* [Acts 08:6-8](https://door43.org/en/bible/notes/act/08/06)
+* [Acts 08:12-13](https://door43.org/en/bible/notes/act/08/12)
+* [Acts 08:29-31](https://door43.org/en/bible/notes/act/08/29)
+* [Acts 08:36-38](https://door43.org/en/bible/notes/act/08/36)
+* [Acts 08:39-40](https://door43.org/en/bible/notes/act/08/39)
+

@@ -11,3 +11,10 @@ Zephaniah, son of Cushi, was a prophet who lived in Jerusalem and prophesied dur
 
 (See also: [jeremiah](../other/jeremiah.md) **·** [josiah](../other/josiah.md) **·** [priest](../kt/priest.md))
 
+## Bible References: ##
+
+* [2 Kings 25:18-19](https://door43.org/en/bible/notes/2ki/25/18)
+* [Jeremiah 52:24-25](https://door43.org/en/bible/notes/jer/52/24)
+* [Zechariah 06:9-11](https://door43.org/en/bible/notes/zec/06/09)
+* [Zephaniah 01:1-3](https://door43.org/en/bible/notes/zep/01/01)
+

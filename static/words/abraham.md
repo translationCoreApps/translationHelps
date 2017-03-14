@@ -14,3 +14,23 @@ Abram was a Chaldean man from the city of Ur who was chosen by God to be the for
 
 (See also: [canaan](../other/canaan.md) **·** [chaldea](../other/chaldea.md) **·** [Sarah, Sarai](../other/sarah.md) **·** [Isaac](../other/isaac.md))
 
+## Bible References: ##
+
+* [Galatians 03:6-9](https://door43.org/en/bible/notes/gal/03/06)
+* [Genesis 11:29-30](https://door43.org/en/bible/notes/gen/11/29)
+* [Genesis 21:1-4](https://door43.org/en/bible/notes/gen/21/01)
+* [Genesis 22:1-3](https://door43.org/en/bible/notes/gen/22/01)
+* [James 02:21-24](https://door43.org/en/bible/notes/jas/02/21)
+* [Matthew 01:1-3](https://door43.org/en/bible/notes/mat/01/01)
+
+## Examples from the Bible stories: ##
+
+* __[04-06](https://door43.org/en/obs/notes/frames/04-06)__ When __Abram__  arrived in Canaan, God said, "Look all around you. I will give to you and your descendants all the land that you can see as an inheritance."
+* __[05-04](https://door43.org/en/obs/notes/frames/05-04)__ Then God changed __Abram__'s name to __Abraham__, which means "father of many."
+* __[05-05](https://door43.org/en/obs/notes/frames/05-05)__ About a year later, when __Abraham__  was 100 years old and Sarah was 90, Sarah gave birth to Abraham's son.
+* __[05-06](https://door43.org/en/obs/notes/frames/05-06)__ When Isaac was a young man, God tested __Abraham's__  faith by saying, "Take Isaac, your only son, and kill him as a sacrifice to me."
+* __[06-01](https://door43.org/en/obs/notes/frames/06-01)__ When __Abraham__  was very old and his son, Isaac, had grown to be a man, __Abraham__  sent one of his servants back to the land where his relatives lived to find a wife for his son, Isaac.
+* __[06-04](https://door43.org/en/obs/notes/frames/06-04)__ After a long time, __Abraham__  died and all of the promises that God had made to him in the covenant were passed on to Isaac.
+* __[21-02](https://door43.org/en/obs/notes/frames/21-02)__ God promised __Abraham__  that through him all people groups of the world would receive a blessing.
+
+

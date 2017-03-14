@@ -17,3 +17,12 @@ The verb "founded" means to be built on or based on something. A foundation is t
 
 (See also: [cornerstone](../kt/cornerstone.md) **·** [create, creation, Creator](../other/creation.md))
 
+## Bible References: ##
+
+* [1 Kings 06:37-38](https://door43.org/en/bible/notes/1ki/06/37)
+* [2 Chronicles 03:1-3](https://door43.org/en/bible/notes/2ch/03/01)
+* [Ezekiel 13:13-14](https://door43.org/en/bible/notes/ezk/13/13)
+* [Luke 14:28-30](https://door43.org/en/bible/notes/luk/14/28)
+* [Matthew 13:34-35](https://door43.org/en/bible/notes/mat/13/34)
+* [Matthew 25:34-36](https://door43.org/en/bible/notes/mat/25/34)
+

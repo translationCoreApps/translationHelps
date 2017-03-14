@@ -19,3 +19,11 @@ In general, a festival is a celebration held by a community of people.
 
 (See also: [feast](../other/feast.md))
 
+## Bible References: ##
+
+* [1 Chronicles 23:30-31](https://door43.org/en/bible/notes/1ch/23/30)
+* [2 Chronicles 08:12-13](https://door43.org/en/bible/notes/2ch/08/12)
+* [Exodus 05:1-2](https://door43.org/en/bible/notes/exo/05/01)
+* [John 04:43-45](https://door43.org/en/bible/notes/jhn/04/43)
+* [Luke 22:1-2](https://door43.org/en/bible/notes/luk/22/01)
+

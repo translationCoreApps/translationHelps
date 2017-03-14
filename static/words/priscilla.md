@@ -14,3 +14,10 @@ Priscilla and her husband Aquila were Jewish Christians who worked with the apos
 
 (See also: [believe](../kt/believe.md) **·** [christian](../kt/christian.md) **·** [corinth](../other/corinth.md) **·** [ephesus](../other/ephesus.md) **·** [paul](../other/paul.md) **·** [rome](../other/rome.md) **·** [syria](../other/syria.md))
 
+## Bible References: ##
+
+* [1 Corinthians 16:19-20](https://door43.org/en/bible/notes/1co/16/19)
+* [2 Timothy 04:19-22](https://door43.org/en/bible/notes/2ti/04/19)
+* [Acts 18:1-3](https://door43.org/en/bible/notes/act/18/01)
+* [Acts 18:24-26](https://door43.org/en/bible/notes/act/18/24)
+

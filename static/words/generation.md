@@ -18,3 +18,14 @@ The term "generation" refers to a group of people who were all born around the s
 
 (See also: [descendant](../other/descendant.md) **·** [evil](../kt/evil.md) **·** [father](../other/father.md))
 
+## Bible References: ##
+
+* [Acts 15:19-21](https://door43.org/en/bible/notes/act/15/19)
+* [Exodus 03:13-15](https://door43.org/en/bible/notes/exo/03/13)
+* [Genesis 15:14-16](https://door43.org/en/bible/notes/gen/15/14)
+* [Genesis 17:7-8](https://door43.org/en/bible/notes/gen/17/07)
+* [Mark 08:11-13](https://door43.org/en/bible/notes/mrk/08/11)
+* [Matthew 11:16-17](https://door43.org/en/bible/notes/mat/11/16)
+* [Matthew 23:34-36](https://door43.org/en/bible/notes/mat/23/34)
+* [Matthew 24:34-35](https://door43.org/en/bible/notes/mat/24/34)
+

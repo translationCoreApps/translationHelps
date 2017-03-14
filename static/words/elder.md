@@ -11,3 +11,12 @@ Elders are spiritually mature men who have responsibilities of spiritual and pra
 * Elders in these churches included young men who were spiritually mature.
 * This term could be translated as "older men" or "spiritually mature men leading the church."
 
+## Bible References: ##
+
+* [1 Chronicles 11:1-3](https://door43.org/en/bible/notes/1ch/11/01)
+* [1 Timothy 03:1-3](https://door43.org/en/bible/notes/1ti/03/01)
+* [1 Timothy 04:14-16](https://door43.org/en/bible/notes/1ti/04/14)
+* [Acts 05:19-21](https://door43.org/en/bible/notes/act/05/19)
+* [Acts 14:23-26](https://door43.org/en/bible/notes/act/14/23)
+* [Mark 11:27-28](https://door43.org/en/bible/notes/mrk/11/27)
+* [Matthew 21:23-24](https://door43.org/en/bible/notes/mat/21/23)

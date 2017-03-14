@@ -11,3 +11,11 @@ In Old Testament times, Ai was the name of a Canaanite town located just south o
 
 (See also: [bethel](../other/bethel.md) **·** [jericho](../other/jericho.md))
 
+## Bible References: ##
+
+* [Ezra 02:27-30](https://door43.org/en/bible/notes/ezr/02/27)
+* [Genesis 12:8-9](https://door43.org/en/bible/notes/gen/12/08)
+* [Genesis 13:3-4](https://door43.org/en/bible/notes/gen/13/03)
+* [Joshua 07:2-3](https://door43.org/en/bible/notes/jos/07/02)
+* [Joshua 08:10-12](https://door43.org/en/bible/notes/jos/08/10)
+

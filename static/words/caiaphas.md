@@ -12,3 +12,11 @@ Caiaphas was the high priest of Israel during the time of John the Baptist and J
 
 (See also: [annas](../other/annas.md) **·** [highpriest](../kt/highpriest.md))
 
+## Bible References: ##
+
+* [Acts 04:5-7](https://door43.org/en/bible/notes/act/04/05)
+* [John 18:12-14](https://door43.org/en/bible/notes/jhn/18/12)
+* [Luke 03:1-2](https://door43.org/en/bible/notes/luk/03/01)
+* [Matthew 26:3-5](https://door43.org/en/bible/notes/mat/26/03)
+* [Matthew 26:57-58](https://door43.org/en/bible/notes/mat/26/57)
+

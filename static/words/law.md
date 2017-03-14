@@ -10,3 +10,12 @@ A "law" is a legal rule that is usually written down and enforced by someone in 
 
 (See also: [law](../other/law.md) **·** [lawofmoses](../kt/lawofmoses.md))
 
+## Bible References: ##
+
+* [Deuteronomy 04:1-2](https://door43.org/en/bible/notes/deu/04/01)
+* [Esther 03:8-9](https://door43.org/en/bible/notes/est/03/08)
+* [Exodus 12:12-14](https://door43.org/en/bible/notes/exo/12/12)
+* [Genesis 26:4-5](https://door43.org/en/bible/notes/gen/26/04)
+* [John 18:31-32](https://door43.org/en/bible/notes/jhn/18/31)
+* [Romans 07:1](https://door43.org/en/bible/notes/rom/07/01)
+

@@ -13,3 +13,8 @@ The term  "tetrarch" refers to a governing official who ruled over part of the R
 
 (See also: [governor](../other/governor.md) **·** [herodantipas](../other/herodantipas.md) **·** [province](../other/province.md) **·** [rome](../other/rome.md) **·** [ruler](../other/ruler.md))
 
+## Bible References: ##
+
+* [Luke 03:1-2](https://door43.org/en/bible/notes/luk/03/01)
+* [Luke 09:7-9](https://door43.org/en/bible/notes/luk/09/07)
+* [Matthew 14:1-2](https://door43.org/en/bible/notes/mat/14/01)

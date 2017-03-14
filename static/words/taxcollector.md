@@ -12,3 +12,22 @@ A "tax collector" was a government worker whose job was to receive money that pe
 
 (See also: [jew](../other/jew.md) **·** [rome](../other/rome.md) **·** [sin](../kt/sin.md))
 
+## Bible References: ##
+
+* [Luke 03:12-13](https://door43.org/en/bible/notes/luk/03/12)
+* [Luke 05:27-28](https://door43.org/en/bible/notes/luk/05/27)
+* [Matthew 05:46-48](https://door43.org/en/bible/notes/mat/05/46)
+* [Matthew 09:10-11](https://door43.org/en/bible/notes/mat/09/10)
+* [Matthew 11:18-19](https://door43.org/en/bible/notes/mat/11/18)
+* [Matthew 17:26-27](https://door43.org/en/bible/notes/mat/17/26)
+* [Matthew 18:17](https://door43.org/en/bible/notes/mat/18/17)
+
+## Examples from the Bible stories: ##
+
+  __*[34-06](https://door43.org/en/obs/notes/frames/34-06)__ He said, "Two men went to the Temple to pray. One of them was a __tax collector__, and the other was a religious leader."
+  __*[34-07](https://door43.org/en/obs/notes/frames/34-07)__ "The religious leader prayed like this, 'Thank you, God, that I am not a sinner like other men—such as robbers, unjust men, adulterers, or even like that __tax collector__.'"
+  __*[34-09](https://door43.org/en/obs/notes/frames/34-09)__ "But the __tax collector__ stood far away from the religious ruler, did not even look up to heaven. Instead, he pounded on his chest and prayed, 'God, please be merciful to me because I am a sinner.'"
+  __*[34-10](https://door43.org/en/obs/notes/frames/34-10)__ Then Jesus said, "I tell you the truth, God heard the __tax collector's__ prayer and declared him to be righteous."
+  __*[35-01](https://door43.org/en/obs/notes/frames/35-01)__ One day, Jesus was teaching many __tax collectors__ and other sinners who had gathered to hear him. 
+
+

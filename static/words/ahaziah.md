@@ -11,3 +11,10 @@ Ahaziah was the name of two kings: one ruled over the kingdom of Israel, the oth
 
 (See also: [jehu](../other/jehu.md) **·** [ahab](../other/ahab.md),[jeroboam](../other/jeroboam.md) **·** [joash](../other/joash.md))
 
+## Bible References: ##
+
+* [1 Kings 22:39-40](https://door43.org/en/bible/notes/1ki/22/39)
+* [2 Chronicles 22:1-3](https://door43.org/en/bible/notes/2ch/22/01)
+* [2 Chronicles 25:23-24](https://door43.org/en/bible/notes/2ch/25/23)
+* [2 Kings 11:1-3](https://door43.org/en/bible/notes/2ki/11/01)
+

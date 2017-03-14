@@ -13,3 +13,9 @@ Hosea was a prophet of Israel who lived and prophesied about 750 years before th
 
 (See also: [ahaz](../other/ahaz.md),[hezekiah](../other/hezekiah.md) **·** [hoshea](../other/hoshea.md) **·** [jeroboam](../other/jeroboam.md)[jotham](../other/jotham.md)[uzziah](../other/uzziah.md),[zechariahot](../other/zechariahot.md))
 
+## Bible References: ##
+
+* [Hosea 01:1-2](https://door43.org/en/bible/notes/hos/01/01)
+* [Hosea 01:3-5](https://door43.org/en/bible/notes/hos/01/03)
+* [Hosea 01:6-7](https://door43.org/en/bible/notes/hos/01/06)
+

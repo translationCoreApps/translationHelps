@@ -11,3 +11,12 @@ A throne is a specially-designed chair where a king sits to decide important mat
 
 (See also: [authority](../kt/authority.md) **·** [power](../kt/power.md) **·** [king](../other/king.md) **·** [reign](../other/reign.md))
 
+## Bible References: ##
+
+* [Colossians 01:15-17](https://door43.org/en/bible/notes/col/01/15)
+* [Genesis 41:39-41](https://door43.org/en/bible/notes/gen/41/39)
+* [Luke 01:30-33](https://door43.org/en/bible/notes/luk/01/30)
+* [Luke 22:28-30](https://door43.org/en/bible/notes/luk/22/28)
+* [Matthew 05:33-35](https://door43.org/en/bible/notes/mat/05/33)
+* [Matthew 19:28](https://door43.org/en/bible/notes/mat/19/28)
+* [Revelation 01:4-6](https://door43.org/en/bible/notes/rev/01/04)

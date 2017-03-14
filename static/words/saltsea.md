@@ -13,3 +13,10 @@ The Salt Sea (also called the Dead Sea) was located between southern Israel on t
 
 (See also: [ammon](../other/ammon.md) **·** [arabah](../other/arabah.md), , [jordanriver](../other/jordanriver.md) **·** [moab](../other/moab.md) **·** [negev](../other/negev.md))
 
+## Bible References: ##
+
+* [2 Chronicles 20:1-2](https://door43.org/en/bible/notes/2ch/20/01)
+* [Deuteronomy 03:17](https://door43.org/en/bible/notes/deu/03/17)
+* [Joshua 03:14-16](https://door43.org/en/bible/notes/jos/03/14)
+* [Numbers 34:1-3](https://door43.org/en/bible/notes/num/34/01)
+

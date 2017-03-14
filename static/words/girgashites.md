@@ -12,3 +12,11 @@ The Girgashites were a people group living near the Sea of Galilee in the land o
 
 (See also: [Canaan](../other/canaan.md) , [Ham](../other/ham.md) **·** [Noah](../other/noah.md))
 
+## Bible References: ##
+
+* [1 Chronicles 01:13-16](https://door43.org/en/bible/notes/1ch/01/13)
+* [Deuteronomy 07:1](https://door43.org/en/bible/notes/deu/07/01)
+* [Genesis 10:15-18](https://door43.org/en/bible/notes/gen/10/15)
+* [Joshua 03:9-11](https://door43.org/en/bible/notes/jos/03/09)
+* [Joshua 24:11-12](https://door43.org/en/bible/notes/jos/24/11)
+

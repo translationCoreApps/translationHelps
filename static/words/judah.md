@@ -14,3 +14,12 @@ Judah was one of Jacob's older sons. His mother was Leah. His descendants were c
 
 (See also: [jacob](../other/jacob.md) **·** [jew](../other/jew.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [judea](../other/judea.md) **·** [12tribesofisrael](../other/12tribesofisrael.md))
 
+## Bible References: ##
+
+* [1 Chronicles 02:1-2](https://door43.org/en/bible/notes/1ch/02/01)
+* [1 Kings 01:9-10](https://door43.org/en/bible/notes/1ki/01/09)
+* [Genesis 29:35](https://door43.org/en/bible/notes/gen/29/35)
+* [Genesis 38:1-2](https://door43.org/en/bible/notes/gen/38/01)
+* [Luke 03:33-35](https://door43.org/en/bible/notes/luk/03/33)
+* [Ruth 01:1-2](https://door43.org/en/bible/notes/rut/01/01)
+

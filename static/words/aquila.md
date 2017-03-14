@@ -13,3 +13,10 @@ Aquila was a Jewish Christian from the province of Pontus, a region along the so
 
 (See also: [apollos](../other/apollos.md) **·** [corinth](../other/corinth.md) **·** [rome](../other/rome.md))
 
+## Bible References: ##
+
+* [1 Corinthians 16:19-20](https://door43.org/en/bible/notes/1co/16/19)
+* [2 Timothy 04:19-22](https://door43.org/en/bible/notes/2ti/04/19)
+* [Acts 18:1-3](https://door43.org/en/bible/notes/act/18/01)
+* [Acts 18:24-26](https://door43.org/en/bible/notes/act/18/24)
+

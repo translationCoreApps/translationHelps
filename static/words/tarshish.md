@@ -14,3 +14,11 @@ Tarshish was the name of two men in the Old Testament. It was also the name of a
 
 (See also: [esther](../other/esther.md) **·** [japheth](../other/japheth.md) **·** [jonah](../other/jonah.md) **·** [nineveh](../other/nineveh.md) **·** [phonecia](../other/phonecia.md) **·** [wisemen](../other/wisemen.md))
 
+## Bible References: ##
+
+* [Genesis 10:2-5](https://door43.org/en/bible/notes/gen/10/02)
+* [Isaiah 02:14-16](https://door43.org/en/bible/notes/isa/02/14)
+* [Jeremiah 10:8-10](https://door43.org/en/bible/notes/jer/10/08)
+* [Jonah 01:1-3](https://door43.org/en/bible/notes/jon/01/01)
+* [Psalms 048:7-8](https://door43.org/en/bible/notes/psa/048/007)
+

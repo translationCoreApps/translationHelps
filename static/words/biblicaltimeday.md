@@ -11,3 +11,11 @@ The term "day" literally refers to a period of time lasting 24 hours beginning a
 
 (See also: [judgmentday](../kt/judgmentday.md) **·** [lastday](../kt/lastday.md))
 
+## Bible References: ##
+
+* [Acts 20:4-6](https://door43.org/en/bible/notes/act/20/04)
+* [Daniel 10:4-6](https://door43.org/en/bible/notes/dan/10/04)
+* [Ezra 06:13-15](https://door43.org/en/bible/notes/ezr/06/13)
+* [Ezra 06:19-20](https://door43.org/en/bible/notes/ezr/06/19)
+* [Matthew 09:14-15](https://door43.org/en/bible/notes/mat/09/14)
+

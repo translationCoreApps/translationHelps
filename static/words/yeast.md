@@ -19,3 +19,14 @@
 
 (See also: [egypt](../other/egypt.md) **·** [passover](../kt/passover.md) **·** [unleavenedbread](../kt/unleavenedbread.md))
 
+## Bible References: ##
+
+ 
+
+* [Exodus 12:5-8](https://door43.org/en/bible/notes/exo/12/05)
+* [Galatians 05:9-10](https://door43.org/en/bible/notes/gal/05/09)
+* [Luke 12:1](https://door43.org/en/bible/notes/luk/12/01)
+* [Luke 13:20-21](https://door43.org/en/bible/notes/luk/13/20)
+* [Matthew 13:33](https://door43.org/en/bible/notes/mat/13/33)
+* [Matthew 16:5-8](https://door43.org/en/bible/notes/mat/16/05)
+

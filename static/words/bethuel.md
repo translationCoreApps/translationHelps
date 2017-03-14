@@ -11,3 +11,8 @@ Bethuel was the son of Abraham's brother Nahor.
 
 (See also: [beersheba](../other/beersheba.md) **·** [laban](../other/laban.md) **·** [nahor](../other/nahor.md) **·** [rebekah](../other/rebekah.md))
 
+## Bible References: ##
+
+* [1 Chronicles 04:29-31](https://door43.org/en/bible/notes/1ch/04/29)
+* [Genesis 28:1-2](https://door43.org/en/bible/notes/gen/28/01)
+

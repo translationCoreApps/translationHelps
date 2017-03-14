@@ -12,3 +12,11 @@ The word "shadow" literally refers to the darkness that is caused by an object b
 
 (See also: [darkness](../kt/darkness.md) **·** [light](../kt/light.md))
 
+## Bible References: ##
+
+* [2 Kings 20:8-9](https://door43.org/en/bible/notes/2ki/20/08)
+* [Genesis 19:6-8](https://door43.org/en/bible/notes/gen/19/06)
+* [Isaiah 30:1-2](https://door43.org/en/bible/notes/isa/30/01)
+* [Jeremiah 06:4-5](https://door43.org/en/bible/notes/jer/06/04)
+* [Psalms 017:8-10](https://door43.org/en/bible/notes/psa/017/008)
+

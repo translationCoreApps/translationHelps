@@ -12,3 +12,10 @@ Reuben was the firstborn son of Jacob. His mother was Leah.
 
 (See also: [jacob](../other/jacob.md) **·** [josephot](../other/josephot.md) **·** [leah](../other/leah.md) **·** [12tribesofIsrael](../other/12tribesofIsrael.md))
 
+## Bible References: ##
+
+* [Genesis 29:31-32](https://door43.org/en/bible/notes/gen/29/31)
+* [Genesis 35:21-22](https://door43.org/en/bible/notes/gen/35/21)
+* [Genesis 42:21-22](https://door43.org/en/bible/notes/gen/42/21)
+* [Genesis 42:37-38](https://door43.org/en/bible/notes/gen/42/37)
+

@@ -11,3 +11,10 @@ The term "glean" means to go through a field or orchard to pick up whatever grai
 
 (See also: [boaz](../other/boaz.md) **·** [grain](../other/grain.md) **·** [harvest](../kt/harvest.md) **·** [ruth](../other/ruth.md))
 
+## Bible References: ##
+
+* [Deuteronomy 24:21-22](https://door43.org/en/bible/notes/deu/24/21)
+* [Isaiah 17:4-5](https://door43.org/en/bible/notes/isa/17/04)
+* [Job 24:5-7](https://door43.org/en/bible/notes/job/24/05)
+* [Ruth 02:1-2](https://door43.org/en/bible/notes/rut/02/01)
+* [Ruth 02:15-16](https://door43.org/en/bible/notes/rut/02/15)

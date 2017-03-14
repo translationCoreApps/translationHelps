@@ -11,3 +11,11 @@ A "plow" is a farm tool that is used for breaking up soil to prepare a field for
 
 (See also: [bronze](../other/bronze.md) **·** [ox](../other/ox.md))
 
+## Bible References: ##
+
+* [1 Samuel 08:10-12](https://door43.org/en/bible/notes/1sa/08/10)
+* [Deuteronomy 21:3-4](https://door43.org/en/bible/notes/deu/21/03)
+* [Luke 09:61-62](https://door43.org/en/bible/notes/luk/09/61)
+* [Luke 17:7-8](https://door43.org/en/bible/notes/luk/17/07)
+* [Psalm 141:5-7](https://door43.org/en/bible/notes/psa/141/005)
+

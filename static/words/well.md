@@ -21,3 +21,11 @@ The terms "well" and "cistern" refer to two different kinds of sources for water
 
 (See also: [jeremiah](../other/jeremiah.md) **·** [prison](../other/prison.md) **·** [strife](../other/strife.md))
 
+## Bible References: ##
+
+* [1 Chronicles 11:15-17](https://door43.org/en/bible/notes/1ch/11/15)
+* [2 Samuel 17:17-18](https://door43.org/en/bible/notes/2sa/17/17)
+* [Genesis 16:13-14](https://door43.org/en/bible/notes/gen/16/13)
+* [Luke 14:4-6](https://door43.org/en/bible/notes/luk/14/04)
+* [Numbers 20:17](https://door43.org/en/bible/notes/num/20/17)
+

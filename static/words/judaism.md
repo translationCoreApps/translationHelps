@@ -11,3 +11,7 @@ The term "Judaism" refers to the religion practiced by the Jews. It is also refe
 
 (See also: [jew](../other/jew.md) **·** [lawofmoses](../kt/lawofmoses.md))
 
+## Bible References: ##
+
+* [Galatians 01:13-14](https://door43.org/en/bible/notes/gal/01/13)
+

@@ -10,3 +10,10 @@ A letter is a written message sent to a person or group of persons who are usual
 
 (See also: [encourage](../other/encourage.md) **·** [exhort](../kt/exhort.md) **·** [teach](../other/teach.md))
 
+## Bible References: ##
+
+* [1 Thessalonians 05:25-28](https://door43.org/en/bible/notes/1th/05/25)
+* [2 Thessalonians 02:13-15](https://door43.org/en/bible/notes/2th/02/13)
+* [Acts 09:1-2](https://door43.org/en/bible/notes/act/09/01)
+* [Acts 28:21-22](https://door43.org/en/bible/notes/act/28/21)
+

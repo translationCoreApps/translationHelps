@@ -13,3 +13,12 @@ In New Testament times, Macedonia was a Roman province located just north of anc
 
 (See also: [believer](../kt/believer.md) **·** [berea](../other/berea.md) **·** [faith](../kt/faith.md) **·** [goodnews](../kt/goodnews.md) **·** [greece](../other/greece.md) **·** [philippi](../other/philippi.md) **·** [thessalonica](../other/thessalonica.md))
 
+## Bible References: ##
+
+* [1 Thessalonians 01:6-7](https://door43.org/en/bible/notes/1th/01/06)
+* [1 Thessalonians 04:9-12](https://door43.org/en/bible/notes/1th/04/09)
+* [1 Timothy 01:3-4](https://door43.org/en/bible/notes/1ti/01/03)
+* [Acts 16:9-10](https://door43.org/en/bible/notes/act/16/09)
+* [Acts 20:1-3](https://door43.org/en/bible/notes/act/20/01)
+* [Philippians 04:14-17](https://door43.org/en/bible/notes/php/04/14)
+

@@ -14,3 +14,7 @@ The Kidron Valley is a deep valley just outside the city of Jerusalem, between i
 
 (See also: [absalom](../other/absalom.md) **·** [asa](../other/asa.md) **·** [athaliah](../other/athaliah.md) **·** [david](../other/david.md) **·** [falsegod](../kt/falsegod.md) **·** [hezekiah](../other/hezekiah.md) **·** [highplaces](../other/highplaces.md) **·** [josiah](../other/josiah.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [mountofolives](../other/mountofolives.md))
 
+## Bible References: ##
+
+* [John 18:1-3](https://door43.org/en/bible/notes/jhn/18/01)
+

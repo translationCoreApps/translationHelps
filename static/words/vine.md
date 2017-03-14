@@ -10,3 +10,12 @@ The term "vine" refers to a plant that grows by trailing along the ground or by 
 
 (See also: [grape](../other/grape.md) **·** [vineyard](../other/vineyard.md))
 
+## Bible References: ##
+
+* [Genesis 40:9-11](https://door43.org/en/bible/notes/gen/40/09)
+* [Genesis 49:11-12](https://door43.org/en/bible/notes/gen/49/11)
+* [John 15:1-2](https://door43.org/en/bible/notes/jhn/15/01)
+* [Luke 22:17-18](https://door43.org/en/bible/notes/luk/22/17)
+* [Mark 12:1-3](https://door43.org/en/bible/notes/mrk/12/01)
+* [Matthew 21:35-37](https://door43.org/en/bible/notes/mat/21/35)
+

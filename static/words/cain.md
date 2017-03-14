@@ -13,3 +13,12 @@ Cain and his younger brother Abel were the first sons of Adam and Eve mentioned 
 
 (See also: [adam](../other/adam.md) **·** [sacrifice](../other/sacrifice.md))
 
+## Bible References: ##
+
+* [1 John 03:11-12](https://door43.org/en/bible/notes/1jn/03/11)
+* [Genesis 04:1-2](https://door43.org/en/bible/notes/gen/04/01)
+* [Genesis 04:8-9](https://door43.org/en/bible/notes/gen/04/08)
+* [Genesis 04:13-15](https://door43.org/en/bible/notes/gen/04/13)
+* [Hebrews 11:4](https://door43.org/en/bible/notes/heb/11/04)
+* [Jude 01:9-11](https://door43.org/en/bible/notes/jud/01/09)
+

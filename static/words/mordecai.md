@@ -11,3 +11,10 @@ Mordecai was a Jewish man living in the country of Persia. He was the guardian o
 
 (See also: [ahasuerus](../other/ahasuerus.md) **·** [babylon](../other/babylon.md) **·** [esther](../other/esther.md) **·** [persia](../other/persia.md))
 
+## Bible References: ##
+
+* [Esther 02:5-6](https://door43.org/en/bible/notes/est/02/05)
+* [Esther 03:5-6](https://door43.org/en/bible/notes/est/03/05)
+* [Esther 08:1-2](https://door43.org/en/bible/notes/est/08/01)
+* [Esther 10:1-2](https://door43.org/en/bible/notes/est/10/01)
+

@@ -10,3 +10,21 @@ The term "beg" means to urgently ask someone for something. It often refers to a
 
 (See also: [plead](../other/plead.md))
 
+## Bible References: ##
+
+* [Luke 16:19-21](https://door43.org/en/bible/notes/luk/16/19)
+* [Mark 06:56](https://door43.org/en/bible/notes/mrk/06/56)
+* [Matthew 14:34-36](https://door43.org/en/bible/notes/mat/14/34)
+* [Psalm 045:12-13](https://door43.org/en/bible/notes/psa/045/012)
+
+## Examples from the Bible stories: ##
+
+  __*[10-04](https://door43.org/en/obs/notes/frames/10-04)__ God sent frogs all over Egypt. Pharaoh __begged__ Moses to take away the frogs.
+  __*[29-08](https://door43.org/en/obs/notes/frames/29-08)__ "The king called the servant and said, 'You wicked servant! I forgave your debt because you __begged__ me."
+  __*[32-07](https://door43.org/en/obs/notes/frames/32-07)__ The demons __begged__ Jesus, "Please do not send us out of this region!" There was a herd of pigs feeding on a nearby hill. So, the demons __begged__ Jesus, "Please send us into the pigs instead!"
+  __*[32-10](https://door43.org/en/obs/notes/frames/32-10)__ The man who used to have the demons __begged__ to go along with Jesus.
+  __*[35-11](https://door43.org/en/obs/notes/frames/35-11)__ His father came out and __begged__ him to come and celebrate with them, but he refused."
+  __*[44-01](https://door43.org/en/obs/notes/frames/44-01)__ One day, Peter and John were going to the Temple. As they approached the Temple gate, they saw a crippled man who was __begging__ for money.
+
+
+

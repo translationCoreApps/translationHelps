@@ -13,3 +13,12 @@ To proclaim is to announce or declare something publicly and boldly.
 
 (See also: [preach](../other/preach.md))
 
+## Bible References: ##
+
+* [Acts 09:20-22](https://door43.org/en/bible/notes/act/09/20)
+* [Acts 13:38-39](https://door43.org/en/bible/notes/act/13/38)
+* [Jonah 03:1-3](https://door43.org/en/bible/notes/jon/03/01)
+* [Luke 04:18-19](https://door43.org/en/bible/notes/luk/04/18)
+* [Mark 01:14-15](https://door43.org/en/bible/notes/mrk/01/14)
+* [Matthew 10:26-27](https://door43.org/en/bible/notes/mat/10/26)
+

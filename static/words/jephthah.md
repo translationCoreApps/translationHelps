@@ -12,3 +12,10 @@ Jephthah was a warrior from Gilead who served as a judge over Israel.
 
 (See also: [ammon](../other/ammon.md) **·** [deliverer](../kt/deliverer.md) **·** [ephraim](../other/ephraim.md) **·** [judgeposition](../other/judgeposition.md) **·** [vow](../kt/vow.md))
 
+## Bible References: ##
+
+* [Hebrews 11:32-34](https://door43.org/en/bible/notes/heb/11/32)
+* [Judges 11:1-3](https://door43.org/en/bible/notes/jdg/11/01)
+* [Judges 11:34-35](https://door43.org/en/bible/notes/jdg/11/34)
+* [Judges 12:1-2](https://door43.org/en/bible/notes/jdg/12/01)
+

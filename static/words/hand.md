@@ -29,3 +29,14 @@ There are several figurative ways that "hand" is used in the Bible:
 
 (See also: [adversary](../other/adversary.md) **·** [bless](../kt/bless.md) **·** [captive](../other/captive.md) **·** [honor](../other/honor.md) **·** [power](../kt/power.md))
 
+## Bible References: ##
+
+* [Acts 07:22-25](https://door43.org/en/bible/notes/act/07/22)
+* [Acts 08:14-17](https://door43.org/en/bible/notes/act/08/14)
+* [Acts 11:19-21](https://door43.org/en/bible/notes/act/11/19)
+* [Genesis 09:5-7](https://door43.org/en/bible/notes/gen/09/05)
+* [Genesis 14:19-20](https://door43.org/en/bible/notes/gen/14/19)
+* [John 03:34-36](https://door43.org/en/bible/notes/jhn/03/34)
+* [Mark 07:31-32](https://door43.org/en/bible/notes/mrk/07/31)
+* [Matthew 06:3-4](https://door43.org/en/bible/notes/mat/06/03)
+

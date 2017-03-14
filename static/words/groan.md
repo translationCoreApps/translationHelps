@@ -11,3 +11,11 @@ The term "groan" refers to the uttering of a deep, low sound that is caused by p
 
 (See also: [cry](../other/cry.md))
 
+## Bible References: ##
+
+* [2 Corinthians 05:1-3](https://door43.org/en/bible/notes/2co/05/01)
+* [Hebrews 13:15-17](https://door43.org/en/bible/notes/heb/13/15)
+* [Job 23:1-2](https://door43.org/en/bible/notes/job/23/01)
+* [Psalms 032:3-4](https://door43.org/en/bible/notes/psa/032/003)
+* [Psalms 102:5-6](https://door43.org/en/bible/notes/psa/102/005)
+

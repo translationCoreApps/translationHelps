@@ -11,3 +11,11 @@ A "peace offering" was one of several sacrificial offerings that God commanded t
 
 (See also: [burntoffering](../other/burntoffering.md) **·** [fellowship](../kt/fellowship.md) **·** [fellowshipoffering](../other/fellowshipoffering.md) **·** [grainoffering](../other/grainoffering.md) **·** [priest](../kt/priest.md) **·** [sacrifice](../other/sacrifice.md) **·** [unleavenedbread](../kt/unleavenedbread.md))
 
+## Bible References: ##
+
+* [1 Samuel 13:8-10](https://door43.org/en/bible/notes/1sa/13/08)
+* [Ezekiel 45:16-17](https://door43.org/en/bible/notes/ezk/45/16)
+* [Joshua 08:30-32](https://door43.org/en/bible/notes/jos/08/30)
+* [Leviticus 09:3-5](https://door43.org/en/bible/notes/lev/09/03)
+* [Proverbs 07:13-15](https://door43.org/en/bible/notes/pro/07/13)
+

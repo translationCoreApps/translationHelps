@@ -12,3 +12,11 @@ Asherah was the name of a goddess that was worshiped by Canaanite people groups 
 
 (See also: [idol](../other/idol.md) **·** [baal](../other/baal.md) **·** [gideon](../other/gideon.md) **·** [image](../other/image.md) **·** [solomon](../other/solomon.md))
 
+## Bible References: ##
+
+* [2 Kings 18:4-5](https://door43.org/en/bible/notes/2ki/18/04)
+* [2 Kings 21:1-3](https://door43.org/en/bible/notes/2ki/21/01)
+* [Isaiah 27:9](https://door43.org/en/bible/notes/isa/27/09)
+* [Judges 03:7-8](https://door43.org/en/bible/notes/jdg/03/07)
+* [Micah 05:12-15](https://door43.org/en/bible/notes/mic/05/12)
+

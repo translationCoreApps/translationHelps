@@ -22,3 +22,12 @@ The terms "possess" and "possession" usually refer to owning something. They can
 
 (See also: [canaan](../other/canaan.md) **·** [worship](../kt/worship.md))
 
+## Bible References: ##
+
+* [1 Chronicles 06:70](https://door43.org/en/bible/notes/1ch/06/70)
+* [1 Kings 09:17-19](https://door43.org/en/bible/notes/1ki/09/17)
+* [Acts 02:43-45](https://door43.org/en/bible/notes/act/02/43)
+* [Deuteronomy 04:5-6](https://door43.org/en/bible/notes/deu/04/05)
+* [Genesis 31:36-37](https://door43.org/en/bible/notes/gen/31/36)
+* [Matthew 13:44-46](https://door43.org/en/bible/notes/mat/13/44)
+

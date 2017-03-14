@@ -11,3 +11,10 @@ The term "desecrate" means to damage or contaminate a sacred place or object in 
 
 (See also: [altar](../other/altar.md) **·** [defile](../other/defile.md) **·** [dishonor](../other/dishonor.md) **·** [profane](../other/profane.md) **·** [purify](../kt/purify.md) **·** [temple](../kt/temple.md) **·** [unholy](../kt/unholy.md))
 
+## Bible References: ##
+
+* [Acts 24:4-6](https://door43.org/en/bible/notes/act/24/04)
+* [Isaiah 30:22](https://door43.org/en/bible/notes/isa/30/22)
+* [Psalms 074:7-8](https://door43.org/en/bible/notes/psa/074/007)
+* [Psalms 089:38-40](https://door43.org/en/bible/notes/psa/089/038)
+

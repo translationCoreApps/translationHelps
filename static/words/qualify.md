@@ -15,3 +15,7 @@ The term "qualify" refers to earning the right to receive certain benefits or to
 
 (See also: [colossae](../other/colossae.md) **·** [godly](../kt/godly.md) **·** [kingdom](../other/kingdom.md) **·** [light](../kt/light.md) **·** [paul](../other/paul.md) **·** [redeem](../kt/redeem.md))
 
+## Bible References: ##
+
+* [Daniel 01:3-5](https://door43.org/en/bible/notes/dan/01/03)
+

@@ -12,3 +12,9 @@ Annas was the Jewish high priest in Jerusalem for 10 years, from approximately A
 
 (See also: [highpriest](../kt/highpriest.md) **·** [priest](../kt/priest.md))
 
+## Bible References: ##
+
+* [Acts 04:5-7](https://door43.org/en/bible/notes/act/04/05)
+* [John 18:22-24](https://door43.org/en/bible/notes/jhn/18/22)
+* [Luke 03:1-2](https://door43.org/en/bible/notes/luk/03/01)
+

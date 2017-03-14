@@ -12,3 +12,12 @@ A decree is a proclamation or law that is publicly declared to all the people.
 
 (See also: [command](../other/command.md) **·** [declare](../other/declare.md) **·** [law](../other/law.md) **·** [proclaim](../other/proclaim.md))
 
+## Bible References: ##
+
+* [1 Chronicles 15:13-15](https://door43.org/en/bible/notes/1ch/15/13)
+* [1 Kings 08:57-58](https://door43.org/en/bible/notes/1ki/08/57)
+* [Acts 17:5-7](https://door43.org/en/bible/notes/act/17/05)
+* [Daniel 02:12-13](https://door43.org/en/bible/notes/dan/02/12)
+* [Esther 01:21-22](https://door43.org/en/bible/notes/est/01/21)
+* [Luke 02:1-3](https://door43.org/en/bible/notes/luk/02/01)
+

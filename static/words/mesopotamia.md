@@ -14,3 +14,9 @@ Mesopotamia is the area of land between the Tigris and Euphrates Rivers. Its loc
 
 (See also: [aram](../other/aram.md) **·** [babylon](../other/babylon.md) **·** [chaldeans](../other/chaldeans.md) **·** [euphrates](../other/euphrates.md))
 
+## Bible References: ##
+
+* [Acts 02:8-11](https://door43.org/en/bible/notes/act/02/08)
+* [Acts 07:1-3](https://door43.org/en/bible/notes/act/07/01)
+* [Genesis 24:10-11](https://door43.org/en/bible/notes/gen/24/10)
+

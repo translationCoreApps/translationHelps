@@ -14,3 +14,25 @@ Elijah was one of the most important prophets of Yahweh. Elijah prophesied durin
 
 (See also: [miracle](../kt/miracle.md) **·** [prophet](../kt/prophet.md) **·** [yahweh](../kt/yahweh.md))
 
+## Bible References: ##
+
+* [1 Kings 17:1](https://door43.org/en/bible/notes/1ki/17/01)
+* [2 Kings 01:3-4](https://door43.org/en/bible/notes/2ki/01/03)
+* [James 05:16-18](https://door43.org/en/bible/notes/jas/05/16)
+* [John 01:19-21](https://door43.org/en/bible/notes/jhn/01/19)
+* [John 01:24-25](https://door43.org/en/bible/notes/jhn/01/24)
+* [Mark 09:4-6](https://door43.org/en/bible/notes/mrk/09/04)
+
+## Examples from the Bible stories: ##
+
+  __*[19-02](https://door43.org/en/obs/notes/frames/19-02)__ __Elijah__ was a prophet when Ahab was king over the kingdom of Israel.
+  __*[19-02](https://door43.org/en/obs/notes/frames/19-02)__ __Elijah__ said to Ahab, "There will be no rain or dew in the kingdom of Israel until I say so."
+  __*[19-03](https://door43.org/en/obs/notes/frames/19-03)__ God told __Elijah__ to go to a stream in the wilderness to hide from Ahab who wanted to kill him. Every morning and every evening, birds would bring him bread and meat.
+  __*[19-04](https://door43.org/en/obs/notes/frames/19-04)__ But they took care of __Elijah__, and God provided for them so that their flour jar and their bottle of oil never became empty.
+  __*[19-05](https://door43.org/en/obs/notes/frames/19-05)__ After three and a half years, God told __Elijah__ to return to the kingdom of Israel and speak with Ahab because he was going to send rain again.
+  __*[19-07](https://door43.org/en/obs/notes/frames/19-07)__ Then __Elijah__ said to the prophets of Baal, "Kill a bull and prepare it as a sacrifice, but do not light the fire."
+  __*[19-12](https://door43.org/en/obs/notes/frames/19-12)__ Then __Elijah__ said, "Do not let any of the prophets of Baal escape!"
+  __*[36-03](https://door43.org/en/obs/notes/frames/36-03)__ Then Moses and the prophet __Elijah__ appeared. These men had lived hundreds of years before this. They talked with Jesus about his death that would soon happen in Jerusalem.
+
+
+

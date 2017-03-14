@@ -12,3 +12,10 @@ A spear is a weapon with a long wooden handle and sharp metal blade on one end t
 
 (See also: [prey](../other/prey.md) **·** [rome](../other/rome.md) **·** [sword](../other/sword.md) **·** [warrior](../other/warrior.md))
 
+## Bible References: ##
+
+* [1 Samuel 13:19-21](https://door43.org/en/bible/notes/1sa/13/19)
+* [2 Samuel 21:18-19](https://door43.org/en/bible/notes/2sa/21/18)
+* [Nehemiah 04:12-14](https://door43.org/en/bible/notes/neh/04/12)
+* [Psalm 035:1-3](https://door43.org/en/bible/notes/psa/035/001)
+

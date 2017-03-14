@@ -21,3 +21,15 @@ In the Bible, the term "heart" is often used figuratively to refer to a person's
 
 (See also: [hard](../other/hard.md))
 
+## Bible References: ##
+
+* [1 John 03:16-18](https://door43.org/en/bible/notes/1jn/03/16)
+* [1 Thessalonians 02:3-4](https://door43.org/en/bible/notes/1th/02/03)
+* [2 Thessalonians 03:13-15](https://door43.org/en/bible/notes/2th/03/13)
+* [Acts 08:20-23](https://door43.org/en/bible/notes/act/08/20)
+* [Acts 15:7-9](https://door43.org/en/bible/notes/act/15/07)
+* [Luke 08:14-15](https://door43.org/en/bible/notes/luk/08/14)
+* [Mark 02:5-7](https://door43.org/en/bible/notes/mrk/02/05)
+* [Matthew 05:5-8](https://door43.org/en/bible/notes/mat/05/05)
+* [Matthew 22:37-38](https://door43.org/en/bible/notes/mat/22/37)
+

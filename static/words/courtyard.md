@@ -20,3 +20,13 @@ The terms "courtyard" and "court" refer to an enclosed area that is open to the 
 
 (See also: [gentile](../other/gentile.md) **·** [judgeposition](../other/judgeposition.md) **·** [king](../other/king.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
 
+## Bible References: ##
+
+* [2 Kings 20:4-5](https://door43.org/en/bible/notes/2ki/20/04)
+* [Exodus 27:9-10](https://door43.org/en/bible/notes/exo/27/09)
+* [Jeremiah 19:14-15](https://door43.org/en/bible/notes/jer/19/14)
+* [Luke 22:54-55](https://door43.org/en/bible/notes/luk/22/54)
+* [Matthew 26:69-70](https://door43.org/en/bible/notes/mat/26/69)
+* [Numbers 03:24-26](https://door43.org/en/bible/notes/num/03/24)
+* [Psalms 065:4](https://door43.org/en/bible/notes/psa/065/004)
+

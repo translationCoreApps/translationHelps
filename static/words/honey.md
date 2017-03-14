@@ -12,3 +12,11 @@ Honey is the sweet, sticky, edible substance that honeybees make out of flower n
 
 (See also: [johnthebaptist](../other/johnthebaptist.md), [jonathan](../other/jonathan.md), [philistines](../other/philistines.md), [samson](../other/samson.md))
 
+## Bible References: ##
+
+* [1 Kings 14:1-3](https://door43.org/en/bible/notes/1ki/14/01)
+* [Deuteronomy 06:3](https://door43.org/en/bible/notes/deu/06/03)
+* [Exodus 13:3-5](https://door43.org/en/bible/notes/exo/13/03)
+* [Joshua 05:6-7](https://door43.org/en/bible/notes/jos/05/06)
+* [Proverbs 05:3-4](https://door43.org/en/bible/notes/pro/05/03)
+

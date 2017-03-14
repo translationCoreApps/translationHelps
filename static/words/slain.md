@@ -10,3 +10,8 @@ The term "slay" means to kill a person or animal. Often it means to kill in a fo
 
 (See also: [slaughter](../other/slaughter.md))
 
+## Bible References: ##
+
+* [Ezekiel 28:23-24](https://door43.org/en/bible/notes/ezk/28/23)
+* [Isaiah 26:20-21](https://door43.org/en/bible/notes/isa/26/20)
+

@@ -16,3 +16,13 @@
 
 (See also: [mesopotamia](../other/mesopotamia.md) **·** [paddanaram](../other/paddanaram.md) **·** [rebekah](../other/rebekah.md) **·** [shem](../other/shem.md) **·** [syria](../other/syria.md))
 
+## Bible References: ##
+
+* [1 Chronicles 01:17-19](https://door43.org/en/bible/notes/1ch/01/17)
+* [2 Samuel 08:5-6](https://door43.org/en/bible/notes/2sa/08/05)
+* [Amos 01:5](https://door43.org/en/bible/notes/amo/01/05)
+* [Ezekiel 27:16-18](https://door43.org/en/bible/notes/ezk/27/16)
+* [Genesis 31:19-21](https://door43.org/en/bible/notes/gen/31/19)
+* [Hosea 12:11-12](https://door43.org/en/bible/notes/hos/12/11)
+* [Psalm 060:1](https://door43.org/en/bible/notes/psa/060/001)
+

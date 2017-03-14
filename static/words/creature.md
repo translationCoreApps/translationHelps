@@ -14,3 +14,11 @@ The term "creature" refers to all the living beings that God created, both human
 
 (See also: [creation](../other/creation.md))
 
+## Bible References: ##
+
+* [Daniel 04:10-12](https://door43.org/en/bible/notes/dan/04/10)
+* [Ezekiel 01:7-9](https://door43.org/en/bible/notes/ezk/01/07)
+* [Joshua 10:28](https://door43.org/en/bible/notes/jos/10/28)
+* [Leviticus 11:46-47](https://door43.org/en/bible/notes/lev/11/46)
+* [Revelation 19:3-4](https://door43.org/en/bible/notes/rev/19/03)
+

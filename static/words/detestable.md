@@ -16,3 +16,11 @@ The term "detestable" describes something that should be disliked and rejected. 
 
 (See also: [divination](../other/divination.md) **·** [unclean](../kt/unclean.md))
 
+## Bible References: ##
+
+* [Genesis 43:32-34](https://door43.org/en/bible/notes/gen/43/32)
+* [Jeremiah 07:29-30](https://door43.org/en/bible/notes/jer/07/29)
+* [Leviticus 11:9-10](https://door43.org/en/bible/notes/lev/11/09)
+* [Luke 16:14-15](https://door43.org/en/bible/notes/luk/16/14)
+* [Revelation 17:3-5](https://door43.org/en/bible/notes/rev/17/03)
+

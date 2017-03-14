@@ -13,3 +13,13 @@ Ethiopia is a country in Africa located just south of Egypt, bordered by the Nil
 
 (See also: [cush](../other/cush.md) **·** [egypt](../other/egypt.md) **·** [eunuch](../other/eunuch.md) **·** [philip](../other/philip.md))
 
+## Bible References: ##
+
+* [Acts 08:26-28](https://door43.org/en/bible/notes/act/08/26)
+* [Acts 08:29-31](https://door43.org/en/bible/notes/act/08/29)
+* [Acts 08:32-33](https://door43.org/en/bible/notes/act/08/32)
+* [Acts 08:36-38](https://door43.org/en/bible/notes/act/08/36)
+* [Isaiah 18:1-2](https://door43.org/en/bible/notes/isa/18/01)
+* [Nahum 03:8-9](https://door43.org/en/bible/notes/nam/03/08)
+* [Zephaniah 03:9-11](https://door43.org/en/bible/notes/zep/03/09)
+

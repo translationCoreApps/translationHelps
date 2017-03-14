@@ -17,3 +17,14 @@ The terms "defile" and "be defiled" refer to becoming polluted or dirty. Somethi
 
 (See also: [unclean](../kt/unclean.md) **·** [clean](../kt/clean.md))
 
+## Bible References: ##
+
+* [2 Kings 23:8-9](https://door43.org/en/bible/notes/2ki/23/08)
+* [Exodus 20:24-26](https://door43.org/en/bible/notes/exo/20/24)
+* [Genesis 34:27-29](https://door43.org/en/bible/notes/gen/34/27)
+* [Genesis 49:3-4](https://door43.org/en/bible/notes/gen/49/03)
+* [Isaiah 43:27-28](https://door43.org/en/bible/notes/isa/43/27)
+* [Leviticus 11:43-45](https://door43.org/en/bible/notes/lev/11/43)
+* [Mark 07:14-16](https://door43.org/en/bible/notes/mrk/07/14)
+* [Matthew 15:10-11](https://door43.org/en/bible/notes/mat/15/10)
+
