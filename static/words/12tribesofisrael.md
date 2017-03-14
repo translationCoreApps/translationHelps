@@ -11,4 +11,3 @@ The term, "twelve tribes of Israel" refers to the twelve sons of Jacob and their
 *  There are several places in the Bible where the list of the twelve tribes are slightly different. Sometimes Levi, Joseph, or Dan is left out of the list and sometimes Joseph's two sons Ephraim and Manasseh are included in the list.
 
 (See also: [inherit](../kt/inherit.md) **·** [israel](../other/israel.md) **·** [jacob](../other/jacob.md),[priest](../kt/priest.md) **·** [tribe](../other/tribe.md)) 
-
