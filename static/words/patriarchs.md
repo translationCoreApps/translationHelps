@@ -9,10 +9,3 @@ The term "patriarchs" in the OT refers to the founding fathers of the Jewish peo
 
 (See also: [ancestor](../other/ancestor.md) **·** [father](../other/father.md))
 
-## Bible References: ##
-
-* [Acts 02:29-31](https://door43.org/en/bible/notes/act/02/29)
-* [Acts 07:6-8](https://door43.org/en/bible/notes/act/07/06)
-* [Acts 07:9-10](https://door43.org/en/bible/notes/act/07/09)
-* [Ezra 03:12-13](https://door43.org/en/bible/notes/ezr/03/12)
-

@@ -13,9 +13,3 @@ The term "prostrate" means to be lying face down, stretched out on the ground.
 
 (See also: [awe](../other/awe.md) **·** [bow](../kt/bow.md))
 
-## Bible References: ##
-
-* [2 Kings 17:36-38](https://door43.org/en/bible/notes/2ki/17/36)
-* [Genesis 43:28-29](https://door43.org/en/bible/notes/gen/43/28)
-* [Revelation 19:3-4](https://door43.org/en/bible/notes/rev/19/03)
-

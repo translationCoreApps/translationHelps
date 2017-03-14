@@ -15,12 +15,3 @@ In the Bible, the term "lampstand" generally refers to a structure on which a la
 
 (See also: [bronze](../other/bronze.md) **·** [gold](../other/gold.md) **·** [lamp](../other/lamp.md) **·** [light](../kt/light.md) **·** [silver](../other/silver.md) **·** [temple](../kt/temple.md))
 
-## Bible References: ##
-
-* [Daniel 05:5-6](https://door43.org/en/bible/notes/dan/05/05)
-* [Exodus 37:17-19](https://door43.org/en/bible/notes/exo/37/17)
-* [Mark 04:21-23](https://door43.org/en/bible/notes/mrk/04/21)
-* [Matthew 05:15-16](https://door43.org/en/bible/notes/mat/05/15)
-* [Revelation 01:12-13](https://door43.org/en/bible/notes/rev/01/12)
-* [Revelation 01:19-20](https://door43.org/en/bible/notes/rev/01/19)
-

@@ -17,12 +17,3 @@ refers to something good that is gained. Something is "profitable" to someone if
 * To "profit from" something could be translated as "benefit from" or "gain money from" or "receive help from."
 * In the context of a business, "profit" could be translated with a word or phrase that means, "money gained" or "surplus of money" or "extra money."
 
-## Bible References: ##
-
-* [2 Peter 02:1-3](https://door43.org/en/bible/notes/2pe/02/01)
-* [Ezekiel 18:12-13](https://door43.org/en/bible/notes/ezk/18/12)
-* [John 06:62-63](https://door43.org/en/bible/notes/jhn/06/62)
-* [Mark 08:35-37](https://door43.org/en/bible/notes/mrk/08/35)
-* [Matthew 16:24-26](https://door43.org/en/bible/notes/mat/16/24)
-* [Proverbs 10:16-17](https://door43.org/en/bible/notes/pro/10/16)
-

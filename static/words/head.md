@@ -22,15 +22,3 @@ In the Bible, the word "head" is used with several figurative meanings.
 
 (See also: [grain](../other/grain.md))
 
-## Bible References: ##
-
-* [1 Chronicles 01:51-54](https://door43.org/en/bible/notes/1ch/01/51)
-* [1 Kings 08:1-2](https://door43.org/en/bible/notes/1ki/08/01)
-* [1 Samuel 09:22](https://door43.org/en/bible/notes/1sa/09/22)
-* [Colossians 02:10-12](https://door43.org/en/bible/notes/col/02/10)
-* [Colossians 02:18-19](https://door43.org/en/bible/notes/col/02/18)
-* [Numbers 01:4-6](https://door43.org/en/bible/notes/num/01/04)
-
-* [Prev chunk](../other/haughty.md): [publish-current](../other/haughty?do=diff&rev2[0]=1422634235&rev2[1]=&difftype=sidebyside.md)
-* [This chunk](../other/head.md): [review-publish](../other/head?do=diff&rev2[0]=1427910570&rev2[1]=1427916683&difftype=sidebyside.md) | [publish-current](../other/head?do=diff&rev2[0]=1427916683&rev2[1]=&difftype=sidebyside.md)
-* [Next chunk](../other/heal.md): [publish-current](../other/heal?do=diff&rev2[0]=1412189656&rev2[1]=&difftype=sidebyside.md)

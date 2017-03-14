@@ -12,11 +12,3 @@ Hamor was a Canaanite man living in the city of Shechem when Jacob and his famil
 
 (See also: [canaan](../other/canaan.md) **·** [hivite](../other/hivite.md) **·** [jacob](../other/jacob.md) **·** [shechem](../other/shechem.md) **·** [succoth](../other/succoth.md))
 
-## Bible References: ##
-
-* [Acts 07:14-16](https://door43.org/en/bible/notes/act/07/14)
-* [Genesis 34:1-3](https://door43.org/en/bible/notes/gen/34/01)
-* [Genesis 34:20-21](https://door43.org/en/bible/notes/gen/34/20)
-* [Joshua 24:32-33](https://door43.org/en/bible/notes/jos/24/32)
-* [Judges 09:28-29](https://door43.org/en/bible/notes/jdg/09/28)
-

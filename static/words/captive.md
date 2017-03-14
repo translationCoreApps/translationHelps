@@ -21,10 +21,3 @@ The terms "captive" and "captivity" refer to capturing people and forcing them t
 
 (See also: [babylon](../other/babylon.md) **·** [exile](../other/exile.md) **·** [prison](../other/prison.md) **·** [seize](../other/seize.md))
 
-## Bible References: ##
-
-* [2 Corinthians 10:5-6](https://door43.org/en/bible/notes/2co/10/05)
-* [Isaiah 20:3-4](https://door43.org/en/bible/notes/isa/20/03)
-* [Jeremiah 43:1-3](https://door43.org/en/bible/notes/jer/43/01)
-* [Luke 04:18-19](https://door43.org/en/bible/notes/luk/04/18)
-

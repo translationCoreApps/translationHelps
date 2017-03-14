@@ -12,13 +12,3 @@ To dedicate is to set apart or commit something for a special purpose or functio
 
 (See also: [commit](../other/commit.md))
 
-## Bible References: ##
-
-* [1 Chronicles 15:11-12](https://door43.org/en/bible/notes/1ch/15/11)
-* [1 Corinthians 06:9-11](https://door43.org/en/bible/notes/1co/06/09)
-* [1 Kings 07:51](https://door43.org/en/bible/notes/1ki/07/51)
-* [1 Timothy 04:3-5](https://door43.org/en/bible/notes/1ti/04/03)
-* [2 Chronicles 02:4-5](https://door43.org/en/bible/notes/2ch/02/04)
-* [John 17:18-19](https://door43.org/en/bible/notes/jhn/17/18)
-* [Luke 02:22-24](https://door43.org/en/bible/notes/luk/02/22)
-

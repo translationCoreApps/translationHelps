@@ -13,11 +13,3 @@ The term "livestock" refers to animals which are raised to provide food and othe
 
 (See also: [cow](../other/cow.md) **·** [donkey](../other/donkey.md) **·** [goat](../other/goat.md) **·** [horse](../other/horse.md) **·** [ox](../other/ox.md) **·** [sheep](../other/sheep.md), 
 
-## Bible References: ##
-
-* [2 Kings 03:15-17](https://door43.org/en/bible/notes/2ki/03/15)
-* [Genesis 30:29-30](https://door43.org/en/bible/notes/gen/30/29)
-* [Joshua 01:14-15](https://door43.org/en/bible/notes/jos/01/14)
-* [Nehemiah 09:36-37](https://door43.org/en/bible/notes/neh/09/36)
-* [Numbers 03:40-41](https://door43.org/en/bible/notes/num/03/40)
-

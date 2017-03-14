@@ -11,10 +11,3 @@ The term "threshold" refers to the bottom part of a doorway or the part of a bui
 
 (See also: [gate](../kt/gate.md) **·** [tent](../other/tent.md))
 
-## Bible References: ##
-
-* [1 Chronicles 09:17-19](https://door43.org/en/bible/notes/1ch/09/17)
-* [Ezekiel 09:3-4](https://door43.org/en/bible/notes/ezk/09/03)
-* [Isaiah 06:4-5](https://door43.org/en/bible/notes/isa/06/04)
-* [Proverbs 17:19-20](https://door43.org/en/bible/notes/pro/17/19)
-

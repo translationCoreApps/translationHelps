@@ -13,10 +13,3 @@ Gabriel is the name of one of God's angels. He is mentioned by name several time
 
 (See also: [angel](../kt/angel.md) **·** [daniel](../other/daniel.md) **·** [elizabeth](../other/elizabeth.md) **·** [johnthebaptist](../other/johnthebaptist.md) **·** [mary](../other/mary.md) **·** [prophet](../kt/prophet.md) **·** [sonofgod](../kt/sonofgod.md) **·** [zechariahnt](../other/zechariahnt.md))
 
-## Bible References: ##
-
-* [Daniel 08:15-17](https://door43.org/en/bible/notes/dan/08/15)
-* [Daniel 09:20-21](https://door43.org/en/bible/notes/dan/09/20)
-* [Luke 01:18-20](https://door43.org/en/bible/notes/luk/01/18)
-* [Luke 01:26-29](https://door43.org/en/bible/notes/luk/01/26)
-

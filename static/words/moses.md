@@ -13,24 +13,3 @@ Moses was a prophet and leader of the Israelite people for over 40 years.
 
 (See also: [miriam](../other/miriam.md) **·** [promisedland](../kt/promisedland.md) **·** [tencommandments](../other/tencommandments.md))
 
-## Bible References: ##
-
-* [Acts 07:20-21](https://door43.org/en/bible/notes/act/07/20)
-* [Acts 07:29-30](https://door43.org/en/bible/notes/act/07/29)
-* [Exodus 02:9-10](https://door43.org/en/bible/notes/exo/02/09)
-* [Exodus 09:1-4](https://door43.org/en/bible/notes/exo/09/01)
-* [Matthew 17:3-4](https://door43.org/en/bible/notes/mat/17/03)
-* [Romans 05:14-15](https://door43.org/en/bible/notes/rom/05/14)
-
-## Examples from the Bible stories: ##
-
-  __*[09-12](https://door43.org/en/obs/notes/frames/09-12)__ One day while __Moses__ was taking care of his sheep, he saw a bush that was on fire.
-  __*[12-05](https://door43.org/en/obs/notes/frames/12-05)__ __Moses__ told the Israelites, "Stop being afraid! God will fight for you today and save you."
-  __*[12-07](https://door43.org/en/obs/notes/frames/12-07)__ God told __Moses__ to raise his hand over the sea and divide the waters.
-  __*[12-12](https://door43.org/en/obs/notes/frames/12-12)__ When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a prophet of God.
-  __*[13-07](https://door43.org/en/obs/notes/frames/13-07)__ Then God wrote these Ten Commandments on two stone tablets and gave them to __Moses__.
-
-
-
-\\
-

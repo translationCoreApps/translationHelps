@@ -12,11 +12,3 @@ The terms "exult" and "exultant" refer to being very happy because of a success 
 
 (See also: [arrogant](../other/arrogant.md) **·** [joy](../kt/joy.md) **·** [praise](../other/praise.md) **·** [rejoice](../other/rejoice.md))
 
-## Bible References: ##
-
-* [1 Samuel 02:1](https://door43.org/en/bible/notes/1sa/02/01)
-* [Isaiah 13:1-3](https://door43.org/en/bible/notes/isa/13/01)
-* [Job 06:10-11](https://door43.org/en/bible/notes/job/06/10)
-* [Psalm 068:1-3](https://door43.org/en/bible/notes/psa/068/001)
-* [Zephaniah 02:15](https://door43.org/en/bible/notes/zep/02/15)
-

@@ -21,14 +21,3 @@ A sword is a flat-bladed metal weapon used to cut or stab. It has a handle and a
 
 (See also: [jamesbrotherofjesus](../other/jamesbrotherofjesus.md) **·** [johnthebaptist](../other/johnthebaptist.md) **·** [tongue](../other/tongue.md) **·** [wordofgod](../kt/wordofgod.md))
 
-## Bible References: ##
-
-* [Acts 12:1-2](https://door43.org/en/bible/notes/act/12/01)
-* [Genesis 27:39-40](https://door43.org/en/bible/notes/gen/27/39)
-* [Genesis 34:24-26](https://door43.org/en/bible/notes/gen/34/24)
-* [Luke 02:33-35](https://door43.org/en/bible/notes/luk/02/33)
-* [Luke 21:23-24](https://door43.org/en/bible/notes/luk/21/23)
-* [Matthew 10:34-36](https://door43.org/en/bible/notes/mat/10/34)
-* [Matthew 26:55-56](https://door43.org/en/bible/notes/mat/26/55)
-* [Revelation 01:14-16](https://door43.org/en/bible/notes/rev/01/14)
-

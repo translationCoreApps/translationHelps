@@ -12,14 +12,3 @@ A stone is a small rock. The term "stoning" refers to throwing stones and larger
 
 (See also: [adultery](../kt/adultery.md) **·** [commit](../other/commit.md) **·** [criminal](../other/criminal.md) **·** [death](../kt/death.md) **·** [lystra](../other/lystra.md) **·** [testimony](../kt/testimony.md))
 
-## Bible References: ##
-
-* [Acts 07:57-58](https://door43.org/en/bible/notes/act/07/57)
-* [Acts 07:59-60](https://door43.org/en/bible/notes/act/07/59)
-* [Acts 14:5-7](https://door43.org/en/bible/notes/act/14/05)
-* [Acts 14:19-20](https://door43.org/en/bible/notes/act/14/19)
-* [John 08:4-6](https://door43.org/en/bible/notes/jhn/08/04)
-* [Luke 13:34-35](https://door43.org/en/bible/notes/luk/13/34)
-* [Luke 20:5-6](https://door43.org/en/bible/notes/luk/20/05)
-* [Matthew 23:37-39](https://door43.org/en/bible/notes/mat/23/37)
-

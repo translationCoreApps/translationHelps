@@ -12,12 +12,3 @@ The "Festival of Weeks" was a Jewish festival that took place fifty days after P
 
 (See also: [festival](../other/festival.md) **·** [firstfruit](../kt/firstfruit.md) **·** [harvest](../kt/harvest.md) **·** [holyspirit](../kt/holyspirit.md) **·** [raise](../kt/raise.md))
 
-## Bible References: ##
-
-* [2 Chronicles 08:12-13](https://door43.org/en/bible/notes/2ch/08/12)
-* [Acts 02:1-4](https://door43.org/en/bible/notes/act/02/01)
-* [Acts 20:15-16](https://door43.org/en/bible/notes/act/20/15)
-* [Deuteronomy 16:16-17](https://door43.org/en/bible/notes/deu/16/16)
-* [Numbers 28:26-28](https://door43.org/en/bible/notes/num/28/26)
-
-

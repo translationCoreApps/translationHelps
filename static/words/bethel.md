@@ -13,10 +13,3 @@ Bethel was a city located just north of Jerusalem in the land of Canaan. It was 
 
 (See also: [abraham](../other/abraham.md) **·** [altar](../other/altar.md) [jacob](../other/jacob.md) [jerusalem](../other/jerusalem.md))
 
-## Bible References: ##
-
-* [Genesis 12:8-9](https://door43.org/en/bible/notes/gen/12/08)
-* [Genesis 35:1-3](https://door43.org/en/bible/notes/gen/35/01)
-* [Hosea 10:14-15](https://door43.org/en/bible/notes/hos/10/14)
-* [Judges 01:22-24](https://door43.org/en/bible/notes/jdg/01/22)
-

@@ -20,13 +20,3 @@ In addition to its primary meaning, "water" also often refers to a body of water
 
 (See also: [life](../kt/life.md) **·** [spirit](../kt/spirit.md) **·** [holyspirit](../kt/holyspirit.md) **·** [power](../kt/power.md))
 
-## Bible References: ##
-
-* [Acts 08:36-38](https://door43.org/en/bible/notes/act/08/36)
-* [Exodus 14:21-22](https://door43.org/en/bible/notes/exo/14/21)
-* [John 04:9-10](https://door43.org/en/bible/notes/jhn/04/09)
-* [John 04:13-14](https://door43.org/en/bible/notes/jhn/04/13)
-* [John 04:15-16](https://door43.org/en/bible/notes/jhn/04/15)
-* [Matthew 14:28-30](https://door43.org/en/bible/notes/mat/14/28)
-
-

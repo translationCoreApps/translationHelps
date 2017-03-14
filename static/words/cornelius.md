@@ -13,13 +13,3 @@ Cornelius was a Gentile, or non-Jewish man, who was a military officer in the Ro
 
 (See also: [apostle](../kt/apostle.md) **·** [believer](../kt/believer.md) **·** [gentile](../other/gentile.md) **·** [goodnews](../kt/goodnews.md) **·** [greek](../other/greek.md) **·** [centurion](../other/centurion.md))
 
-## Bible References: ##
-
-* [Acts 10:1-2](https://door43.org/en/bible/notes/act/10/01)
-* [Acts 10:7-8](https://door43.org/en/bible/notes/act/10/07)
-* [Acts 10:17-18](https://door43.org/en/bible/notes/act/10/17)
-* [Acts 10:22-23](https://door43.org/en/bible/notes/act/10/22)
-* [Acts 10:24](https://door43.org/en/bible/notes/act/10/24)
-* [Acts 10:25-26](https://door43.org/en/bible/notes/act/10/25)
-* [Acts 10:30-33](https://door43.org/en/bible/notes/act/10/30)
-

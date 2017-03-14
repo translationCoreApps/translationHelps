@@ -15,12 +15,3 @@ The terms "teach" and "teaching" refer to telling other people information they 
 
 (See also: [instruct](../other/instruct.md) **·** [teacher](../kt/teacher.md) **·** [wordofgod](../kt/wordofgod.md))
 
-## Bible References: ##
-
-* [1 Timothy 01:3-4](https://door43.org/en/bible/notes/1ti/01/03)
-* [Acts 02:40-42](https://door43.org/en/bible/notes/act/02/40)
-* [John 07:14-16](https://door43.org/en/bible/notes/jhn/07/14)
-* [Luke 04:31-32](https://door43.org/en/bible/notes/luk/04/31)
-* [Matthew 04:23-25](https://door43.org/en/bible/notes/mat/04/23)
-* [Psalms 032:7-8](https://door43.org/en/bible/notes/psa/032/007)
-

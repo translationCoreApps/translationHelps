@@ -13,9 +13,3 @@ Simon the Zealot was one of Jesus' twelve disciples.
 
 (See also: [apostle](../kt/apostle.md) **·** [disciple](../kt/disciple.md) **·** [thetwelve](../kt/thetwelve.md))
 
-## Bible References: ##
-
-* [Acts 01:12-14](https://door43.org/en/bible/notes/act/01/12)
-* [Luke 06:14-16](https://door43.org/en/bible/notes/luk/06/14)
-* [Mark 03:17-19](https://door43.org/en/bible/notes/mrk/03/17)
-

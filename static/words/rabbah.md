@@ -10,11 +10,3 @@ Rabbah was the most important city of the Ammonite people.
 
 (See also: [ammon](../other/ammon.md) **·** [david](../other/david.md))
 
-## Bible References: ##
-
-* [1 Chronicles 20:1](https://door43.org/en/bible/notes/1ch/20/01)
-* [2 Samuel 12:26-28](https://door43.org/en/bible/notes/2sa/12/26)
-* [Deuteronomy 03:11](https://door43.org/en/bible/notes/deu/03/11)
-* [Ezekiel 25:3-5](https://door43.org/en/bible/notes/ezk/25/03)
-* [Jeremiah 49:1-2](https://door43.org/en/bible/notes/jer/49/01)
-

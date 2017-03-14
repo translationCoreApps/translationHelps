@@ -11,11 +11,3 @@ A freewill offering was a type of sacrifice to God that was not required by the 
 
 (See also: [burntoffering](../other/burntoffering.md) **·** [ezra](../other/ezra.md) **·** [feast](../other/feast.md) **·** [grainoffering](../other/grainoffering.md) **·** [guiltoffering](../other/guiltoffering.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [sinoffering](../other/sinoffering.md))
 
-## Bible References: ##
-
-* [1 Chronicles 29:6-7](https://door43.org/en/bible/notes/1ch/29/06)
-* [2 Chronicles 35:7-9](https://door43.org/en/bible/notes/2ch/35/07)
-* [Deuteronomy 12:17](https://door43.org/en/bible/notes/deu/12/17)
-* [Exodus 36:2-4](https://door43.org/en/bible/notes/exo/36/02)
-* [Leviticus 07:15-16](https://door43.org/en/bible/notes/lev/07/15)
-

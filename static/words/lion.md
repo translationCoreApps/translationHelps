@@ -14,11 +14,3 @@ A lion is a large, cat-like, wild animal, with powerful teeth and claws for kill
 
 (See also: [david](../other/david.md) **·** [leopard](../other/leopard.md) **·** [samson](../other/samson.md) **·** [sheep](../other/sheep.md))
 
-## Bible References: ##
-
-* [1 Chronicles 11:22-23](https://door43.org/en/bible/notes/1ch/11/22)
-* [1 Kings 07:27-29](https://door43.org/en/bible/notes/1ki/07/27)
-* [Proverbs 19:11-12](https://door43.org/en/bible/notes/pro/19/11)
-* [Psalms 017:11-12](https://door43.org/en/bible/notes/psa/017/011)
-* [Revelation 05:3-5](https://door43.org/en/bible/notes/rev/05/03)
-

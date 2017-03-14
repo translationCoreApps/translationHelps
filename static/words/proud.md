@@ -20,19 +20,3 @@ The terms "proud" and "prideful" refer to a person thinking too highly of himsel
 
 (See also: [arrogant](../other/arrogant.md) **·** [humble](../other/humble.md) **·** [joy](../kt/joy.md))
 
-## Bible References: ##
-
-* [1 Timothy 03:6-7](https://door43.org/en/bible/notes/1ti/03/06)
-* [2 Corinthians 01:12-14](https://door43.org/en/bible/notes/2co/01/12)
-* [Galatians 06:3-5](https://door43.org/en/bible/notes/gal/06/03)
-* [Isaiah 13:19-20](https://door43.org/en/bible/notes/isa/13/19)
-* [Luke 01:50-51](https://door43.org/en/bible/notes/luk/01/50)
-
-## Examples from the Bible stories: ##
-
-  __*[04-02](https://door43.org/en/obs/notes/frames/04-02)__ They were very __proud__, and they did not care about what God said.
-  __*[34-10](https://door43.org/en/obs/notes/frames/34-10)__ Then Jesus said, "I tell you the truth, God heard the tax collector's prayer and declared him to be righteous. But he did not like the prayer of the religious leader. God will humble everyone who is __proud__, and he will lift up whoever humbles himself."
-
-
-
-

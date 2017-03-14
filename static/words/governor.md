@@ -17,12 +17,3 @@ A "governor" is a person who rules over a state, region, or territory. The word 
 
 (See also: [authority](../kt/authority.md) **·** [king](../other/king.md) **·** [power](../kt/power.md) **·** [province](../other/province.md) **·** [rome](../other/rome.md) **·** [ruler](../other/ruler.md))
 
-## Bible References: ##
-
-* [Acts 07:9-10](https://door43.org/en/bible/notes/act/07/09)
-* [Acts 23:22-24](https://door43.org/en/bible/notes/act/23/22)
-* [Acts 26:30-32](https://door43.org/en/bible/notes/act/26/30)
-* [Mark 13:9-10](https://door43.org/en/bible/notes/mrk/13/09)
-* [Matthew 10:16-18](https://door43.org/en/bible/notes/mat/10/16)
-* [Matthew 27:1-2](https://door43.org/en/bible/notes/mat/27/01)
-

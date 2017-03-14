@@ -15,10 +15,3 @@ Jonah was a Hebrew prophet in the Old Testament.
 
 (See also: [disobey](../other/disobey.md) **·** [nineveh](../other/nineveh.md) **·** [turn](../kt/turn.md))
 
-## Bible References: ##
-
-* [Jonah 01:1-3](https://door43.org/en/bible/notes/jon/01/01)
-* [Luke 11:29-30](https://door43.org/en/bible/notes/luk/11/29)
-* [Matthew 12:38-40](https://door43.org/en/bible/notes/mat/12/38)
-* [Matthew 16:3-4](https://door43.org/en/bible/notes/mat/16/03)
-

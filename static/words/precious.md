@@ -13,12 +13,3 @@ The term "precious" describes people or things that are considered to be very va
 
 (See also: [gold](../other/gold.md) **·** [silver](../other/silver.md))
 
-## Bible References: ##
-
-* [2 Peter 01:1-2](https://door43.org/en/bible/notes/2pe/01/01)
-* [Acts 20:22-24](https://door43.org/en/bible/notes/act/20/22)
-* [Daniel 11:38-39](https://door43.org/en/bible/notes/dan/11/38)
-* [Lamentations 01:7](https://door43.org/en/bible/notes/lam/01/07)
-* [Luke 07:2-5](https://door43.org/en/bible/notes/luk/07/02)
-* [Psalms 036:7-9](https://door43.org/en/bible/notes/psa/036/007)
-

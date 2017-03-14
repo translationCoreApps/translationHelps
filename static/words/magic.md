@@ -11,10 +11,3 @@ The term "magic" refers to the practice of using supernatural power that does no
 
 (See also: [divination](../other/divination.md) **·** [egypt](../other/egypt.md) **·** [pharaoh](../other/pharaoh.md) **·** [power](../kt/power.md) **·** [sorcery](../other/sorcery.md))
 
-## Bible References: ##
-
-* [Genesis 41:7-8](https://door43.org/en/bible/notes/gen/41/07)
-* [Genesis 41:22-24](https://door43.org/en/bible/notes/gen/41/22)
-* [Genesis 44:3-5](https://door43.org/en/bible/notes/gen/44/03)
-* [Genesis 44:14-15](https://door43.org/en/bible/notes/gen/44/14)
-

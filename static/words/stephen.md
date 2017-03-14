@@ -15,13 +15,3 @@ Stephen is most remembered as the first Christian martyr, that is, the first per
 
 (See also: [appoint](../kt/appoint.md) **·** [deacon](../other/deacon.md) **·** [jerusalem](../other/jerusalem.md) **·** [paul](../other/paul.md) **·** [stone](../other/stone.md) **·** [true](../other/true.md))
 
-## Bible References: ##
-
-* [Acts 06:5-6](https://door43.org/en/bible/notes/act/06/05)
-* [Acts 06:8-9](https://door43.org/en/bible/notes/act/06/08)
-* [Acts 06:10-11](https://door43.org/en/bible/notes/act/06/10)
-* [Acts 06:12-15](https://door43.org/en/bible/notes/act/06/12)
-* [Acts 07:59-60](https://door43.org/en/bible/notes/act/07/59)
-* [Acts 11:19-21](https://door43.org/en/bible/notes/act/11/19)
-* [Acts 22:19-21](https://door43.org/en/bible/notes/act/22/19)
-

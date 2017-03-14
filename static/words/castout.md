@@ -14,13 +14,3 @@ To "cast out" or "drive out" someone or something means to force that person or 
 
 (See also: [demon](../kt/demon.md) **·** [demonpossessed](../kt/demonpossessed.md) **·** [lots](../other/lots.md))
 
-## Bible References: ##
-
-* [Acts 07:17-19](https://door43.org/en/bible/notes/act/07/17)
-* [Mark 03:13-16](https://door43.org/en/bible/notes/mrk/03/13)
-* [Mark 09:28-29](https://door43.org/en/bible/notes/mrk/09/28)
-* [Matthew 07:21-23](https://door43.org/en/bible/notes/mat/07/21)
-* [Matthew 09:32-34](https://door43.org/en/bible/notes/mat/09/32)
-* [Matthew 12:24-25](https://door43.org/en/bible/notes/mat/12/24)
-* [Matthew 17:19-21](https://door43.org/en/bible/notes/mat/17/19)
-

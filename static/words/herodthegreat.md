@@ -14,13 +14,3 @@ Herod the Great was ruling over Judea at the time Jesus was born. He was the fir
 
 (See also: [herodantipas](../other/herodantipas.md) **·** [judea](../other/judea.md) **·** [king](../other/king.md) **·** [temple](../kt/temple.md))
 
-## Bible References: ##
-
-* [Matthew 02:1-3](https://door43.org/en/bible/notes/mat/02/01)
-* [Matthew 02:11-12](https://door43.org/en/bible/notes/mat/02/11)
-* [Matthew 02:16](https://door43.org/en/bible/notes/mat/02/16)
-* [Matthew 02:19-21](https://door43.org/en/bible/notes/mat/02/19)
-* [Matthew 02:22-23](https://door43.org/en/bible/notes/mat/02/22)
-
-
-

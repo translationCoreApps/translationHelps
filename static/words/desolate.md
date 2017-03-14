@@ -14,14 +14,3 @@ The terms "desolate" and "desolation" refer to destroying an inhabited region so
 
 (See also: [desert](../other/desert.md) **·** [devastated](../other/devastated.md) **·** [ruin](../other/ruin.md) **·** [waste](../other/waste.md))
 
-## Bible References: ##
-
-* [2 Kings 22:17-19](https://door43.org/en/bible/notes/2ki/22/17)
-* [Acts 01:20](https://door43.org/en/bible/notes/act/01/20)
-* [Daniel 09:17-19](https://door43.org/en/bible/notes/dan/09/17)
-* [Lamentations 03:9-11](https://door43.org/en/bible/notes/lam/03/09)
-* [Luke 11:16-17](https://door43.org/en/bible/notes/luk/11/16)
-* [Matthew 12:24-25](https://door43.org/en/bible/notes/mat/12/24)
-
- 
-

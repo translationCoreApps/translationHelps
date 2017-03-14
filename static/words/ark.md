@@ -12,11 +12,3 @@ The term, "ark" literally refers to a rectangular wooden box that is made to hol
 
 (See also: [arkofthecovenant](../other/arkofthecovenant.md) **·** [basket](../other/basket.md))
 
-## Bible References: ##
-
-* [1 Peter 03:18-20](https://door43.org/en/bible/notes/1pe/03/18)
-* [Exodus 16:33-36](https://door43.org/en/bible/notes/exo/16/33)
-* [Exodus 30:5-6](https://door43.org/en/bible/notes/exo/30/05)
-* [Genesis 08:4-5](https://door43.org/en/bible/notes/gen/08/04)
-* [Luke 17:25-27](https://door43.org/en/bible/notes/luk/17/25)
-* [Matthew 24:37-39](https://door43.org/en/bible/notes/mat/24/37)

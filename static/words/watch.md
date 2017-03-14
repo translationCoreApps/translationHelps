@@ -11,12 +11,3 @@ The term "watch" means to look at something very closely and carefully. It also 
 * Other ways of translating "watch" could include, "pay close attention to" or "be diligent" or "be very careful" or "be on guard."
 * Other words for "watchman" are "sentry" or "guard."
 
-## Bible References: ##
-
-* [1 Thessalonians 05:4-7](https://door43.org/en/bible/notes/1th/05/04)
-* [Hebrews 13:15-17](https://door43.org/en/bible/notes/heb/13/15)
-* [Jeremiah 31:4-6](https://door43.org/en/bible/notes/jer/31/04)
-* [Mark 08:14-15](https://door43.org/en/bible/notes/mrk/08/14)
-* [Mark 13:33-34](https://door43.org/en/bible/notes/mrk/13/33)
-* [Matthew 25:10-13](https://door43.org/en/bible/notes/mat/25/10)
-

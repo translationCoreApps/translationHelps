@@ -15,12 +15,3 @@ The terms "declare" and "declaration" refer to making a formal or public stateme
 
 (See also: [proclaim](../other/proclaim.md))
 
-## Bible References: ##
-
-* [1 Chronicles 16:23-24](https://door43.org/en/bible/notes/1ch/16/23)
-* [1 Corinthians 15:31-32](https://door43.org/en/bible/notes/1co/15/31)
-* [1 Samuel 24:17-18](https://door43.org/en/bible/notes/1sa/24/17)
-* [Amos 02:15-16](https://door43.org/en/bible/notes/amo/02/15)
-* [Ezekiel 05:11-12](https://door43.org/en/bible/notes/ezk/05/11)
-* [Matthew 07:21-23](https://door43.org/en/bible/notes/mat/07/21)
-

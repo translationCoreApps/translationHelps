@@ -22,22 +22,3 @@ A shepherd is a person who takes care of sheep. The verb "to shepherd" means to 
 
 (See also: [believer](../kt/believer.md) **·** [canaan](../other/canaan.md) **·** [church](../kt/church.md) **·** [moses](../other/moses.md) **·** [pastor](../kt/pastor.md) **·** [sheep](../other/sheep.md) **·** [spirit](../kt/spirit.md))
 
-## Bible References: ##
-
-* [Genesis 49:24](https://door43.org/en/bible/notes/gen/49/24)
-* [Luke 02:8-9](https://door43.org/en/bible/notes/luk/02/08)
-* [Mark 06:33-34](https://door43.org/en/bible/notes/mrk/06/33)
-* [Mark 14:26-27](https://door43.org/en/bible/notes/mrk/14/26)
-* [Matthew 02:4-6](https://door43.org/en/bible/notes/mat/02/04)
-* [Matthew 09:35-36](https://door43.org/en/bible/notes/mat/09/35)
-* [Matthew 25:31-33](https://door43.org/en/bible/notes/mat/25/31)
-* [Matthew 26:30-32](https://door43.org/en/bible/notes/mat/26/30)
-
-## Examples from the Bible stories: ##
-
-* __[09-11](https://door43.org/en/obs/notes/frames/09-11)__ Moses became a __shepherd__  in the wilderness far away from Egypt.to
-* __[17-02](https://door43.org/en/obs/notes/frames/17-02)__ David was a __shepherd__  from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep.
-* __[23-06](https://door43.org/en/obs/notes/frames/23-06)__ That night, there were some __shepherds__  in a nearby field guarding their flocks.
-* __[23-08](https://door43.org/en/obs/notes/frames/23-08)__ The __shepherds__  soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them.
-* __[30-03](https://door43.org/en/obs/notes/frames/30-03)__ To Jesus, these people were like sheep without a __shepherd__.
-

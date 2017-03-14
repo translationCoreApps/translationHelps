@@ -11,12 +11,3 @@ An "adversary" is a person or group who is opposed to someone or something. The 
 
 (See also: [satan](../kt/satan.md))
 
-## Bible References: ##
-
-* [1 Timothy 05:14-16](https://door43.org/en/bible/notes/1ti/05/14)
-* [Isaiah 09:11-12](https://door43.org/en/bible/notes/isa/09/11)
-* [Job 06:21-23](https://door43.org/en/bible/notes/job/06/21)
-* [Lamentations 04:12-13](https://door43.org/en/bible/notes/lam/04/12)
-* [Luke 12:57-59](https://door43.org/en/bible/notes/luk/12/57)
-* [Matthew 13:24-26](https://door43.org/en/bible/notes/mat/13/24)
-

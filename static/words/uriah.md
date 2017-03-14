@@ -13,17 +13,3 @@ Uriah was a righteous man and one of King David's best soldiers. He is often ref
 
 (See also: [ahaz](../other/ahaz.md) **·** [bathsheba](../other/bathsheba.md) **·** [david](../other/david.md) **·** [hittite](../other/hittite.md))
 
-## Bible References: ##
-
-* [1 Kings 15:4-6](https://door43.org/en/bible/notes/1ki/15/04)
-* [2 Samuel 11:2-3](https://door43.org/en/bible/notes/2sa/11/02)
-* [2 Samuel 11:26-27](https://door43.org/en/bible/notes/2sa/11/26)
-* [Nehemiah 03:3-5](https://door43.org/en/bible/notes/neh/03/03)
-
-## Examples from the Bible stories: ##
-
-  __*[17-12](https://door43.org/en/obs/notes/frames/17-12)__ Bathsheba's husband, a man named __Uriah__, was one of David's best soldiers. David called __Uriah__ back from the battle and told him to go be with his wife. But __Uriah__ refused to go home while the rest of the soldiers were in battle. So David sent __Uriah__ back to the battle and told the general to place him where the enemy was strongest so that he would be killed.
-  __*[17-13](https://door43.org/en/obs/notes/frames/17-13)__ After __Uriah__ was killed, David married Bathsheba.
-
-
-

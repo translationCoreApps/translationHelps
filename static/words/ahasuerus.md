@@ -15,9 +15,3 @@ Ahasuerus was a king who ruled over the ancient kingdom of Persia for twenty yea
 * [Prev chunk](../other/ahab.md): [publish-current](../other/ahab?do=diff&rev2[0]=1412187189&rev2[1]=&difftype=sidebyside.md)
 * [Next chunk](../other/ahaz.md): [review-publish](../other/ahaz?do=diff&rev2[0]=1433340838&rev2[1]=1433964900&difftype=sidebyside.md) | [publish-current](../other/ahaz?do=diff&rev2[0]=1433964900&rev2[1]=&difftype=sidebyside.md)
 
-## Bible References: ##
-
-* [Daniel 09:1-2](https://door43.org/en/bible/notes/dan/09/01)
-* [Esther 10:1-2](https://door43.org/en/bible/notes/est/10/01)
-* [Ezra 04:7-8](https://door43.org/en/bible/notes/ezr/04/07)
-

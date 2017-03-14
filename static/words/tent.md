@@ -13,10 +13,3 @@ A tent is a portable shelter made of sturdy fabric that is draped over a structu
 
 (See also: [abraham](../other/abraham.md) **·** [canaan](../other/canaan.md) **·** [curtain](../other/curtain.md) **·** [paul](../other/paul.md) **·** [sinai](../other/sinai.md) **·** [tabernacle](../kt/tabernacle.md) **·** [tentofmeeting](../other/tentofmeeting.md))
 
-## Bible References: ##
-
-* [1 Chronicles 05:10](https://door43.org/en/bible/notes/1ch/05/10)
-* [Daniel 11:44-45](https://door43.org/en/bible/notes/dan/11/44)
-* [Exodus 16:16-18](https://door43.org/en/bible/notes/exo/16/16)
-* [Genesis 12:8-9](https://door43.org/en/bible/notes/gen/12/08)
-

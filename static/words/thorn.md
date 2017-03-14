@@ -12,10 +12,3 @@ Thorn bushes and thistles are plants that have prickly branches or flowers. Thes
 
 (See also: [crown](../other/crown.md) **·** [fruit](../kt/fruit.md) **·** [spirit](../kt/spirit.md))
 
-## Bible References: ##
-
-* [Hebrews 06:7-8](https://door43.org/en/bible/notes/heb/06/07)
-* [Matthew 13:7-9](https://door43.org/en/bible/notes/mat/13/07)
-* [Matthew 13:22-23](https://door43.org/en/bible/notes/mat/13/22)
-* [Numbers 33:55-56](https://door43.org/en/bible/notes/num/33/55)
-

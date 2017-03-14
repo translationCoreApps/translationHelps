@@ -13,11 +13,3 @@ The term "rod" refers to a narrow, solid, stick-like tool that is used in severa
 
 (See also: [staff](../other/staff.md) **·** [sheep, ram](../other/sheep.md) **·** [shepherd, to shepherd](../other/shepherd.md))
 
-## Bible References: ##
-
-* [1 Corinthians 04:19-21](https://door43.org/en/bible/notes/1co/04/19)
-* [1 Samuel 14:43-44](https://door43.org/en/bible/notes/1sa/14/43)
-* [Acts 16:22-24](https://door43.org/en/bible/notes/act/16/22)
-* [Exodus 27:9-10](https://door43.org/en/bible/notes/exo/27/09)
-* [Revelation 11:1-2](https://door43.org/en/bible/notes/rev/11/01)
-

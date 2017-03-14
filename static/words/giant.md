@@ -9,7 +9,3 @@ A giant usually refers to a person who is unusually large in height and strength
 
 (See also: [canaan](../other/canaan.md) **·** [goliath](../other/goliath.md) **·** [philistines](../other/philistines.md)
 
-## Bible References: ##
-
-* [Genesis 06:4](https://door43.org/en/bible/notes/gen/06/04)
-* [Numbers 13:32-33](https://door43.org/en/bible/notes/num/13/32)

@@ -11,9 +11,3 @@ A deacon is a person who serves in the local church, helping fellow believers wi
 
 (See also: [minister](../kt/minister.md) **·** [servant](../other/servant.md))
 
-## Bible References: ##
-
-* [1 Timothy 03:8-10](https://door43.org/en/bible/notes/1ti/03/08)
-* [1 Timothy 03:11-13](https://door43.org/en/bible/notes/1ti/03/11)
-* [Philippians 01:1-2](https://door43.org/en/bible/notes/php/01/01)
-

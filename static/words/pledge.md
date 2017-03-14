@@ -12,10 +12,3 @@ The term "pledge" refers to formally and solemnly promising to do something or g
 
 (See also: [promise](../kt/promise.md) **·** [oath](../other/oath.md) **·** [vow](../kt/vow.md))
 
-## Bible References: ##
-
-* [2 Corinthians 05:4-5](https://door43.org/en/bible/notes/2co/05/04)
-* [Exodus 22:25-27](https://door43.org/en/bible/notes/exo/22/25)
-* [Genesis 38:17-18](https://door43.org/en/bible/notes/gen/38/17)
-* [Nehemiah 10:28-29](https://door43.org/en/bible/notes/neh/10/28)
-

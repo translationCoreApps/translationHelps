@@ -14,10 +14,3 @@ Micah was a prophet of Judah around 700 years before Christ, when the prophet Is
 
 (See also: [assyria](../other/assyria.md) **·** [dan](../other/dan.md) **·** [ephraim](../other/ephraim.md) **·** [idol](../other/idol.md) **·** [isaiah](../other/isaiah.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [judgeposition](../other/judgeposition.md) **·** [levite](../other/levite.md) **·** [priest](../kt/priest.md) **·** [prophet](../kt/prophet.md) **·** [samaria](../other/samaria.md) **·** [silver](../other/silver.md))
 
-## Bible References: ##
-
-* [Jeremiah 26:18-19](https://door43.org/en/bible/notes/jer/26/18)
-* [Micah 01:1](https://door43.org/en/bible/notes/mic/01/01)
-* [Micah 06:1-2](https://door43.org/en/bible/notes/mic/06/01)
-
-{{tag>publish ktlink}

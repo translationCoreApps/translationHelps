@@ -15,9 +15,3 @@ Sulfur is a yellow-colored substance that becomes a burning liquid when it is se
 
 (See also: [gomorrah](../other/gomorrah.md) **·** [judge](../kt/judge.md) **·** [lot](../other/lot.md) **·** [rebel](../other/rebel.md) **·** [sodom](../other/sodom.md) **·** [ungodly](../kt/ungodly.md))
 
-## Bible References: ##
-
-* [Genesis 19:23-25](https://door43.org/en/bible/notes/gen/19/23)
-* [Isaiah 34:8-10](https://door43.org/en/bible/notes/isa/34/08)
-* [Luke 17:28-29](https://door43.org/en/bible/notes/luk/17/28)
-* [Revelation 20:9-10](https://door43.org/en/bible/notes/rev/20/09)

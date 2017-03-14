@@ -17,14 +17,3 @@ The term "serve" means to do things to help other people. It can also mean to "w
 
 (See also: [covenant](../kt/covenant.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [servant](../other/servant.md))
 
-## Bible References: ##
-
-* [2 Timothy 02:3-5](https://door43.org/en/bible/notes/2ti/02/03)
-* [Acts 06:2-4](https://door43.org/en/bible/notes/act/06/02)
-* [Genesis 25:23](https://door43.org/en/bible/notes/gen/25/23)
-* [Luke 04:8](https://door43.org/en/bible/notes/luk/04/08)
-* [Luke 12:37-38](https://door43.org/en/bible/notes/luk/12/37)
-* [Luke 22:26-27](https://door43.org/en/bible/notes/luk/22/26)
-* [Mark 08:7-10](https://door43.org/en/bible/notes/mrk/08/07)
-* [Matthew 04:10-11](https://door43.org/en/bible/notes/mat/04/10)
-* [Matthew 06:22-24](https://door43.org/en/bible/notes/mat/06/22)

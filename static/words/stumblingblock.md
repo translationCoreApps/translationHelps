@@ -17,11 +17,3 @@ The term "stumbling block" or "stone of stumbling" refers to a physical object t
 
 (See also: [stumble](../other/stumble.md) **·** [sin](../kt/sin.md))
 
-## Bible References: ##
-
-* [1 Corinthians 01:22-23](https://door43.org/en/bible/notes/1co/01/22)
-* [Galatians 05:11-12](https://door43.org/en/bible/notes/gal/05/11)
-* [Matthew 05:29-30](https://door43.org/en/bible/notes/mat/05/29)
-* [Matthew 16:21-23](https://door43.org/en/bible/notes/mat/16/21)
-* [Romans 09:32-33](https://door43.org/en/bible/notes/rom/09/32)
-

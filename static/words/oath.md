@@ -23,15 +23,3 @@ In the Bible, an oath is a formal promise to do something. The person making the
 
 (See also: [abimelech](../other/abimelech.md) **·** [covenant](../kt/covenant.md) **·** [vow](../kt/vow.md))
 
-## Bible References: ##
-
-* [Genesis 21:22-24](https://door43.org/en/bible/notes/gen/21/22)
-* [Genesis 24:1-4](https://door43.org/en/bible/notes/gen/24/01)
-* [Genesis 31:51-53](https://door43.org/en/bible/notes/gen/31/51)
-* [Genesis 47:29-31](https://door43.org/en/bible/notes/gen/47/29)
-* [Luke 01:72-75](https://door43.org/en/bible/notes/luk/01/72)
-* [Mark 06:26-29](https://door43.org/en/bible/notes/mrk/06/26)
-* [Matthew 05:36-37](https://door43.org/en/bible/notes/mat/05/36)
-* [Matthew 14:6-7](https://door43.org/en/bible/notes/mat/14/06)
-* [Matthew 26:71-72](https://door43.org/en/bible/notes/mat/26/71)
-

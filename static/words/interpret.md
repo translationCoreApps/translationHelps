@@ -14,11 +14,3 @@ The terms "interpret" and "interpretation" refer to understanding and explaining
 
 (See also: [babylon](../other/babylon.md) **·** [daniel](../other/daniel.md) **·** [dream](../other/dream.md) **·** [prophet](../kt/prophet.md) **·** [vision](../other/vision.md))
 
-## Bible References: ##
-
-* [1 Corinthians 12:9-11](https://door43.org/en/bible/notes/1co/12/09)
-* [Daniel 04:4-6](https://door43.org/en/bible/notes/dan/04/04)
-* [Genesis 40:4-5](https://door43.org/en/bible/notes/gen/40/04)
-* [Judges 07:15-16](https://door43.org/en/bible/notes/jdg/07/15)
-* [Luke 12:54-56](https://door43.org/en/bible/notes/luk/12/54)
-

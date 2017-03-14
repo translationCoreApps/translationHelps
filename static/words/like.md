@@ -19,12 +19,3 @@ The terms "like" and "likeness" refer to something being the same as, or similar
 
 (See also: [beast](../other/beast.md) **·** [flesh](../kt/flesh.md) **·** [imageofgod](../kt/imageofgod.md) **·** [image](../other/image.md) **·** [perish](../kt/perish.md))
 
-## Bible References: ##
-
-* [Ezekiel 01:4-6](https://door43.org/en/bible/notes/ezk/01/04)
-* [Mark 08:24-26](https://door43.org/en/bible/notes/mrk/08/24)
-* [Matthew 17:1-2](https://door43.org/en/bible/notes/mat/17/01)
-* [Matthew 18:1-3](https://door43.org/en/bible/notes/mat/18/01)
-* [Psalms 073:4-5](https://door43.org/en/bible/notes/psa/073/004)
-* [Revelation 01:12-13](https://door43.org/en/bible/notes/rev/01/12)
-

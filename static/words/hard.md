@@ -23,12 +23,3 @@ The term "hard" has several different meanings depending on the context. It usua
 
 (See also: [disobey](../other/disobey.md) **·** [evil](../kt/evil.md) **·** [heart](../other/heart.md) **·** [laborpains](../other/laborpains.md) **·** [stiffnecked](../other/stiffnecked.md))
 
-## Bible References: ##
-
-* [2 Corinthians 11:22-23](https://door43.org/en/bible/notes/2co/11/22)
-* [Deuteronomy 15:7-8](https://door43.org/en/bible/notes/deu/15/07)
-* [Exodus 14:4-5](https://door43.org/en/bible/notes/exo/14/04)
-* [Hebrews 04:6-7](https://door43.org/en/bible/notes/heb/04/06)
-* [John 12:39-40](https://door43.org/en/bible/notes/jhn/12/39)
-* [Matthew 19:7-9](https://door43.org/en/bible/notes/mat/19/07)
-

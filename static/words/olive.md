@@ -11,13 +11,3 @@ The olive is the small, oval fruit from an olive tree, which is mostly grown in 
 
 (See also: [lamp](../other/lamp.md) **·** [mediterranean](../other/mediterranean.md) **·** [mountofolives](../other/mountofolives.md))
 
-## Bible References: ##
-
-* [1 Chronicles 27:28-29](https://door43.org/en/bible/notes/1ch/27/28)
-* [Deuteronomy 06:10-12](https://door43.org/en/bible/notes/deu/06/10)
-* [Exodus 23:10-11](https://door43.org/en/bible/notes/exo/23/10)
-* [Genesis 08:10-12](https://door43.org/en/bible/notes/gen/08/10)
-* [James 03:11-12](https://door43.org/en/bible/notes/jas/03/11)
-* [Luke 16:5-7](https://door43.org/en/bible/notes/luk/16/05)
-* [Psalms 052:8-9](https://door43.org/en/bible/notes/psa/052/008)
-

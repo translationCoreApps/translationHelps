@@ -10,11 +10,3 @@ To "bribe" means to give someone something of value, such as money, to influence
 * The term, "bribe" could be translated as "dishonest payment" or "payment for lying" or "price for breaking the rules."
 * "To bribe" could be translated with a word or phrase that means, "to pay to influence (someone)" or "to pay to have a dishonest favor done" or "to pay for a favor."
 
-## Bible References: ##
-
-* [1 Samuel 08:1-3](https://door43.org/en/bible/notes/1sa/08/01)
-* [Ecclesiastes 07:7](https://door43.org/en/bible/notes/ecc/07/07)
-* [Isaiah 01:23](https://door43.org/en/bible/notes/isa/01/23)
-* [Micah 03:9-11](https://door43.org/en/bible/notes/mic/03/09)
-* [Proverbs 15:27-28](https://door43.org/en/bible/notes/pro/15/27)
-

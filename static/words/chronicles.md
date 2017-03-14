@@ -12,9 +12,3 @@ The term "chronicle" refers to a written record of events over a period of time.
 
 (See also: [babylon](../other/babylon.md) **·** [david](../other/david.md) **·** [exile](../other/exile.md) **·** [kingdomofisrael](../other/kingdomofisrael.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [solomon](../other/solomon.md))
 
-## Bible References: ##
-
-* [1 Chronicles 27:23-24](https://door43.org/en/bible/notes/1ch/27/23)
-* [2 Chronicles 33:18-20](https://door43.org/en/bible/notes/2ch/33/18)
-* [Esther 10:1-2](https://door43.org/en/bible/notes/est/10/01)
-

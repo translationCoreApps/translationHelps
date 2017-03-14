@@ -11,11 +11,3 @@ The terms "conceive" and "conception" usually refer to becoming pregnant with a 
 
 (See also: [creation](../other/creation.md) **·** [womb](../other/womb.md))
 
-## Bible References: ##
-
-* [Genesis 21:1-4](https://door43.org/en/bible/notes/gen/21/01)
-* [Hosea 02:4-5](https://door43.org/en/bible/notes/hos/02/04)
-* [Job 15:34-35](https://door43.org/en/bible/notes/job/15/34)
-* [Luke 01:24-25](https://door43.org/en/bible/notes/luk/01/24)
-* [Luke 02:21](https://door43.org/en/bible/notes/luk/02/21)
-

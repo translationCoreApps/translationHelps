@@ -12,20 +12,3 @@ In ancient times, chariots were lightweight, two-wheeled carts that were pulled 
 
 (See also: [egypt](../other/egypt.md) **·** [rome](../other/rome.md)) 
 
-## Bible References: ##
-
-* [1 Kings 09:22](https://door43.org/en/bible/notes/1ki/09/22)
-* [2 Chronicles 18:28-30](https://door43.org/en/bible/notes/2ch/18/28)
-* [Acts 08:29-31](https://door43.org/en/bible/notes/act/08/29)
-* [Acts 08:36-38](https://door43.org/en/bible/notes/act/08/36)
-* [Daniel 11:40-41](https://door43.org/en/bible/notes/dan/11/40)
-* [Exodus 14:23-25](https://door43.org/en/bible/notes/exo/14/23)
-* [Genesis 41:42-43](https://door43.org/en/bible/notes/gen/41/42)
-
-## Examples from the Bible stories: ##
-
-  __*[12-10](https://door43.org/en/obs/notes/frames/12-10)__ So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their __chariots__ to get stuck. 
-  __*[rome](../other/rome.md)ing in his __chariot__. 
-
-
-

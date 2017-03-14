@@ -13,18 +13,3 @@ Noah was a man who lived over 4,000 years ago, at the time when God sent a world
 
 (See also: [descendant](../other/descendant.md))
 
-## Bible References: ##
-
-* [Genesis 05:30-31](https://door43.org/en/bible/notes/gen/05/30)
-* [Genesis 05:32](https://door43.org/en/bible/notes/gen/05/32)
-* [Genesis 06:7-8](https://door43.org/en/bible/notes/gen/06/07)
-* [Genesis 08:1-3](https://door43.org/en/bible/notes/gen/08/01)
-* [Hebrews 11:7](https://door43.org/en/bible/notes/heb/11/07)
-* [Matthew 24:37-39](https://door43.org/en/bible/notes/mat/24/37)
-
-## Examples from the Bible stories: ##
-
- * __[03-02](https://door43.org/en/obs/notes/frames/03-02)__ But __Noah__  found favor with God.
- * __[03-04](https://door43.org/en/obs/notes/frames/03-04)__ __Noah__  obeyed God. He and his three sons built the boat just the way God had told them.
- * __[03-13](https://door43.org/en/obs/notes/frames/03-13)__ Two months later God said to __Noah__, "You and your family and all the animals may leave the boat now. Have many children and grandchildren and fill the earth." So __Noah__ and his family came out of the boat.
-

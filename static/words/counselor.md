@@ -12,5 +12,3 @@ The terms "counsel" and "advice" have the same meaning and refer to helping some
 
 (See also: [exhort](../kt/exhort.md) **·** [holyspirit](../kt/holyspirit.md) **·** [wise](../kt/wise.md)
 
-## Bible References: ##
-

@@ -15,11 +15,3 @@ Doves and pigeons are two kinds of small, gray-brown birds that look similar. A 
 
 (See also: [olive](../other/olive.md) **·** [innocent](../kt/innocent.md) **·** [purify](../kt/purify.md))
 
-## Bible References: ##
-
-* [Genesis 08:8-9](https://door43.org/en/bible/notes/gen/08/08)
-* [Luke 02:22-24](https://door43.org/en/bible/notes/luk/02/22)
-* [Mark 01:9-11](https://door43.org/en/bible/notes/mrk/01/09)
-* [Matthew 03:16-17](https://door43.org/en/bible/notes/mat/03/16)
-* [Matthew 21:12-14](https://door43.org/en/bible/notes/mat/21/12)
-

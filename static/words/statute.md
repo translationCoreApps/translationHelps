@@ -10,10 +10,3 @@ A statute is a specific written law that provides guidance for people to live by
 
 (See also: [command](../other/command.md) **·** [decree](../other/decree.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [ordinance](../other/ordinance.md) **·** [yahweh](../kt/yahweh.md))
 
-## Bible References: ##
-
-* [1 Kings 11:11-13](https://door43.org/en/bible/notes/1ki/11/11)
-* [Deuteronomy 06:20-23](https://door43.org/en/bible/notes/deu/06/20)
-* [Ezekiel 33:14-16](https://door43.org/en/bible/notes/ezk/33/14)
-* [Numbers 19:1-2](https://door43.org/en/bible/notes/num/19/01)
-

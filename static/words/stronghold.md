@@ -14,11 +14,3 @@ The terms "stronghold" and "fortress" both refer to places that are well protect
 
 (See also: [falsegod](../kt/falsegod.md) **·** [idol](../other/idol.md) **·** [refuge](../kt/refuge.md) **·** [yahweh](../kt/yahweh.md))
 
-## Bible References: ##
-
-* [2 Corinthians 10:3-4](https://door43.org/en/bible/notes/2co/10/03)
-* [2 Kings 08:10-12](https://door43.org/en/bible/notes/2ki/08/10)
-* [2 Samuel 05:8-10](https://door43.org/en/bible/notes/2sa/05/08)
-* [Acts 21:34-36](https://door43.org/en/bible/notes/act/21/34)
-* [Habakkuk 01:10-11](https://door43.org/en/bible/notes/hab/01/10)
-

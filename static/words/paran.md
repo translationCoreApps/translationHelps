@@ -13,11 +13,3 @@ Paran was a desert or wilderness area east of Egypt and south of the land of Can
 
 (See also: [canaan](../other/canaan.md) **·** [desert](../other/desert.md) **·** [egypt](../other/egypt.md) **·** [kadesh](../other/kadesh.md) **·** [sinai](../other/sinai.md))
 
-## Bible References: ##
-
-* [1 Kings 11:18-19](https://door43.org/en/bible/notes/1ki/11/18)
-* [1 Samuel 25:1](https://door43.org/en/bible/notes/1sa/25/01)
-* [Genesis 21:19-21](https://door43.org/en/bible/notes/gen/21/19)
-* [Numbers 10:11-13](https://door43.org/en/bible/notes/num/10/11)
-* [Numbers 13:3-4](https://door43.org/en/bible/notes/num/13/03)
-

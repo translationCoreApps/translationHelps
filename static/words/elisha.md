@@ -12,10 +12,3 @@ Elisha was a prophet in Israel during the reigns of several kings of Israel: Aha
 
 (See also: [elijah](../other/elijah.md) **·** [naaman](../other/naaman.md) **·** [prophet](../kt/prophet.md))
 
-## Bible References: ##
-
-* [1 Kings 19:15-16](https://door43.org/en/bible/notes/1ki/19/15)
-* [2 Kings 03:15-17](https://door43.org/en/bible/notes/2ki/03/15)
-* [2 Kings 05:8-10](https://door43.org/en/bible/notes/2ki/05/08)
-* [Luke 04:25-27](https://door43.org/en/bible/notes/luk/04/25)
-

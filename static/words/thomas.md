@@ -11,11 +11,3 @@ Thomas was one of twelve men whom Jesus chose to be his disciples and later, apo
 
 (See also: [apostle](../kt/apostle.md) **·** [disciple](../kt/disciple.md) **·** [godthefather](../kt/godthefather.md) **·** [thetwelve](../kt/thetwelve.md))
 
-## Bible References: ##
-
-* [Acts 01:12-14](https://door43.org/en/bible/notes/act/01/12)
-* [John 11:15-16](https://door43.org/en/bible/notes/jhn/11/15)
-* [Luke 06:14-16](https://door43.org/en/bible/notes/luk/06/14)
-* [Mark 03:17-19](https://door43.org/en/bible/notes/mrk/03/17)
-* [Matthew 10:2-4](https://door43.org/en/bible/notes/mat/10/02)
-

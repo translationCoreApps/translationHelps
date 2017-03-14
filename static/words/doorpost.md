@@ -10,10 +10,3 @@ The "doorpost" is a vertical beam on either side of a door, which supports the t
 
 (See also: [Egypt, Egyptian](../other/egypt.md) **·** [Passover](../kt/passover.md))
 
-## Bible References: ##
-
-* [1 Kings 06:31-32](https://door43.org/en/bible/notes/1ki/06/31)
-* [Deuteronomy 11:20-21](https://door43.org/en/bible/notes/deu/11/20)
-* [Exodus 12:5-8](https://door43.org/en/bible/notes/exo/12/05)
-* [Isaiah 57:7-8](https://door43.org/en/bible/notes/isa/57/07)
-

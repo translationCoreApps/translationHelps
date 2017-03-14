@@ -17,11 +17,3 @@ An oak is a tall, shade tree with a large trunk and wide spreading branches.
 
 (See also: [holy](../kt/holy.md))
 
-## Bible References: ##
-
-* [1 Samuel 10:3-4](https://door43.org/en/bible/notes/1sa/10/03)
-* [Genesis 13:16-18](https://door43.org/en/bible/notes/gen/13/16)
-* [Genesis 14:13-14](https://door43.org/en/bible/notes/gen/14/13)
-* [Genesis 35:4-5](https://door43.org/en/bible/notes/gen/35/04)
-* [Judges 06:11-12](https://door43.org/en/bible/notes/jdg/06/11)
-

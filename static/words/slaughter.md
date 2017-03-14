@@ -13,11 +13,3 @@ The term "slaughter" refers to killing a large number of animals or people, or t
 
 (See also: [angel](../kt/angel.md) **·** [cow](../other/cow.md) **·** [disobey](../other/disobey.md) **·** [ezekiel](../other/ezekiel.md) **·** [servant](../other/servant.md) **·** [slain](../other/slain.md))
 
-## Bible References: ##
-
-* [Ezekiel 21:10-11](https://door43.org/en/bible/notes/ezk/21/10)
-* [Hebrews 07:1-3](https://door43.org/en/bible/notes/heb/07/01)
-* [Isaiah 34:1-2](https://door43.org/en/bible/notes/isa/34/01)
-* [Jeremiah 25:34-36](https://door43.org/en/bible/notes/jer/25/34)
-
-

@@ -10,11 +10,3 @@ The term "gossip" refers to talking to people about someone else's personal affa
 
 (See also: [slander](../other/slander.md))
 
-## Bible References: ##
-
-* [1 Timothy 05:11-13](https://door43.org/en/bible/notes/1ti/05/11)
-* [2 Corinthians 12:20-21](https://door43.org/en/bible/notes/2co/12/20)
-* [Leviticus 19:15-16](https://door43.org/en/bible/notes/lev/19/15)
-* [Proverbs 16:27-28](https://door43.org/en/bible/notes/pro/16/27)
-* [Romans 01:29-31](https://door43.org/en/bible/notes/rom/01/29)
-

@@ -12,10 +12,3 @@ The town of Bethany was located at the base of the eastern slope of the Mount of
 
 (See also: [jericho](../other/jericho.md) **·** [jerusalem](../other/jerusalem.md) **·** [lazarus](../other/lazarus.md) **·** [martha](../other/martha.md) **·** [mary](../other/mary.md) **·** [mountofolives](../other/mountofolives.md))
 
-## Bible References: ##
-
-* [John 01:26-28](https://door43.org/en/bible/notes/jhn/01/26)
-* [Luke 24:50-51](https://door43.org/en/bible/notes/luk/24/50)
-* [Mark 11:1-3](https://door43.org/en/bible/notes/mrk/11/01)
-* [Matthew 21:15-17](https://door43.org/en/bible/notes/mat/21/15)
-

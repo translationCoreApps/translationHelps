@@ -15,10 +15,3 @@ The term "tribute" refers to a gift from one ruler to another ruler, for the pur
 
 (See also: [gold](../other/gold.md) **·** [king](../other/king.md) **·** [ruler](../other/ruler.md) **·** [tax](../other/tax.md))
 
-## Bible References: ##
-
-* [1 Chronicles 18:1-2](https://door43.org/en/bible/notes/1ch/18/01)
-* [2 Chronicles 09:22-24](https://door43.org/en/bible/notes/2ch/09/22)
-* [2 Kings 17:1-3](https://door43.org/en/bible/notes/2ki/17/01)
-* [Luke 23:1-2](https://door43.org/en/bible/notes/luk/23/01)
-

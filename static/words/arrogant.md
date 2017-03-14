@@ -10,11 +10,3 @@ The term "arrogant" means to be proud, usually in an obvious, outward way.
 
 (See also: [acknowledge](../other/acknowledge.md) **·** [boast](../other/boast.md) **·** [proud](../other/proud.md))
 
-## Bible References: ##
-
-* [1 Corinthians 04:17-18](https://door43.org/en/bible/notes/1co/04/17)
-* [2 Peter 02:17-19](https://door43.org/en/bible/notes/2pe/02/17)
-* [Ezekiel 16:49-50](https://door43.org/en/bible/notes/ezk/16/49)
-* [Proverbs 16:5-6](https://door43.org/en/bible/notes/pro/16/05)
-* [Psalm 056:1-2](https://door43.org/en/bible/notes/psa/056/001)
-

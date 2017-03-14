@@ -14,11 +14,3 @@ The term "courage" refers to boldly facing or doing something that is difficult,
 
 (See also: [confidence](../kt/confidence.md) **·** [exhort](../kt/exhort.md) **·** [fear](../kt/fear.md) **·** [strength](../other/strength.md)
 
-## Bible References: ##
-
-* [1 Chronicles 17:25-27](https://door43.org/en/bible/notes/1ch/17/25)
-* [2 Kings 18:19-21](https://door43.org/en/bible/notes/2ki/18/19)
-* [Acts 05:12-13](https://door43.org/en/bible/notes/act/05/12)
-* [Hebrews 13:5-6](https://door43.org/en/bible/notes/heb/13/05)
-* [Matthew 09:20-22](https://door43.org/en/bible/notes/mat/09/20)
-

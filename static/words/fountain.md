@@ -10,12 +10,3 @@ The terms "fountain" and "spring" usually refer to a large amount of water that 
 
 (See also: [flood](../other/flood.md))
 
-## Bible References: ##
-
-* [2 Peter 02:17-19](https://door43.org/en/bible/notes/2pe/02/17)
-* [Genesis 07:11-12](https://door43.org/en/bible/notes/gen/07/11)
-* [Genesis 08:1-3](https://door43.org/en/bible/notes/gen/08/01)
-* [Genesis 24:12-14](https://door43.org/en/bible/notes/gen/24/12)
-* [Genesis 24:42-44](https://door43.org/en/bible/notes/gen/24/42)
-* [James 03:11-12](https://door43.org/en/bible/notes/jas/03/11)
-

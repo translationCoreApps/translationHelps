@@ -11,9 +11,3 @@ Amoz was the father of the prophet Isaiah.
 
 (See also: [amos](../other/amos.md) **·** [isaiah](../other/isaiah.md))
 
-## Bible References: ##
-
-* [2 Kings 19:1-2](https://door43.org/en/bible/notes/2ki/19/01)
-* [Isaiah 37:1-2](https://door43.org/en/bible/notes/isa/37/01)
-* [Isaiah 37:21-23](https://door43.org/en/bible/notes/isa/37/21)
-

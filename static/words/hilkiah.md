@@ -12,7 +12,3 @@ Hilkiah was the name of the high priest during the reign of King Josiah.
 
 (See also: [eliakim](../other/eliakim.md) **·** [hezekiah](../other/hezekiah.md) **·** [highpriest](../kt/highpriest.md) **·** [josiah](../other/josiah.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [law](../other/law.md) **·** [worship](../kt/worship.md) **·** [yahweh](../kt/yahweh.md))
 
-## Bible References: ##
-
-* [2 Kings 18:16-18](https://door43.org/en/bible/notes/2ki/18/16)
-

@@ -10,11 +10,3 @@ A shield is an object held by a soldier in battle to protect himself from being 
 
 (See also: [faith](../kt/faith.md) **·** [obey](../other/obey.md) **·** [satan](../kt/satan.md) **·** [spirit](../kt/spirit.md))
 
-## Bible References: ##
-
-* [1 Kings 14:25-26](https://door43.org/en/bible/notes/1ki/14/25)
-* [2 Chronicles 23:8-9](https://door43.org/en/bible/notes/2ch/23/08)
-* [2 Samuel 22:36-37](https://door43.org/en/bible/notes/2sa/22/36)
-* [Deuteronomy 33:29](https://door43.org/en/bible/notes/deu/33/29)
-* [Psalms 018:35-36](https://door43.org/en/bible/notes/psa/018/035)
-

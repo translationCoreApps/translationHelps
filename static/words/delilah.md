@@ -11,10 +11,3 @@ Delilah was a Philistine woman who was loved by Samson, but was not his wife.
 
 (See also: [bribe](../other/bribe.md) **·** [philistines](../other/philistines.md) **·** [samson](../other/samson.md))
 
-## Bible References: ##
-
-* [Judges 16:4-5](https://door43.org/en/bible/notes/jdg/16/04)
-* [Judges 16:6-7](https://door43.org/en/bible/notes/jdg/16/06)
-* [Judges 16:10-12](https://door43.org/en/bible/notes/jdg/16/10)
-* [Judges 16:18-19](https://door43.org/en/bible/notes/jdg/16/18)
-

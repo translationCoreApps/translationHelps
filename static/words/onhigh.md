@@ -12,8 +12,3 @@ The terms "on high" and "in the highest" are expressions that usually mean, "in 
 
 (See also: [heaven](../kt/heaven.md) **·** [honor](../other/honor.md))
 
-## Bible References: ##
-
-* [Lamentations 01:13-14](https://door43.org/en/bible/notes/lam/01/13)
-* [Psalms 069:28-29](https://door43.org/en/bible/notes/psa/069/028)
-

@@ -13,11 +13,3 @@ Mount Horeb is another name for Mount Sinai, where God gave Moses the stone tabl
 
 (See also: [covenant](../kt/covenant.md) **·** [israel](../other/israel.md) **·** [moses](../other/moses.md) **·** [sinai](../other/sinai.md) **·** [tencommandments](../other/tencommandments.md))
 
-## Bible References: ##
-
-* [1 Kings 08:9-11](https://door43.org/en/bible/notes/1ki/08/09)
-* [2 Chronicles 05:9-10](https://door43.org/en/bible/notes/2ch/05/09)
-* [Deuteronomy 01:1-2](https://door43.org/en/bible/notes/deu/01/01)
-* [Exodus 03:1-3](https://door43.org/en/bible/notes/exo/03/01)
-* [Psalms 106:19-21](https://door43.org/en/bible/notes/psa/106/019)
-

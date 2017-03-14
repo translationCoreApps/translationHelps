@@ -11,11 +11,3 @@ The terms "warrior" and "soldier" both can refer to someone who fights in an arm
 
 (See also: [courage](../other/courage.md) **·** [crucify](../kt/crucify.md) **·** [rome](../other/rome.md) **·** [tomb](../other/tomb.md))
 
-## Bible References: ##
-
-* [1 Chronicles 21:4-5](https://door43.org/en/bible/notes/1ch/21/04)
-* [Acts 21:32-33](https://door43.org/en/bible/notes/act/21/32)
-* [Luke 03:14](https://door43.org/en/bible/notes/luk/03/14)
-* [Luke 23:11-12](https://door43.org/en/bible/notes/luk/23/11)
-* [Matthew 08:8-10](https://door43.org/en/bible/notes/mat/08/08)
-

@@ -12,11 +12,3 @@ The term "terror" refers to a feeling of extreme fear. To "terrify" someone mean
 
 (See also: [adversary](../other/adversary.md) **·** [fear](../kt/fear.md) **·** [judge](../kt/judge.md) **·** [plague](../other/plague.md) **·** [yahweh](../kt/yahweh.md))
 
-## Bible References: ##
-
-* [Deuteronomy 02:24-25](https://door43.org/en/bible/notes/deu/02/24)
-* [Exodus 14:10-12](https://door43.org/en/bible/notes/exo/14/10)
-* [Luke 21:7-9](https://door43.org/en/bible/notes/luk/21/07)
-* [Mark 06:48-50](https://door43.org/en/bible/notes/mrk/06/48)
-* [Matthew 28:5-7](https://door43.org/en/bible/notes/mat/28/05)
-

@@ -12,9 +12,3 @@ Zacchaeus was a tax collector from Jericho who climbed a tree in order to be abl
 
 (See also: [believe](../kt/believe.md) **·** [promise](../kt/promise.md) **·** [repent](../kt/repent.md) **·** [sin](../kt/sin.md) **·** [tax](../other/tax.md) **·** [taxcollector](../other/taxcollector.md))
 
-## Bible References: ##
-
-* [Luke 19:1-2](https://door43.org/en/bible/notes/luk/19/01)
-* [Luke 19:5-7](https://door43.org/en/bible/notes/luk/19/05)
-
-

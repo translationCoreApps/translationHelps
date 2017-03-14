@@ -15,12 +15,3 @@ The term "high places" refers to the altars and shrines that were used for worsh
 
 (See also: [altar](../other/altar.md) **·** [idol](../other/idol.md) **·** [worship](../kt/worship.md))
 
-## Bible References: ##
-
-* [1 Samuel 09:12-13](https://door43.org/en/bible/notes/1sa/09/12)
-* [2 Kings 16:3-4](https://door43.org/en/bible/notes/2ki/16/03)
-* [Amos 04:12-13](https://door43.org/en/bible/notes/amo/04/12)
-* [Deuteronomy 33:29](https://door43.org/en/bible/notes/deu/33/29)
-* [Ezekiel 06:1-3](https://door43.org/en/bible/notes/ezk/06/01)
-* [Habakkuk 03:18-19](https://door43.org/en/bible/notes/hab/03/18)
-

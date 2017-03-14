@@ -14,8 +14,3 @@ Lot was the name of Abraham's nephew.
 
 (See also: [abraham](../other/abraham.md) **·** [ammon](../other/ammon.md) **·** [haran](../other/haran.md) **·** [moab](../other/moab.md) **·** [sodom](../other/sodom.md))
 
-## Bible References: ##
-
-* [2 Peter 02:7-9](https://door43.org/en/bible/notes/2pe/02/07)
-* [Genesis 11:27-28](https://door43.org/en/bible/notes/gen/11/27)
-* [Genesis 12:4-5](https://door43.org/en/bible/notes/gen/12/04)

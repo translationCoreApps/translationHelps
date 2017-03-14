@@ -12,11 +12,3 @@ A deer is a large, graceful, four-legged animal that lives in forests or on moun
 
 (See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-## Bible References: ##
-
-* [2 Samuel 22:34-35](https://door43.org/en/bible/notes/2sa/22/34)
-* [Genesis 49:19-21](https://door43.org/en/bible/notes/gen/49/19)
-* [Job 39:1-2](https://door43.org/en/bible/notes/job/39/01)
-* [Psalms 018:33-34](https://door43.org/en/bible/notes/psa/018/033)
-* [Song of Solomon 02:7](https://door43.org/en/bible/notes/sng/02/07)
-

@@ -14,11 +14,3 @@ A mediator is a person who helps two or more people to resolve their disagreemen
 
 (See also: [priest](../kt/priest.md) **·** [reconcile](../kt/reconcile.md))
 
-## Bible References: ##
-
-* [1 Timothy 02:5-7](https://door43.org/en/bible/notes/1ti/02/05)
-* [Galatians 03:19-20](https://door43.org/en/bible/notes/gal/03/19)
-* [Hebrews 08:6-7](https://door43.org/en/bible/notes/heb/08/06)
-* [Hebrews 12:22-24](https://door43.org/en/bible/notes/heb/12/22)
-* [Luke 12:13-15](https://door43.org/en/bible/notes/luk/12/13)
-

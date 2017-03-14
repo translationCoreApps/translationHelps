@@ -28,10 +28,3 @@ The term "strength" refers to the state of being strong physically, emotionally,
 
 (See also: [faithful](../kt/faithful.md) **·** [perseverance](../other/perseverance.md) **·** [righthand](../kt/righthand.md) **·** [salvation](../kt/salvation.md))
 
-## Bible References: ##
-
-* [2 Kings 18:19-21](https://door43.org/en/bible/notes/2ki/18/19)
-* [2 Peter 02:10-11](https://door43.org/en/bible/notes/2pe/02/10)
-* [Luke 10:25-28](https://door43.org/en/bible/notes/luk/10/25)
-* [Psalm 021:1-2](https://door43.org/en/bible/notes/psa/021/001)
-

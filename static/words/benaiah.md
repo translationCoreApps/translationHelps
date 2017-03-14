@@ -10,9 +10,3 @@ Benaiah was the name of several men in the Old Testament.
 
 (See also: [asaph](../other/asaph.md) **·** [jehoiada](../other/jehoiada.md) **·** [levite](../other/levite.md) **·** [solomon](../other/solomon.md))
 
-## Bible References: ##
-
-* [1 Chronicles 04:34-38](https://door43.org/en/bible/notes/1ch/04/34)
-* [1 Kings 01:7-8](https://door43.org/en/bible/notes/1ki/01/07)
-* [2 Samuel 23:20-21](https://door43.org/en/bible/notes/2sa/23/20)
-

@@ -11,10 +11,3 @@ The term "stiff-necked" is an idiom used in the Bible to describe people who kee
 
 (See also: [arrogant](../other/arrogant.md) **·** [proud](../other/proud.md) **·** [repent](../kt/repent.md))
 
-## Bible References: ##
-
-* [Acts 07:51-53](https://door43.org/en/bible/notes/act/07/51)
-* [Deuteronomy 09:13-14](https://door43.org/en/bible/notes/deu/09/13)
-* [Exodus 13:14-16](https://door43.org/en/bible/notes/exo/13/14)
-* [Jeremiah 03:17-18](https://door43.org/en/bible/notes/jer/03/17)
-

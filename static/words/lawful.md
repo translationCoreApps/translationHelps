@@ -12,11 +12,3 @@ The term "lawful" refers to something that is permitted to be done according to 
 
 (See also: [lawofmoses](../kt/lawofmoses.md))
 
-## Bible References: ##
-
-* [Acts 10:27-29](https://door43.org/en/bible/notes/act/10/27)
-* [Acts 22:25-26](https://door43.org/en/bible/notes/act/22/25)
-* [Luke 06:1-2](https://door43.org/en/bible/notes/luk/06/01)
-* [Mark 03:3-4](https://door43.org/en/bible/notes/mrk/03/03)
-* [Matthew 12:3-4](https://door43.org/en/bible/notes/mat/12/03)
-* [Matthew 12:9-10](https://door43.org/en/bible/notes/mat/12/09)

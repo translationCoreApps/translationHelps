@@ -12,13 +12,3 @@ A yoke is a piece of wood or metal attached to two or more animals to connect th
 
 (See also: [bond](../kt/bond.md) **·** [burden](../other/burden.md) **·** [oppress](../kt/oppress.md) **·** [persecute](../other/persecute.md) **·** [servant](../other/servant.md))
 
-## Bible References: ##
-
-* [Acts 15:10-11](https://door43.org/en/bible/notes/act/15/10)
-* [Galatians 05:1-2](https://door43.org/en/bible/notes/gal/05/01)
-* [Genesis 27:39-40](https://door43.org/en/bible/notes/gen/27/39)
-* [Isaiah 09:4-5](https://door43.org/en/bible/notes/isa/09/04)
-* [Jeremiah 27:1-4](https://door43.org/en/bible/notes/jer/27/01)
-* [Matthew 11:28-30](https://door43.org/en/bible/notes/mat/11/28)
-* [Philippians 04:1-3](https://door43.org/en/bible/notes/php/04/01)
-

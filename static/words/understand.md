@@ -12,12 +12,3 @@ The term "understand" means to hear or receive information and know what it mean
 
 (See also: [believe](../kt/believe.md) **·** [know](../other/know.md) **·** [wise](../kt/wise.md))
 
-## Bible References: ##
-
-* [Job 34:16-17](https://door43.org/en/bible/notes/job/34/16)
-* [Luke 02:45-47](https://door43.org/en/bible/notes/luk/02/45)
-* [Luke 08:9-10](https://door43.org/en/bible/notes/luk/08/09)
-* [Matthew 13:10-12](https://door43.org/en/bible/notes/mat/13/10)
-* [Matthew 13:13-14](https://door43.org/en/bible/notes/mat/13/13)
-* [Proverbs 03:5-6](https://door43.org/en/bible/notes/pro/03/05)
-

@@ -10,10 +10,3 @@ The term "pierce" means to stab something with a sharp, pointed object. It is al
 
 (See also: [cross](../kt/cross.md) **·** [jesus](../kt/jesus.md) **·** [servant](../other/servant.md) **·** [simeon](../other/simeon.md))
 
-## Bible References: ##
-
-* [Job 16:13-14](https://door43.org/en/bible/notes/job/16/13)
-* [Job 20:23-25](https://door43.org/en/bible/notes/job/20/23)
-* [John 19:36-37](https://door43.org/en/bible/notes/jhn/19/36)
-* [Psalms 022:16-17](https://door43.org/en/bible/notes/psa/022/016)
-

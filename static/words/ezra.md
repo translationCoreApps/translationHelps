@@ -13,9 +13,3 @@ Ezra was an Israelite priest and expert in Jewish law who recorded the history o
 
 (See also: [babylon](../other/babylon.md) **·** [exile](../other/exile.md) **·** [jerusalem](../other/jerusalem.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [nehemiah](../other/nehemiah.md) **·** [temple](../kt/temple.md))
 
-## Bible References: ##
-
-* [Ezra 07:6-7](https://door43.org/en/bible/notes/ezr/07/06)
-* [Nehemiah 08:1-3](https://door43.org/en/bible/notes/neh/08/01)
-* [Nehemiah 12:1-3](https://door43.org/en/bible/notes/neh/12/01)
-

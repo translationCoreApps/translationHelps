@@ -13,12 +13,3 @@ These terms all refer to a kind of reptile that has a long, thin body and large,
 
 (See also: [curse](../kt/curse.md) **·** [deceive](../kt/deceive.md) **·** [disobey](../other/disobey.md) **·** [eden](../other/eden.md) **·** [evil](../kt/evil.md) **·** [offspring](../other/offspring.md) **·** [prey](../other/prey.md) **·** [satan](../kt/satan.md) **·** [sin](../kt/sin.md) **·** [tempt](../kt/tempt.md))
 
-## Bible References: ##
-
-* [Genesis 03:1-3](https://door43.org/en/bible/notes/gen/03/01)
-* [Genesis 03:4-6](https://door43.org/en/bible/notes/gen/03/04)
-* [Genesis 03:12-13](https://door43.org/en/bible/notes/gen/03/12)
-* [Mark 16:17-18](https://door43.org/en/bible/notes/mrk/16/17)
-* [Matthew 03:7-9](https://door43.org/en/bible/notes/mat/03/07)
-* [Matthew 23:32-33](https://door43.org/en/bible/notes/mat/23/32)
-

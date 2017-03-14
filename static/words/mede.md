@@ -12,11 +12,3 @@ Media was an ancient empire located east of Assyria and Babylonia, and north of 
 
 (See also: [assyria](../other/assyria.md) **·** [babylon](../other/babylon.md) **·** [cyrus](../other/cyrus.md) **·** [daniel](../other/daniel.md) **·** [darius](../other/darius.md) **·** [elam](../other/elam.md) **·** [persia](../other/persia.md))
 
-## Bible References: ##
-
-* [2 Kings 17:4-6](https://door43.org/en/bible/notes/2ki/17/04)
-* [Acts 02:8-11](https://door43.org/en/bible/notes/act/02/08)
-* [Daniel 05:25-28](https://door43.org/en/bible/notes/dan/05/25)
-* [Esther 01:3-4](https://door43.org/en/bible/notes/est/01/03)
-* [Ezra 06:1-2](https://door43.org/en/bible/notes/ezr/06/01)
-

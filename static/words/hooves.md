@@ -13,10 +13,3 @@ These terms refer to the hard material covering the bottom of the feet of certai
 
 (See also: [camel](../other/camel.md) **·** [cow](../other/cow.md) **·** [donkey](../other/donkey.md) **·** [goat](../other/goat.md) **·** [ox](../other/ox.md) **·** [pig](../other/pig.md) **·** [sheep](../other/sheep.md))
 
-## Bible References: ##
-
-* [Deuteronomy 14:6-7](https://door43.org/en/bible/notes/deu/14/06)
-* [Ezekiel 26:9-11](https://door43.org/en/bible/notes/ezk/26/09)
-* [Leviticus 11:3-4](https://door43.org/en/bible/notes/lev/11/03)
-* [Psalms 069:30-31](https://door43.org/en/bible/notes/psa/069/030)
-

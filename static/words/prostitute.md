@@ -12,9 +12,3 @@ The terms "prostitute" and "harlot" both refer to a person who performs sexual a
 
 (See also: [adultery](../kt/adultery.md) **·** [falsegod](../kt/falsegod.md) **·** [fornication](../kt/fornication.md) **·** [idol](../other/idol.md))
 
-## Bible References: ##
-
-* [Genesis 34:30-31](https://door43.org/en/bible/notes/gen/34/30)
-* [Genesis 38:21-23](https://door43.org/en/bible/notes/gen/38/21)
-* [Luke 15:28-30](https://door43.org/en/bible/notes/luk/15/28)
-* [Matthew 21:31-32](https://door43.org/en/bible/notes/mat/21/31)

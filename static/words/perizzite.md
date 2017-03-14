@@ -11,11 +11,3 @@
 
 (See also: [canaan](../other/canaan.md) **·** [falsegod](../kt/falsegod.md))
 
-## Bible References: ##
-
-* [1 Kings 09:20-21](https://door43.org/en/bible/notes/1ki/09/20)
-* [2 Chronicles 08:7-8](https://door43.org/en/bible/notes/2ch/08/07)
-* [Exodus 03:16-18](https://door43.org/en/bible/notes/exo/03/16)
-* [Genesis 13:5-7](https://door43.org/en/bible/notes/gen/13/05)
-* [Joshua 03:9-11](https://door43.org/en/bible/notes/jos/03/09)
-

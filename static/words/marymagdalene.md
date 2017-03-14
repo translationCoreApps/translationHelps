@@ -12,10 +12,3 @@ Mary Magdalene was one of several women who believed in Jesus and followed him i
 
 (See also: [demon, evil spirit, unclean spirit](../kt/demon.md) **·** [demon-possessed](../kt/demonpossessed.md))
 
-## Bible References: ##
-
-* [Luke 08:1-3](https://door43.org/en/bible/notes/luk/08/01)
-* [Luke 24:8-10](https://door43.org/en/bible/notes/luk/24/08)
-* [Mark 15:39-41](https://door43.org/en/bible/notes/mrk/15/39)
-* [Matthew 27:54-56](https://door43.org/en/bible/notes/mat/27/54)
-~~DISCUSSION:on~~

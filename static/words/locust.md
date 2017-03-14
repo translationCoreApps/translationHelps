@@ -13,11 +13,3 @@ The term "locust" refers to a kind of large, flying grasshopper that sometimes f
 
 (See also: [captive](../other/captive.md) **·** [egypt](../other/egypt.md) **·** [israel](../other/israel.md) **·** [johnthebaptist](../other/johnthebaptist.md) **·** [plague](../other/plague.md))
 
-## Bible References: ##
-
-* [2 Chronicles 06:28-31](https://door43.org/en/bible/notes/2ch/06/28)
-* [Deuteronomy 28:38-39](https://door43.org/en/bible/notes/deu/28/38)
-* [Exodus 10:3-4](https://door43.org/en/bible/notes/exo/10/03)
-* [Mark 01:4-6](https://door43.org/en/bible/notes/mrk/01/04)
-* [Proverbs 30:27-28](https://door43.org/en/bible/notes/pro/30/27)
-

@@ -11,10 +11,3 @@ Persia was a country that also became a powerful empire founded by Cyrus the Gre
 
 (See also: [ahasuerus](../other/ahasuerus.md) **·** [artaxerxes](../other/artaxerxes.md) **·** [assyria](../other/assyria.md) **·** [babylon](../other/babylon.md) **·** [cyrus](../other/cyrus.md) **·** [esther](../other/esther.md) **·** [ezra](../other/ezra.md) **·** [nehemiah](../other/nehemiah.md))
 
-## Bible References: ##
-
-* [2 Chronicles 36:20-21](https://door43.org/en/bible/notes/2ch/36/20)
-* [Daniel 10:12-13](https://door43.org/en/bible/notes/dan/10/12)
-* [Esther 01:3-4](https://door43.org/en/bible/notes/est/01/03)
-* [Ezekiel 27:10-11](https://door43.org/en/bible/notes/ezk/27/10)
-

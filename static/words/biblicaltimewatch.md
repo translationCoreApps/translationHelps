@@ -10,10 +10,3 @@ In biblical times, a "watch" was a period of time at night during which a watchm
 
 (See also: [watch](../other/watch.md))
 
-## Bible References: ##
-
-* [Luke 12:37-38](https://door43.org/en/bible/notes/luk/12/37)
-* [Mark 06:48-50](https://door43.org/en/bible/notes/mrk/06/48)
-* [Matthew 14:25-27](https://door43.org/en/bible/notes/mat/14/25)
-* [Psalms 090:3-4](https://door43.org/en/bible/notes/psa/090/003)
-

@@ -14,11 +14,3 @@ The term "age" refers to the number of years a person has lived. It also used to
 * The phrase, "at a very old age" could be translated as, "at many years old" or "when he was very old" or "when he had lived a very long time."
 * The phrase, "this present evil age" means, "during this time right now when people are very evil."
 
-## Bible References: ##
-
-* [1 Chronicles 29:26-28](https://door43.org/en/bible/notes/1ch/29/26)
-* [1 Corinthians 02:6-7](https://door43.org/en/bible/notes/1co/02/06)
-* [Hebrews 06:4-6](https://door43.org/en/bible/notes/heb/06/04)
-* [Job 05:26-27](https://door43.org/en/bible/notes/job/05/26)
- 
-

@@ -15,9 +15,3 @@ In the Bible, the phrase "wise men" often refers to men who serve God and act wi
 
 (See also: [babylon](../other/babylon.md) **·** [daniel](../other/daniel.md) **·** [divination](../other/divination.md) **·** [magic](../other/magic.md) **·** [nebuchadnezzar](../other/nebuchadnezzar.md) **·** [ruler](../other/ruler.md) **·** [wise](../kt/wise.md))
 
-## Bible References: ##
-
-* [1 Chronicles 27:32-34](https://door43.org/en/bible/notes/1ch/27/32)
-* [Daniel 02:1-2](https://door43.org/en/bible/notes/dan/02/01)
-* [Daniel 02:10-11](https://door43.org/en/bible/notes/dan/02/10)
-

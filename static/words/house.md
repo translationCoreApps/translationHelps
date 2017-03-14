@@ -20,13 +20,3 @@ The term "house" is often used figuratively in the Bible.
 
 (See also: [david](../other/david.md) **·** [descendant](../other/descendant.md) **·** [houseofgod](../kt/houseofgod.md) **·** [household](../other/household.md),[kingdomofisrael](../other/kingdomofisrael.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md) **·** [yahweh](../kt/yahweh.md))
 
-## Bible References: ##
-
-* [Acts 07:41-42](https://door43.org/en/bible/notes/act/07/41)
-* [Acts 07:47-50](https://door43.org/en/bible/notes/act/07/47)
-* [Genesis 39:3-4](https://door43.org/en/bible/notes/gen/39/03)
-* [Genesis 41:39-41](https://door43.org/en/bible/notes/gen/41/39)
-* [Luke 08:38-39](https://door43.org/en/bible/notes/luk/08/38)
-* [Matthew 10:5-7](https://door43.org/en/bible/notes/mat/10/05)
-* [Matthew 15:24-26](https://door43.org/en/bible/notes/mat/15/24)
-

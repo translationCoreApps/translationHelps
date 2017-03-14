@@ -10,10 +10,3 @@ These terms all refer to having courage and confidence to speak the truth and do
 
 (See also: [confidence](../kt/confidence.md) **·** [goodnews](../kt/goodnews.md) **·** [redeem](../kt/redeem.md))
 
-## Bible References: ##
-
-* [1 John 02:27-29](https://door43.org/en/bible/notes/1jn/02/27)
-* [1 Thessalonians 02:1-2](https://door43.org/en/bible/notes/1th/02/01)
-* [2 Corinthians 03:12-13](https://door43.org/en/bible/notes/2co/03/12)
-* [Acts 04:13-14](https://door43.org/en/bible/notes/act/04/13)
-

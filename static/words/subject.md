@@ -11,11 +11,3 @@ The term "subject" refers to being under the authority of someone. The phrase "b
 
 (See also: [submit](../other/submit.md))
 
-## Bible References: ##
-
-* [1 Corinthians 02:14-16](https://door43.org/en/bible/notes/1co/02/14)
-* [1 Kings 04:5-6](https://door43.org/en/bible/notes/1ki/04/05)
-* [1 Peter 02:18-20](https://door43.org/en/bible/notes/1pe/02/18)
-* [Hebrews 02:5-6](https://door43.org/en/bible/notes/heb/02/05)
-* [Proverbs 12:23-24](https://door43.org/en/bible/notes/pro/12/23)
-

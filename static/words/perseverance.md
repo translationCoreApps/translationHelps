@@ -11,9 +11,3 @@ The terms "persevere" and "perseverance" refer to continuing to do something eve
 
 (See also: [patient](../other/patient.md) **·** [trial](../other/trial.md))
 
-## Bible References: ##
-
-* [Colossians 01:11-12](https://door43.org/en/bible/notes/col/01/11)
-* [Ephesians 06:17-18](https://door43.org/en/bible/notes/eph/06/17)
-* [James 05:9-11](https://door43.org/en/bible/notes/jas/05/09)
-* [Luke 08:14-15](https://door43.org/en/bible/notes/luk/08/14)

@@ -9,9 +9,3 @@ Philistia is the name of a large region in the land of Canaan, located along the
 
 (See also: [philistines](../other/philistines.md) **·** [gaza](../other/gaza.md) **·** [joppa](../other/joppa.md))
 
-## Bible References: ##
-
-* [1 Chronicles 10:9-10](https://door43.org/en/bible/notes/1ch/10/09)
-* [Joel 03:4-6](https://door43.org/en/bible/notes/jol/03/04)
-* [Psalms 060:8-9](https://door43.org/en/bible/notes/psa/060/008)
-

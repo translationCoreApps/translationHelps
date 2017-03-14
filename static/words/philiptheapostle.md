@@ -13,11 +13,3 @@ Philip the apostle was one of the original twelve disciples of Jesus. He was fro
 
 (See also: [Philip the evangelist](../other/philip.md))
 
-## Bible References: ##
-
-* [Acts 01:12-14](https://door43.org/en/bible/notes/act/01/12)
-* [John 01:43-45](https://door43.org/en/bible/notes/jhn/01/43)
-* [John 06:4-6](https://door43.org/en/bible/notes/jhn/06/04)
-* [Luke 06:14-16](https://door43.org/en/bible/notes/luk/06/14)
-* [Mark 03:17-19](https://door43.org/en/bible/notes/mrk/03/17)
-

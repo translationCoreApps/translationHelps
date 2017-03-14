@@ -9,10 +9,3 @@ Chaff is a dry protective covering of a grain seed. The chaff is not good for fo
 
 (See also: [grain](../other/grain.md) **·** [wheat](../other/wheat.md) **·** [winnow](../other/winnow.md))
 
-## Bible References: ##
-
-* [Daniel 02:34-35](https://door43.org/en/bible/notes/dan/02/34)
-* [Job 21:16-18](https://door43.org/en/bible/notes/job/21/16)
-* [Luke 03:17](https://door43.org/en/bible/notes/luk/03/17)
-* [Matthew 03:10-12](https://door43.org/en/bible/notes/mat/03/10)
-

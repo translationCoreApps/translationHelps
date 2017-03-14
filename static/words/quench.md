@@ -11,10 +11,3 @@ The term "quench" means to put out or stop something that is demanding to be sat
 
 (See also: [fruit](../kt/fruit.md) **·** [gift](../kt/gift.md) **·** [holyspirit](../kt/holyspirit.md))
 
-## Bible References: ##
-
-* [1 Thessalonians 05:19-22](https://door43.org/en/bible/notes/1th/05/19)
-* [Ezekiel 20:45-47](https://door43.org/en/bible/notes/ezk/20/45)
-* [Isaiah 01:31](https://door43.org/en/bible/notes/isa/01/31)
-* [Jeremiah 21:11-12](https://door43.org/en/bible/notes/jer/21/11)
-

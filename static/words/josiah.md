@@ -13,11 +13,3 @@ Josiah was a godly king who reigned over the kingdom of Judah for thirty-one yea
 
 (See also: [idol](../other/idol.md) **·** [judah](../other/judah.md) **·** [law](../other/law.md) **·** [passover](../kt/passover.md) **·** [temple](../kt/temple.md))
 
-## Bible References: ##
-
-* [1 Chronicles 03:13-14](https://door43.org/en/bible/notes/1ch/03/13)
-* [2 Chronicles 33:24-25](https://door43.org/en/bible/notes/2ch/33/24)
-* [2 Chronicles 34:1-3](https://door43.org/en/bible/notes/2ch/34/01)
-* [Jeremiah 01:1-3](https://door43.org/en/bible/notes/jer/01/01)
-* [Matthew 01:9-11](https://door43.org/en/bible/notes/mat/01/09)
-

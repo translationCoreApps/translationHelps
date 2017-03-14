@@ -10,10 +10,3 @@ The term "chief" refers to the most powerful or most important leader of a parti
 
 (See also: [chiefpriests](../other/chiefpriests.md) **·** [priest](../kt/priest.md) **·** [taxcollector](../other/taxcollector.md))
 
-## Bible References: ##
-
-* [Daniel 01:11-13](https://door43.org/en/bible/notes/dan/01/11)
-* [Ezekiel 26:15-16](https://door43.org/en/bible/notes/ezk/26/15)
-* [Luke 19:1-2](https://door43.org/en/bible/notes/luk/19/01)
-* [Psalm 004:1](https://door43.org/en/bible/notes/psa/004/001)
-

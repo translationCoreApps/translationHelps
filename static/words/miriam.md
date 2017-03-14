@@ -13,11 +13,3 @@ Miriam was the older sister of Aaron and Moses.
 
 (See also: [aaron](../other/aaron.md) **·** [cush](../other/cush.md) **·** [intercede](../kt/intercede.md) **·** [moses](../other/moses.md) **·** [nileriver](../other/nileriver.md) **·** [pharaoh](../other/pharaoh.md) **·** [rebel](../other/rebel.md))
 
-## Bible References: ##
-
-* [1 Chronicles 06:1-3](https://door43.org/en/bible/notes/1ch/06/01)
-* [Deuteronomy 24:8-9](https://door43.org/en/bible/notes/deu/24/08)
-* [Micah 06:3-5](https://door43.org/en/bible/notes/mic/06/03)
-* [Numbers 12:1-3](https://door43.org/en/bible/notes/num/12/01)
-* [Numbers 20:1](https://door43.org/en/bible/notes/num/20/01)
-

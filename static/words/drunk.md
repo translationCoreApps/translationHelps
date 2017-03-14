@@ -11,12 +11,3 @@ The term "drunk" means to be intoxicated from drinking too much of an alcoholic 
 
 (See also: [wine](../other/wine.md))
 
-## Bible References: ##
-
-* [1 Corinthians 05:11-13](https://door43.org/en/bible/notes/1co/05/11)
-* [1 Samuel 25:36](https://door43.org/en/bible/notes/1sa/25/36)
-* [Jeremiah 13:12-14](https://door43.org/en/bible/notes/jer/13/12)
-* [Luke 07:33-35](https://door43.org/en/bible/notes/luk/07/33)
-* [Luke 21:34-35](https://door43.org/en/bible/notes/luk/21/34)
-* [Proverbs 23:19-21](https://door43.org/en/bible/notes/pro/23/19)
-

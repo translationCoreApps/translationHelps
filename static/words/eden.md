@@ -12,12 +12,3 @@ In ancient times, Eden was a region that had a garden where God placed the first
 
 (See also: [adam](../other/adam.md) **·** [euphrates](../other/euphrates.md) **·** [eve](../other/eve.md))
 
-## Bible References: ##
-
-* [Ezekiel 28:11-13](https://door43.org/en/bible/notes/ezk/28/11)
-* [Genesis 02:7-8](https://door43.org/en/bible/notes/gen/02/07)
-* [Genesis 02:9-10](https://door43.org/en/bible/notes/gen/02/09)
-* [Genesis 02:15-17](https://door43.org/en/bible/notes/gen/02/15)
-* [Genesis 04:16-17](https://door43.org/en/bible/notes/gen/04/16)
-* [Joel 02:3](https://door43.org/en/bible/notes/jol/02/03)
-

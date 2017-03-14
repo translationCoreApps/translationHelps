@@ -10,12 +10,3 @@ The term "grain" usually refers to the seed of a food plant such as wheat, barle
 
 (See also: [head](../other/head.md) **·** [wheat](../other/wheat.md))
 
-## Bible References: ##
-
-* [Genesis 42:1-4](https://door43.org/en/bible/notes/gen/42/01)
-* [Genesis 42:26-28](https://door43.org/en/bible/notes/gen/42/26)
-* [Genesis 43:1-2](https://door43.org/en/bible/notes/gen/43/01)
-* [Luke 06:1-2](https://door43.org/en/bible/notes/luk/06/01)
-* [Mark 02:23-24](https://door43.org/en/bible/notes/mrk/02/23)
-* [Matthew 13:7-9](https://door43.org/en/bible/notes/mat/13/07)
-* [Ruth 01:22](https://door43.org/en/bible/notes/rut/01/22)

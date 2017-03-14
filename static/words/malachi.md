@@ -13,7 +13,3 @@ Malachi was one of God's prophets to the kingdom of Judah. He lived around 500 y
 
 (See also: [babylon](../other/babylon.md) **·** [captive](../other/captive.md) **·** [ezra](../other/ezra.md) **·** [kingdomofjudah](../other/kingdomofjudah.md),[nehemiah](../other/nehemiah.md) **·** [prophet](../kt/prophet.md) **·** [repent](../kt/repent.md) **·** [turn](../kt/turn.md))
 
-## Bible References: ##
-
-* [Malachi 01:1-3](https://door43.org/en/bible/notes/mal/01/01)
-

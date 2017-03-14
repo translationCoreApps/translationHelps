@@ -10,11 +10,3 @@ The term "hang" means to suspend something or someone above the ground.
 
 (See also:)
 
-## Bible References: ##
-
-* [2 Samuel 17:23](https://door43.org/en/bible/notes/2sa/17/23)
-* [Acts 10:39-41](https://door43.org/en/bible/notes/act/10/39)
-* [Galatians 03:13-14](https://door43.org/en/bible/notes/gal/03/13)
-* [Genesis 40:20-23](https://door43.org/en/bible/notes/gen/40/20)
-* [Matthew 27:3-5](https://door43.org/en/bible/notes/mat/27/03)
-

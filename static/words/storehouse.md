@@ -11,10 +11,3 @@ A "storehouse" is a large building that is used for keeping food or other things
 
 (See also: [consecrate](../kt/consecrate.md) **·** [dedicate](../other/dedicate.md) **·** [famine](../other/famine.md) **·** [gold](../other/gold.md) **·** [grain](../other/grain.md) **·** [silver](../other/silver.md) **·** [temple](../kt/temple.md))
 
-## Bible References: ##
-
-* [2 Chronicles 16:2-3](https://door43.org/en/bible/notes/2ch/16/02)
-* [Luke 03:17](https://door43.org/en/bible/notes/luk/03/17)
-* [Matthew 03:10-12](https://door43.org/en/bible/notes/mat/03/10)
-* [Psalms 033:7-9](https://door43.org/en/bible/notes/psa/033/007)
-

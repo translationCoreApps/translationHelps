@@ -17,12 +17,3 @@ The term "leprosy" is used in the Bible to refer to several different skin disea
 
 (See also: [miriam](../other/miriam.md) **·** [naaman](../other/naaman.md) **·** [unclean](../kt/unclean.md))
 
-## Bible References: ##
-
-* [Luke 05:12-13](https://door43.org/en/bible/notes/luk/05/12)
-* [Luke 17:11-13](https://door43.org/en/bible/notes/luk/17/11)
-* [Mark 01:40-42](https://door43.org/en/bible/notes/mrk/01/40)
-* [Mark 14:3-5](https://door43.org/en/bible/notes/mrk/14/03)
-* [Matthew 08:1-3](https://door43.org/en/bible/notes/mat/08/01)
-* [Matthew 10:8-10](https://door43.org/en/bible/notes/mat/10/08)
-* [Matthew 11:4-6](https://door43.org/en/bible/notes/mat/11/04)

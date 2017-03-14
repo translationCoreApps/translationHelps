@@ -10,10 +10,3 @@ To slander means to say negative, defaming things about another person.
 
 (See also: [blasphemy, blaspheme](../kt/blasphemy.md))
 
-## Bible References: ##
-
-* [1 Corinthians 04:12-13](https://door43.org/en/bible/notes/1co/04/12)
-* [1 Timothy 03:11-13](https://door43.org/en/bible/notes/1ti/03/11)
-* [2 Corinthians 06:8-10](https://door43.org/en/bible/notes/2co/06/08)
-* [Mark 07:20-23](https://door43.org/en/bible/notes/mrk/07/20)
-

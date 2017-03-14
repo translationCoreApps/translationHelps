@@ -11,12 +11,3 @@ Wheat is a type of grain that people grow for food. When the Bible mentions "gra
 
 (See also: [barley](../other/barley.md) **·** [chaff](../other/chaff.md) **·** [grain](../other/grain.md) **·** [seed](../kt/seed.md) **·** [thresh](../other/thresh.md) **·** [winnow](../other/winnow.md))
 
-## Bible References: ##
-
-* [Acts 27:36-38](https://door43.org/en/bible/notes/act/27/36)
-* [Exodus 34:21-22](https://door43.org/en/bible/notes/exo/34/21)
-* [John 12:23-24](https://door43.org/en/bible/notes/jhn/12/23)
-* [Luke 03:17](https://door43.org/en/bible/notes/luk/03/17)
-* [Matthew 03:10-12](https://door43.org/en/bible/notes/mat/03/10)
-* [Matthew 13:24-26](https://door43.org/en/bible/notes/mat/13/24)
-

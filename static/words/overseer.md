@@ -17,11 +17,3 @@ The term "overseer" refers to a person who is in charge of the work and welfare 
 
 (See also: [church](../kt/church.md) **·** [elder](../other/elder.md) **·** [pastor](../kt/pastor.md) **·** [shepherd](../other/shepherd.md))
 
-## Bible References: ##
-
-* [1 Chronicles 26:31-32](https://door43.org/en/bible/notes/1ch/26/31)
-* [1 Timothy 03:1-3](https://door43.org/en/bible/notes/1ti/03/01)
-* [Acts 20:28-30](https://door43.org/en/bible/notes/act/20/28)
-* [Genesis 41:33-34](https://door43.org/en/bible/notes/gen/41/33)
-* [Philippians 01:1-2](https://door43.org/en/bible/notes/php/01/01)
-

@@ -16,11 +16,3 @@ The term "snow" refers to white flakes of frozen water that fall from clouds in 
 
 (See also: [lebanon](../other/lebanon.md) **·** [purify](../kt/purify.md))
 
-## Bible References: ##
-
-* [Exodus 04:6-7](https://door43.org/en/bible/notes/exo/04/06)
-* [Job 37:4-6](https://door43.org/en/bible/notes/job/37/04)
-* [Matthew 28:3-4](https://door43.org/en/bible/notes/mat/28/03)
-* [Psalms 147:15-16](https://door43.org/en/bible/notes/psa/147/015)
-* [Revelation 01:14-16](https://door43.org/en/bible/notes/rev/01/14)
-

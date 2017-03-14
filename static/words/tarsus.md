@@ -12,9 +12,3 @@ Tarsus was a prosperous city located in the Roman province of Cilicia, in what i
 
 (See also: [cilicia](../other/cilicia.md) **·** [paul](../other/paul.md) **·** [province](../other/province.md) **·** [mediterranean](../other/mediterranean.md))
 
-## Bible References: ##
-
-* [Acts 09:10-12](https://door43.org/en/bible/notes/act/09/10)
-* [Acts 09:28-30](https://door43.org/en/bible/notes/act/09/28)
-* [Acts 11:25-26](https://door43.org/en/bible/notes/act/11/25)
-

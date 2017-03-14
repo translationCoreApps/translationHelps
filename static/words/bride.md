@@ -9,9 +9,3 @@ A bride is the woman in a wedding ceremony who is getting married to her husband
 
 (See also: [bridegroom](../other/bridegroom.md) **·** [church](../kt/church.md))
 
-## Bible References: ##
-
-* [Exodus 22:16-17](https://door43.org/en/bible/notes/exo/22/16)
-* [Isaiah 62:5](https://door43.org/en/bible/notes/isa/62/05)
-* [Joel 02:15-16](https://door43.org/en/bible/notes/jol/02/15)
-

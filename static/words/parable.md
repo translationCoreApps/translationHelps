@@ -11,13 +11,3 @@ The term "parable" usually refers to a short story or object lesson that is used
 
 (See also: [samaria](../other/samaria.md))
 
-## Bible References: ##
-
-* [Luke 05:36](https://door43.org/en/bible/notes/luk/05/36)
-* [Luke 06:39-40](https://door43.org/en/bible/notes/luk/06/39)
-* [Luke 08:4-6](https://door43.org/en/bible/notes/luk/08/04)
-* [Luke 08:9-10](https://door43.org/en/bible/notes/luk/08/09)
-* [Mark 04:1-2](https://door43.org/en/bible/notes/mrk/04/01)
-* [Matthew 13:3-6](https://door43.org/en/bible/notes/mat/13/03)
-* [Matthew 13:10-12](https://door43.org/en/bible/notes/mat/13/10)
-* [Matthew 13:13-14](https://door43.org/en/bible/notes/mat/13/13)

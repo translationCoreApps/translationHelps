@@ -11,11 +11,3 @@ An ephod was an apron-like garment worn by the Israelite priests. It had two par
 
 (See also: [priest](../kt/priest.md))
 
-## Bible References: ##
-
-* [1 Samuel 02:18-19](https://door43.org/en/bible/notes/1sa/02/18)
-* [Exodus 28:4-5](https://door43.org/en/bible/notes/exo/28/04)
-* [Hosea 03:4-5](https://door43.org/en/bible/notes/hos/03/04)
-* [Judges 08:27-28](https://door43.org/en/bible/notes/jdg/08/27)
-* [Leviticus 08:6-7](https://door43.org/en/bible/notes/lev/08/06)
-

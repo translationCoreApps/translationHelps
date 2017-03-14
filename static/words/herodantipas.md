@@ -14,14 +14,3 @@
 
 (See also: [crucify](../kt/crucify.md) **·** [herodthegreat](../other/herodthegreat.md) **·** [johnthebaptist](../other/johnthebaptist.md) **·** [king](../other/king.md) **·** [rome](../other/rome.md))
 
-## Bible References: ##
-
-* [Luke 03:1-2](https://door43.org/en/bible/notes/luk/03/01)
-* [Luke 03:18-20](https://door43.org/en/bible/notes/luk/03/18)
-* [Luke 09:7-9](https://door43.org/en/bible/notes/luk/09/07)
-* [Luke 13:31-33](https://door43.org/en/bible/notes/luk/13/31)
-* [Luke 23:8-10](https://door43.org/en/bible/notes/luk/23/08)
-* [Mark 06:18-20](https://door43.org/en/bible/notes/mrk/06/18)
-* [Matthew 14:1-2](https://door43.org/en/bible/notes/mat/14/01)
-~~DISCUSSION:on~~
-

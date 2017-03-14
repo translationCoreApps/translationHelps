@@ -12,10 +12,3 @@ The terms "lowly" and "lowliness" refer to being poor or having low status. This
 
 (See also: [humble](../other/humble.md) **·** [proud](../other/proud.md))
 
-## Bible References: ##
-
-* [Acts 20:17-21](https://door43.org/en/bible/notes/act/20/17)
-* [Ezekiel 17:13-14](https://door43.org/en/bible/notes/ezk/17/13)
-* [Luke 01:48-49](https://door43.org/en/bible/notes/luk/01/48)
-* [Romans 12:14-16](https://door43.org/en/bible/notes/rom/12/14)
-

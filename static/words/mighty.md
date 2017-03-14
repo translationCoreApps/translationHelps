@@ -21,9 +21,3 @@ The terms "mighty" and "might" refer to having great strength or power.
 
 (See also: [almighty](../kt/almighty.md) **·** [miracle](../kt/miracle.md) **·** [power](../kt/power.md) **·** [strength](../other/strength.md))
 
-## Bible References: ##
-
-* [Acts 07:22-25](https://door43.org/en/bible/notes/act/07/22)
-* [Genesis 06:4](https://door43.org/en/bible/notes/gen/06/04)
-* [Mark 09:38-39](https://door43.org/en/bible/notes/mrk/09/38)
-* [Matthew 11:23-24](https://door43.org/en/bible/notes/mat/11/23)

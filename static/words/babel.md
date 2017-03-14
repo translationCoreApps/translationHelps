@@ -13,8 +13,3 @@ Babel was a chief city in a region called Shinar in the southern part of Mesopot
 
 (See also: [babylon](../other/babylon.md) **·** [ham](../other/ham.md) **·** [mesopotamia](../other/mesopotamia.md))
 
-## Bible References: ##
-
-* [Genesis 10:8-10](https://door43.org/en/bible/notes/gen/10/08)
-* [Genesis 11:8-9](https://door43.org/en/bible/notes/gen/11/08)
-

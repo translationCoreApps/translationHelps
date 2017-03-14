@@ -14,11 +14,3 @@ The term "pillar" usually refers to a large vertical structure that is used to h
 
 (See also: [foundation](../other/foundation.md) **·** [idol](../other/idol.md) **·** [image](../other/image.md))
 
-## Bible References: ##
-
-* [2 Kings 18:4-5](https://door43.org/en/bible/notes/2ki/18/04)
-* [Exodus 13:19-22](https://door43.org/en/bible/notes/exo/13/19)
-* [Exodus 33:7-9](https://door43.org/en/bible/notes/exo/33/07)
-* [Genesis 31:45-47](https://door43.org/en/bible/notes/gen/31/45)
-* [Proverbs 09:1-2](https://door43.org/en/bible/notes/pro/09/01)
-

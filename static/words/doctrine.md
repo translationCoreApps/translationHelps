@@ -11,10 +11,3 @@ The word "doctrine" literally means "teaching". It usually refers to religious t
 
 (See also: [teach](../other/teach.md))
 
-## Bible References: ##
-
-* [1 Timothy 01:3-4](https://door43.org/en/bible/notes/1ti/01/03)
-* [2 Timothy 03:16-17](https://door43.org/en/bible/notes/2ti/03/16)
-* [Mark 07:6-7](https://door43.org/en/bible/notes/mrk/07/06)
-* [Matthew 15:7-9](https://door43.org/en/bible/notes/mat/15/07)
-

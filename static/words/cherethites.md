@@ -12,7 +12,3 @@ The Cherethites were a people group who were probably part of the Philistines. A
 
 (See also: [absalom](../other/absalom.md) **·** [benaiah](../other/benaiah.md) **·** [david](../other/david.md) **·** [philistines](../other/philistines.md))
 
-## Bible References: ##
-
-* [Zephaniah 02:4-5](https://door43.org/en/bible/notes/zep/02/04)
-

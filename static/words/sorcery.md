@@ -12,10 +12,3 @@
 
 (See also: [adultery](../kt/adultery.md) **·** [demon](../kt/demon.md) **·** [divination](../other/divination.md) **·** [idol](../other/idol.md) **·** [magic](../other/magic.md) **·** [sacrifice](../other/sacrifice.md) **·** [worship](../kt/worship.md))
 
-## Bible References: ##
-
-* [Acts 08:9-11](https://door43.org/en/bible/notes/act/08/09)
-* [Exodus 07:11-13](https://door43.org/en/bible/notes/exo/07/11)
-* [Galatians 05:19-21](https://door43.org/en/bible/notes/gal/05/19)
-* [Revelation 09:20-21](https://door43.org/en/bible/notes/rev/09/20)
-

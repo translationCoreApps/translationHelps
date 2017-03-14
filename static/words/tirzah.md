@@ -12,9 +12,3 @@ Tirzah was an important Canaanite city that was conquered by the Israelites. It 
 
 (See also: [canaan](../other/canaan.md) **·** [inherit](../kt/inherit.md) **·** [kingdomofisrael](../other/kingdomofisrael.md) **·** [manasseh](../other/manasseh.md) **·** [shechem](../other/shechem.md))
 
-## Bible References: ##
-
-* [Numbers 27:1](https://door43.org/en/bible/notes/num/27/01)
-* [Numbers 36:10-12](https://door43.org/en/bible/notes/num/36/10)
-* [Song of Solomon 06:4](https://door43.org/en/bible/notes/sng/06/04)
-

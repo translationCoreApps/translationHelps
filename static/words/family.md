@@ -12,11 +12,3 @@ The term "family" refers to a group of people who are related by blood and usual
 
 (See also: [clan](../other/clan.md) **·** [father](../other/father.md) **·** [house](../other/house.md))
 
-## Bible References: ##
-
-* [1 Kings 08:1-2](https://door43.org/en/bible/notes/1ki/08/01)
-* [1 Samuel 18:17-18](https://door43.org/en/bible/notes/1sa/18/17)
-* [Exodus 01:20-22](https://door43.org/en/bible/notes/exo/01/20)
-* [Joshua 02:12-13](https://door43.org/en/bible/notes/jos/02/12)
-* [Luke 02:4-5](https://door43.org/en/bible/notes/luk/02/04)
-

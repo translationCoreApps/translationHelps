@@ -14,15 +14,3 @@ In the Bible, the term "wine" refers to a kind of fermented drink made from the 
 
 (See also: [grape](../other/grape.md) **·** [vine](../other/vine.md) **·** [vineyard](../other/vineyard.md) **·** [winepress](../other/winepress.md))
 
-## Bible References: ##
-
-* [1 Timothy 05:23-25](https://door43.org/en/bible/notes/1ti/05/23)
-* [Genesis 09:20-21](https://door43.org/en/bible/notes/gen/09/20)
-* [Genesis 49:11-12](https://door43.org/en/bible/notes/gen/49/11)
-* [John 02:3-5](https://door43.org/en/bible/notes/jhn/02/03)
-* [John 02:9-10](https://door43.org/en/bible/notes/jhn/02/09)
-* [Matthew 09:17](https://door43.org/en/bible/notes/mat/09/17)
-* [Matthew 11:18-19](https://door43.org/en/bible/notes/mat/11/18)
-
-smashed 
-

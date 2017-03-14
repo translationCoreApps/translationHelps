@@ -14,14 +14,3 @@ The term "feast" refers to an event where a group of people eat a very large mea
 
 (See also: [festival](../other/festival.md))
 
-## Bible References: ##
-
-* [2 Peter 02:12-14](https://door43.org/en/bible/notes/2pe/02/12)
-* [Genesis 26:30-31](https://door43.org/en/bible/notes/gen/26/30)
-* [Genesis 29:21-22](https://door43.org/en/bible/notes/gen/29/21)
-* [Genesis 40:20-23](https://door43.org/en/bible/notes/gen/40/20)
-* [Jude 01:12-13](https://door43.org/en/bible/notes/jud/01/12)
-* [Luke 02:41-44](https://door43.org/en/bible/notes/luk/02/41)
-* [Luke 14:7-9](https://door43.org/en/bible/notes/luk/14/07)
-* [Matthew 22:1-3](https://door43.org/en/bible/notes/mat/22/01)
-

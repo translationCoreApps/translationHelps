@@ -12,11 +12,3 @@ Zerubbabel was the name of two Israelite men in the Old Testament.
 
 (See also: [babylon](../other/babylon.md) **·** [captive](../other/captive.md) **·** [cyrus](../other/cyrus.md) **·** [ezra](../other/ezra.md) **·** [highpriest](../kt/highpriest.md) **·** [jehoiakim](../other/jehoiakim.md) **·** [joshua](../other/joshua.md) **·** [judah](../other/judah.md) **·** [nehemiah](../other/nehemiah.md) **·** [persia](../other/persia.md) **·** [zedekiah](../other/zedekiah.md))
 
-## Bible References: ##
-
-* [1 Chronicles 03:19-21](https://door43.org/en/bible/notes/1ch/03/19)
-* [Ezra 02:1-2](https://door43.org/en/bible/notes/ezr/02/01)
-* [Ezra 03:8-9](https://door43.org/en/bible/notes/ezr/03/08)
-* [Luke 03:27-29](https://door43.org/en/bible/notes/luk/03/27)
-* [Matthew 01:12-14](https://door43.org/en/bible/notes/mat/01/12)
-

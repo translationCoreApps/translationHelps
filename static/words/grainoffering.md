@@ -10,10 +10,3 @@ A grain offering was a gift of wheat or barley flour offered to God, often after
 
 (See also: [burntoffering](../other/burntoffering.md) **·** [guiltoffering](../other/guiltoffering.md) , [sacrifice](../other/sacrifice.md) **·** [sinoffering](../other/sinoffering.md))
 
-## Bible References: ##
-
-* [1 Chronicles 23:27-29](https://door43.org/en/bible/notes/1ch/23/27)
-* [Exodus 29:41-42](https://door43.org/en/bible/notes/exo/29/41)
-* [Judges 13:19-20](https://door43.org/en/bible/notes/jdg/13/19)
-* [Leviticus 02:1-3](https://door43.org/en/bible/notes/lev/02/01)
-

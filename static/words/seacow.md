@@ -13,11 +13,3 @@ The term "sea cow" refers to a large sea animal that eats sea grass and other ve
 
 (See also: [tabernacle](../kt/tabernacle.md))
 
-## Bible References: ##
-
-* [Numbers 04:5-6](https://door43.org/en/bible/notes/num/04/05)
-* [Numbers 04:12-14](https://door43.org/en/bible/notes/num/04/12)
-* [Numbers 04:24-26](https://door43.org/en/bible/notes/num/04/24)
-
-The person who received the scroll would see the unbroken seal and know that no one had opened it.
-

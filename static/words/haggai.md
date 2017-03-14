@@ -12,8 +12,3 @@ Haggai was a prophet of Judah during the time after the Jews returned home from 
 
 (See also: [babylon](../other/babylon.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [nebuchadnezzar](../other/nebuchadnezzar.md) **·** [uzziah](../other/uzziah.md) **·** [zechariahot](../other/zechariahot.md))
 
-## Bible References: ##
-
-* [Ezra 05:1-2](https://door43.org/en/bible/notes/ezr/05/01)
-* [Ezra 06:13-15](https://door43.org/en/bible/notes/ezr/06/13)
-

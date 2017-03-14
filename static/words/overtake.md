@@ -15,9 +15,3 @@ The term "overtake" and "overtook" refer to gaining control over someone or some
 
 (See also: [bless](../kt/bless.md) **·** [curse](../kt/curse.md) **·** [capture](../other/capture.md) **·** [conquer](../other/conquer.md) **·** [prey](../other/prey.md) **·** [punish](../other/punish.md))
 
-## Bible References: ##
-
-* [2 Kings 25:4-5](https://door43.org/en/bible/notes/2ki/25/04)
-* [John 12:34-36](https://door43.org/en/bible/notes/jhn/12/34)
-
-{{tag>publish ktlink}

@@ -13,13 +13,3 @@ All these terms refer to being very surprised because of something extraordinary
 
 (See also: [miracle](../kt/miracle.md) **·** [sign](../kt/sign.md))
 
-## Bible References: ##
-
-* [Acts 08:9-11](https://door43.org/en/bible/notes/act/08/09)
-* [Acts 09:20-22](https://door43.org/en/bible/notes/act/09/20)
-* [Galatians 01:6-7](https://door43.org/en/bible/notes/gal/01/06)
-* [Mark 02:10-12](https://door43.org/en/bible/notes/mrk/02/10)
-* [Matthew 07:28-29](https://door43.org/en/bible/notes/mat/07/28)
-* [Matthew 15:29-31](https://door43.org/en/bible/notes/mat/15/29)
-* [Matthew 19:25-27](https://door43.org/en/bible/notes/mat/19/25)
-

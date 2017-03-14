@@ -12,7 +12,3 @@ Habakkuk was an Old Testament prophet who lived around the time that King Jehoia
 
 (See also: [babylon](../other/babylon.md) **·** [jehoiakim](../other/jehoiakim.md) **·** [Jeremiah](../other/jeremiah.md))
 
-## Bible References: ##
-
-* [Habakkuk 01:1-2](https://door43.org/en/bible/notes/hab/01/01)
-

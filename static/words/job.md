@@ -14,11 +14,3 @@ Job was a man who is described in the Bible as blameless and righteous before Go
 
 (See also: [abraham](../other/abraham.md) **·** [esau](../other/esau.md) **·** [flood](../other/flood.md) **·** [jacob](../other/jacob.md)[noah](../other/noah.md) **·** [peoplegroup](../other/peoplegroup.md))
 
-## Bible References: ##
-
-* [Ezekiel 14:12-14](https://door43.org/en/bible/notes/ezk/14/12)
-* [James 05:9-11](https://door43.org/en/bible/notes/jas/05/09)
-* [Job 01:1-3](https://door43.org/en/bible/notes/job/01/01)
-* [Job 03:4-5](https://door43.org/en/bible/notes/job/03/04)
-
-

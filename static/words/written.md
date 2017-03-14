@@ -11,13 +11,3 @@ The phrase "as it is written" or "what is written" occurs frequently in the New 
 
 (See also: [command](../other/command.md) **·** [lawofmoses](../kt/lawofmoses.md) **·** [prophet](../kt/prophet.md) **·** [wordofgod](../kt/wordofgod.md))
 
-## Bible References: ##
-
-* [1 John 05:13-15](https://door43.org/en/bible/notes/1jn/05/13)
-* [Acts 13:28-29](https://door43.org/en/bible/notes/act/13/28)
-* [Exodus 32:15-16](https://door43.org/en/bible/notes/exo/32/15)
-* [John 21:24-25](https://door43.org/en/bible/notes/jhn/21/24)
-* [Luke 03:4](https://door43.org/en/bible/notes/luk/03/04)
-* [Mark 09:11-13](https://door43.org/en/bible/notes/mrk/09/11)
-* [Matthew 04:5-6](https://door43.org/en/bible/notes/mat/04/05)
-* [Revelation 01:1-3](https://door43.org/en/bible/notes/rev/01/01)

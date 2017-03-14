@@ -12,11 +12,3 @@ An eagle is a very large, powerful bird of prey that eats small animals such as 
 
 (See also: [How to Translate Unknowns](https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/translate_unknown.md))
 
-## Bible References: ##
-
-* [2 Samuel 01:23-24](https://door43.org/en/bible/notes/2sa/01/23)
-* [Daniel 07:4-5](https://door43.org/en/bible/notes/dan/07/04)
-* [Jeremiah 04:13-15](https://door43.org/en/bible/notes/jer/04/13)
-* [Leviticus 11:13-16](https://door43.org/en/bible/notes/lev/11/13)
-* [Revelation 04:7-8](https://door43.org/en/bible/notes/rev/04/07)
-

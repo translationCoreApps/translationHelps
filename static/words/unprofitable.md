@@ -10,8 +10,3 @@ The term "unprofitable" means to not be useful.
 
 (See also: [profit](../other/profit.md) **·** [worthy](../kt/worthy.md))
 
-## Bible References: ##
-
-* [Jeremiah 02:7-8](https://door43.org/en/bible/notes/jer/02/07)
-* [Job 15:1-3](https://door43.org/en/bible/notes/job/15/01)
-

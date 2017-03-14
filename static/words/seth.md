@@ -12,9 +12,3 @@ In the book of Genesis, Seth was the third son of Adam and Eve.
 
 (See also: [abel](../other/abel.md) **·** [cain](../other/cain.md) **·** [call](../kt/call.md) **·** [descendant](../other/descendant.md) **·** [father](../other/father.md) **·** [flood](../other/flood.md) **·** [noah](../other/noah.md))
 
-## Bible References: ##
-
-* [1 Chronicles 01:1-4](https://door43.org/en/bible/notes/1ch/01/01)
-* [Luke 03:36-38](https://door43.org/en/bible/notes/luk/03/36)
-* [Numbers 24:17](https://door43.org/en/bible/notes/num/24/17)
-

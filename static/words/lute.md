@@ -13,9 +13,3 @@ The lute and the lyre are small, stringed, musical instruments that were used by
 
 (See also: [harp](../other/harp.md))
 
-## Bible References: ##
-
-* [1 Kings 10:11-12](https://door43.org/en/bible/notes/1ki/10/11)
-* [1 Samuel 10:5-6](https://door43.org/en/bible/notes/1sa/10/05)
-* [2 Chronicles 05:11-12](https://door43.org/en/bible/notes/2ch/05/11)
-

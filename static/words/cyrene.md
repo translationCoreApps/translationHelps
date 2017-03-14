@@ -11,8 +11,3 @@ Cyrene was a Greek city on the north coast of Africa on the Mediterranean Sea, d
 
 (See also: [crete](../other/crete.md))
 
-## Bible References: ##
-
-* [Acts 11:19-21](https://door43.org/en/bible/notes/act/11/19)
-* [Matthew 27:32-34](https://door43.org/en/bible/notes/mat/27/32)
-

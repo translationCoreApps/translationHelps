@@ -22,13 +22,3 @@ The term "create" means to make something, or to cause something to be. Whatever
 
 (See also: [god](../kt/god.md) **·** [goodnews](../kt/goodnews.md) **·** [world](../other/world.md))
 
-## Bible References: ##
-se, "since the creation of the world" means, "since the time when God created the world was created.
-
-* [1 Corinthians 11:9-10](https://door43.org/en/bible/notes/1co/11/09)
-* [1 Peter 04:17-19](https://door43.org/en/bible/notes/1pe/04/17)
-* [Colossians 01:15-17](https://door43.org/en/bible/notes/col/01/15)
-* [Galatians 06:14-16](https://door43.org/en/bible/notes/gal/06/14)
-* [Genesis 01:1-2](https://door43.org/en/bible/notes/gen/01/01)
-* [Genesis 14:19-20](https://door43.org/en/bible/notes/gen/14/19)
-

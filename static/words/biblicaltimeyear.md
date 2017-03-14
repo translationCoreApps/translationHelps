@@ -10,10 +10,3 @@ When used literally, the term "year" in the Bible refers to a period of time las
 
 (See also: [biblicaltimemonth](../other/biblicaltimemonth.md))
 
-## Bible References: ##
-
-* [2 Kings 23:31-33](https://door43.org/en/bible/notes/2ki/23/31)
-* [Acts 19:8-10](https://door43.org/en/bible/notes/act/19/08)
-* [Daniel 08:1-2](https://door43.org/en/bible/notes/dan/08/01)
-* [Exodus 12:1-2](https://door43.org/en/bible/notes/exo/12/01)
-

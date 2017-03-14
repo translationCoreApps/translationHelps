@@ -20,11 +20,3 @@ The term "cherub," and its plural form "cherubim," refer to a special type of he
 
 (See also: [angel](../kt/angel.md))
 
-## Bible References: ##
-
-* [1 Chronicles 13:5-6](https://door43.org/en/bible/notes/1ch/13/05)
-* [1 Kings 06:23-26](https://door43.org/en/bible/notes/1ki/06/23)
-* [Exodus 25:15-18](https://door43.org/en/bible/notes/exo/25/15)
-* [Ezekiel 09:3-4](https://door43.org/en/bible/notes/ezk/09/03)
-* [Genesis 03:22-24](https://door43.org/en/bible/notes/gen/03/22)
-

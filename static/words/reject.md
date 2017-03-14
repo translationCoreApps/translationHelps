@@ -18,11 +18,3 @@ To "reject" someone or something means to refuse to accept that person or thing.
 
 (See also: [command](../other/command.md) **·** [disobey](../other/disobey.md) **·** [obey](../other/obey.md) **·** [stiffnecked](../other/stiffnecked.md))
 
-## Bible References: ##
-
-* [Galatians 04:12-14](https://door43.org/en/bible/notes/gal/04/12)
-* [Hosea 04:6-7](https://door43.org/en/bible/notes/hos/04/06)
-* [Isaiah 41:8-9](https://door43.org/en/bible/notes/isa/41/08)
-* [John 12:48-50](https://door43.org/en/bible/notes/jhn/12/48)
-* [Mark 07:8-10](https://door43.org/en/bible/notes/mrk/07/08)
-

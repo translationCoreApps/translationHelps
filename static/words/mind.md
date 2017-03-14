@@ -19,10 +19,3 @@ The term "mind" refers to the part of a person that thinks and makes decisions.
 
 (See also: [believe](../kt/believe.md) **·** [heart](../other/heart.md) **·** [soul](../kt/soul.md))
 
-## Bible References: ##
-
-* [Luke 10:25-28](https://door43.org/en/bible/notes/luk/10/25)
-* [Mark 06:51-52](https://door43.org/en/bible/notes/mrk/06/51)
-* [Matthew 21:28-30](https://door43.org/en/bible/notes/mat/21/28)
-* [Matthew 22:37-38](https://door43.org/en/bible/notes/mat/22/37)
-

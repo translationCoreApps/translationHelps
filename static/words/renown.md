@@ -18,7 +18,3 @@ The term "renown" refers to being well-known and having a praiseworthy reputatio
 
 (See also: [honor](../other/honor.md))
 
-## Bible References: ##
-
-* [Genesis 06:4](https://door43.org/en/bible/notes/gen/06/04)
-* [Psalms 135:12-14](https://door43.org/en/bible/notes/psa/135/012)

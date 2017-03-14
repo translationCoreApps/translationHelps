@@ -13,10 +13,3 @@ To rebuke is to give someone a stern verbal correction, often in order to help t
 
 (See also [admonish](../other/admonish.md) **·** [disobey](../other/disobey.md))
 
-## Bible References: ##
-
-* [Mark 01:23-26](https://door43.org/en/bible/notes/mrk/01/23)
-* [Mark 16:14-16](https://door43.org/en/bible/notes/mrk/16/14)
-* [Matthew 08:26-27](https://door43.org/en/bible/notes/mat/08/26)
-* [Matthew 17:17-18](https://door43.org/en/bible/notes/mat/17/17)
-

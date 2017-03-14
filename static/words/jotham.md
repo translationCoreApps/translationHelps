@@ -12,10 +12,3 @@ In the Old Testament, there are three men with the name Jotham.
 
 (See also: [abimelech](../other/abimelech.md) **·** [ahaz](../other/ahaz.md) **·** [gideon](../other/gideon.md) **·** [uzziah](../other/uzziah.md))
 
-## Bible References: ##
-
-* [2 Chronicles 26:21](https://door43.org/en/bible/notes/2ch/26/21)
-* [2 Kings 15:4-5](https://door43.org/en/bible/notes/2ki/15/04)
-* [Isaiah 01:1](https://door43.org/en/bible/notes/isa/01/01)
-* [Judges 09:5-6](https://door43.org/en/bible/notes/jdg/09/05)
-

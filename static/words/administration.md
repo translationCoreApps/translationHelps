@@ -16,9 +16,3 @@ The terms "administration" and "administrator" refer to managing or governing of
 
 (See also: [babylon](../other/babylon.md) **·** [daniel](../other/daniel.md) **·** [gift](../kt/gift.md) **·** [governor](../other/governor.md) **·** [hananiah](../other/hananiah.md) **·** [mishael](../other/mishael.md) **·** [azariah](../other/azariah.md))
 
-## Bible References: ##
-
-* [1 Chronicles 18:14-17](https://door43.org/en/bible/notes/1ch/18/14)
-* [Daniel 06:1-3](https://door43.org/en/bible/notes/dan/06/01)
-* [Esther 09:3-5](https://door43.org/en/bible/notes/est/09/03)
-

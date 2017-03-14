@@ -13,10 +13,3 @@ The term "devastated" or "devastation" refers to having one's property or land r
 * The term "devastate" could be translated as "completely destroy" or "completely ruin."
 * Depending on the context, "devastation" could be translated as "complete destruction" or "total ruin" or "overwhelming grief" or "disaster."
 
-## Bible References: ##
-
-* [Daniel 08:24-25](https://door43.org/en/bible/notes/dan/08/24)
-* [Jeremiah 04:13-15](https://door43.org/en/bible/notes/jer/04/13)
-* [Numbers 21:29-30](https://door43.org/en/bible/notes/num/21/29)
-* [Zephaniah 01:12-13](https://door43.org/en/bible/notes/zep/01/12)
-

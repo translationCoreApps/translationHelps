@@ -10,10 +10,3 @@ Frankincense is a fragrant spice made from tree resin. It is used to make perfum
 
 (See also: [bethlehem](../other/bethlehem.md) **·** [learnedmen](../other/learnedmen.md))
 
-## Bible References: ##
-
-* [1 Chronicles 09:28-29](https://door43.org/en/bible/notes/1ch/09/28)
-* [Exodus 30:34-36](https://door43.org/en/bible/notes/exo/30/34)
-* [Matthew 02:11-12](https://door43.org/en/bible/notes/mat/02/11)
-* [Numbers 05:15](https://door43.org/en/bible/notes/num/05/15)
-

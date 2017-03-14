@@ -11,11 +11,3 @@ The Sadducees were a political group of Jewish priests during the time of Jesus 
 
 (See also: [chiefpriests](../other/chiefpriests.md) **·** [council](../other/council.md) **·** [highpriest](../kt/highpriest.md) **·** [hypocrite](../kt/hypocrite.md) **·** [jewishleaders](../other/jewishleaders.md) **·** [pharisee](../other/pharisee.md) **·** [priest](../kt/priest.md))
 
-## Bible References: ##
-
-* [Acts 04:1-4](https://door43.org/en/bible/notes/act/04/01)
-* [Acts 05:17-18](https://door43.org/en/bible/notes/act/05/17)
-* [Luke 20:27-28](https://door43.org/en/bible/notes/luk/20/27)
-* [Matthew 03:7-9](https://door43.org/en/bible/notes/mat/03/07)
-* [Matthew 16:1-2](https://door43.org/en/bible/notes/mat/16/01)
-

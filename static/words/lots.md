@@ -15,12 +15,3 @@ A "lot" is a marked object that is chosen from among other similar objects as a 
 
 (See also: [elizabeth](../other/elizabeth.md) **·** [priest](../kt/priest.md) **·** [zechariahot](../other/zechariahot.md) **·** [zechariahnt](../other/zechariahnt.md))                                                  
 
-## Bible References: ##
-
-* [Jonah 01:6-7](https://door43.org/en/bible/notes/jon/01/06)
-* [Luke 01:8-10](https://door43.org/en/bible/notes/luk/01/08)
-* [Luke 23:33-34](https://door43.org/en/bible/notes/luk/23/33)
-* [Mark 15:22-24](https://door43.org/en/bible/notes/mrk/15/22)
-* [Matthew 27:35-37](https://door43.org/en/bible/notes/mat/27/35)
-* [Psalms 022:18-19](https://door43.org/en/bible/notes/psa/022/018)
-

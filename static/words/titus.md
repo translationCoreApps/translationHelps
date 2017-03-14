@@ -12,10 +12,3 @@ Titus was a Gentile who became a believer through the ministry of the apostle Pa
 
 (See also: [appoint](../kt/appoint.md) **·** [believer](../kt/believer.md) **·** [church](../kt/church.md) **·** [circumcise](../kt/circumcise.md) **·** [crete](../other/crete.md) **·** [elder](../other/elder.md) **·** [encourage](../other/encourage.md) **·** [instruct](../other/instruct.md) **·** [minister](../kt/minister.md))
 
-## Bible References: ##
-
-* [2 Timothy 04:9-10](https://door43.org/en/bible/notes/2ti/04/09)
-* [Galatians 02:1-2](https://door43.org/en/bible/notes/gal/02/01)
-* [Galatians 02:3-5](https://door43.org/en/bible/notes/gal/02/03)
-* [Titus 01:4-5](https://door43.org/en/bible/notes/tit/01/04)
-

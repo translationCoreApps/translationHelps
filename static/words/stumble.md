@@ -17,11 +17,3 @@ The term "stumble" means to "almost fall" when walking or running. Usually it in
 
 (See also: [believe](../kt/believe.md) **·** [persecute](../other/persecute.md) **·** [sin](../kt/sin.md) **·** [stumblingblock](../other/stumblingblock.md))
 
-## Bible References: ##
-
-* [1 Peter 02:7-8](https://door43.org/en/bible/notes/1pe/02/07)
-* [Hosea 04:4-5](https://door43.org/en/bible/notes/hos/04/04)
-* [Isaiah 31:3](https://door43.org/en/bible/notes/isa/31/03)
-* [Matthew 11:4-6](https://door43.org/en/bible/notes/mat/11/04)
-* [Matthew 18:7-8](https://door43.org/en/bible/notes/mat/18/07)
-

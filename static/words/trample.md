@@ -13,8 +13,3 @@ To "trample" means to step on something and smash it with the feet. This term is
 
 (See also: [grape](../other/grape.md) **·** [humiliate](../other/humiliate.md) **·** [punish](../other/punish.md) **·** [rebel](../other/rebel.md) **·** [thresh](../other/thresh.md) **·** [wine](../other/wine.md))
 
-## Bible References: ##
-
-* [Hebrews 10:28-29](https://door43.org/en/bible/notes/heb/10/28)
-* [Psalms 007:5](https://door43.org/en/bible/notes/psa/007/005)
-

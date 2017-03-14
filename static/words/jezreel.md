@@ -12,11 +12,3 @@ Jezreel was the name of an important Israelite city in the territory of the Issa
 
 (See also: [ahab](../other/ahab.md) **·** [elijah](../other/elijah.md) **·** [issachar](../other/issachar.md) **·** [jezebel](../other/jezebel.md) **·** [palace](../other/palace.md) **·** [saltsea](../other/saltsea.md))
 
-## Bible References: ##
-
-* [1 Kings 04:11-14](https://door43.org/en/bible/notes/1ki/04/11)
-* [1 Samuel 25:43-44](https://door43.org/en/bible/notes/1sa/25/43)
-* [2 Kings 08:28-29](https://door43.org/en/bible/notes/2ki/08/28)
-* [2 Samuel 02:1-3](https://door43.org/en/bible/notes/2sa/02/01)
-* [Judges 06:33](https://door43.org/en/bible/notes/jdg/06/33)
-

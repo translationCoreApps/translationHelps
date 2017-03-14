@@ -11,8 +11,3 @@ The term "caught up" often refers to God taking a person up to heaven in a sudde
 
 (see: [miracle](../kt/miracle.md) **·** [overtake](../other/overtake.md) **·** [suffer](../kt/suffer.md) **·** [trouble](../other/trouble.md))
 
-## Bible References: ##
-
-* [2 Corinthians 12:1-2](https://door43.org/en/bible/notes/2co/12/01)
-* [Acts 08:39-40](https://door43.org/en/bible/notes/act/08/39)
-

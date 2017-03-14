@@ -12,8 +12,3 @@ Mishael is the name of three men in the Old Testament.
 
 (See also: [aaron](../other/aaron.md) **·** [azariah](../other/azariah.md) **·** [babylon](../other/babylon.md) **·** [daniel](../other/daniel.md) **·** [hananiah](../other/hananiah.md))
 
-## Bible References: ##
-
-* [Daniel 01:6-7](https://door43.org/en/bible/notes/dan/01/06)
-* [Daniel 02:17-18](https://door43.org/en/bible/notes/dan/02/17)
-

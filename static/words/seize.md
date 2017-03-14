@@ -10,12 +10,3 @@ The term "seize" means to take or capture someone or something by force. It can 
 * This term could also be translated as, "take control of" or "suddenly take" or "grab."
 * The expression, "seized and slept with her" could be translated as, "forced himself on her" or "violated her" or "raped her."  Make sure the translation of this concept is acceptable. (See: [euphemism](https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/figs_euphemism.md))
 
-## Bible References: ##
-
-* [Acts 16:19-21](https://door43.org/en/bible/notes/act/16/19)
-* [Exodus 15:14-15](https://door43.org/en/bible/notes/exo/15/14)
-* [John 10:37-39](https://door43.org/en/bible/notes/jhn/10/37)
-* [Luke 08:28-29](https://door43.org/en/bible/notes/luk/08/28)
-* [Matthew 26:47-48](https://door43.org/en/bible/notes/mat/26/47)
-
-

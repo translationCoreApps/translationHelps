@@ -15,11 +15,3 @@ The term "perverse" is used to describe a person or action that is morally crook
 
 (See also: [corrupt](../kt/corrupt.md) **·** [deceive](../kt/deceive.md) **·** [disobey](../other/disobey.md) **·** [evil](../kt/evil.md) **·** [turn](../kt/turn.md))
 
-## Bible References: ##
-
-* [1 Kings 08:46-47](https://door43.org/en/bible/notes/1ki/08/46)
-* [1 Samuel 20:30-31](https://door43.org/en/bible/notes/1sa/20/30)
-* [Job 33:27-28](https://door43.org/en/bible/notes/job/33/27)
-* [Luke 23:1-2](https://door43.org/en/bible/notes/luk/23/01)
-* [Psalms 101:4-6](https://door43.org/en/bible/notes/psa/101/004)
-

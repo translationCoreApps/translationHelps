@@ -11,13 +11,3 @@ The terms "thresh" and "threshing" refer to the first part of the process of sep
 
 (See also: [chaff](../other/chaff.md) **·** [grain](../other/grain.md) **·** [winnow](../other/winnow.md))
 
-## Bible References: ##
-
-* [2 Chronicles 03:1-3](https://door43.org/en/bible/notes/2ch/03/01)
-* [2 Kings 13:6-7](https://door43.org/en/bible/notes/2ki/13/06)
-* [2 Samuel 24:15-16](https://door43.org/en/bible/notes/2sa/24/15)
-* [Daniel 02:34-35](https://door43.org/en/bible/notes/dan/02/34)
-* [Luke 03:17](https://door43.org/en/bible/notes/luk/03/17)
-* [Matthew 03:10-12](https://door43.org/en/bible/notes/mat/03/10)
-* [Ruth 03:1-2](https://door43.org/en/bible/notes/rut/03/01)
-

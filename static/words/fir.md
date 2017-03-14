@@ -12,12 +12,3 @@ The term "fir" refers to a kind of tree that stays green all year long and that 
 
 (See also: [cedar](../other/cedar.md) **·** [cypress](../other/cypress.md))
 
-## Bible References: ##
-
-* [Ezekiel 27:4-5](https://door43.org/en/bible/notes/ezk/27/04)
-* [Isaiah 37:24-25](https://door43.org/en/bible/notes/isa/37/24)
-* [Isaiah 41:19-20](https://door43.org/en/bible/notes/isa/41/19)
-* [Isaiah 44:14](https://door43.org/en/bible/notes/isa/44/14)
-* [Isaiah 60:12-13](https://door43.org/en/bible/notes/isa/60/12)
-* [Psalms 104:16-18](https://door43.org/en/bible/notes/psa/104/016)
-

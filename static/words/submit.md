@@ -17,10 +17,3 @@ The term "submit" usually means to voluntarily place oneself under the authority
 
 (See also: [subject](../other/subject.md))
 
-## Bible References: ##
-
-* [1 Corinthians 14:34-36](https://door43.org/en/bible/notes/1co/14/34)
-* [1 Peter 03:1-2](https://door43.org/en/bible/notes/1pe/03/01)
-* [Hebrews 13:15-17](https://door43.org/en/bible/notes/heb/13/15)
-* [Luke 10:17-20](https://door43.org/en/bible/notes/luk/10/17)
-

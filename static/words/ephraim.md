@@ -12,12 +12,3 @@ Ephraim was the second son of Joseph. His descendants, the Ephraimites, formed o
 
 (See also: [kingdomofisrael](../other/kingdomofisrael.md) **·** [twelvetribesofisrael](../other/twelvetribesofisrael.md))
 
-## Bible References: ##
-
-* [1 Chronicles 06:66-69](https://door43.org/en/bible/notes/1ch/06/66)
-* [2 Chronicles 13:4-5](https://door43.org/en/bible/notes/2ch/13/04)
-* [Ezekiel 37:15-17](https://door43.org/en/bible/notes/ezk/37/15)
-* [Genesis 41:50-52](https://door43.org/en/bible/notes/gen/41/50)
-* [Genesis 48:1-2](https://door43.org/en/bible/notes/gen/48/01)
-* [John 11:54-55](https://door43.org/en/bible/notes/jhn/11/54)
-

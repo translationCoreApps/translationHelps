@@ -12,10 +12,3 @@ The term "meditate" means to spend time thinking about something carefully and d
 * To "meditate on" could be translated as "to think about carefully and deeply" or "to consider thoughtfully" or "to think about often."
 * The noun form is "meditation" and could be translated as, "deep thoughts." A phrase like, "meditation of my heart" could be translated as, "what I think deeply about" or "what I often think about."
 
-## Bible References: ##
-
-* [Genesis 24:63-65](https://door43.org/en/bible/notes/gen/24/63)
-* [Joshua 01:8-9](https://door43.org/en/bible/notes/jos/01/08)
-* [Psalm 001:1-2](https://door43.org/en/bible/notes/psa/001/001)
-* [Psalms 119:15-16](https://door43.org/en/bible/notes/psa/119/015)
-

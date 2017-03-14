@@ -14,10 +14,3 @@ The term "Nazirite" refers to a person who has taken a "Nazirite vow." Mostly me
 
 (See also: [johnthebaptist](../other/johnthebaptist.md) **·** [sacrifice](../other/sacrifice.md) **·** [samson](../other/samson.md) **·** [vow](../kt/vow.md) **·** [zechariahot](../other/zechariahot.md))
 
-## Bible References: ##
-
-* [Acts 18:18-19](https://door43.org/en/bible/notes/act/18/18)
-* [Amos 02:11-12](https://door43.org/en/bible/notes/amo/02/11)
-* [Judges 13:3-5](https://door43.org/en/bible/notes/jdg/13/03)
-* [Numbers 06:1-4](https://door43.org/en/bible/notes/num/06/01)
-

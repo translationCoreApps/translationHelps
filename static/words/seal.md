@@ -11,11 +11,3 @@ To seal an object means to keep it closed with something that makes it impossibl
 
 (See also: [holyspirit](../kt/holyspirit.md) **·** [tomb](../other/tomb.md))
 
-## Bible References: ##
-
-* [Exodus 02:3-4](https://door43.org/en/bible/notes/exo/02/03)
-* [Isaiah 29:11-12](https://door43.org/en/bible/notes/isa/29/11)
-* [John 06:26-27](https://door43.org/en/bible/notes/jhn/06/26)
-* [Matthew 27:65-66](https://door43.org/en/bible/notes/mat/27/65)
-* [Revelation 05:1-2](https://door43.org/en/bible/notes/rev/05/01)
-

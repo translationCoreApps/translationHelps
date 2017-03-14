@@ -10,11 +10,3 @@ The term "humiliate" means to cause someone to feel shamed or disgraced. This is
 
 (See also: [disgrace](../other/disgrace.md) **·** [humble](../other/humble.md) **·** [shame](../other/shame.md))
 
-## Bible References: ##
-
-* [Deuteronomy 21:13-14](https://door43.org/en/bible/notes/deu/21/13)
-* [Ezra 09:5-6](https://door43.org/en/bible/notes/ezr/09/05)
-* [Proverbs 25:7-8](https://door43.org/en/bible/notes/pro/25/07)
-* [Psalms 006:8-10](https://door43.org/en/bible/notes/psa/006/008)
-* [Psalms 123:3-4](https://door43.org/en/bible/notes/psa/123/003)
-

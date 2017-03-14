@@ -12,10 +12,3 @@ A pit is a deep hole that has been dug in the ground.
 
 (See also: [abyss](../other/abyss.md) **·** [hell](../kt/hell.md) **·** [prison](../other/prison.md))
 
-## Bible References: ##
-
-* [Genesis 37:21-22](https://door43.org/en/bible/notes/gen/37/21)
-* [Job 33:16-18](https://door43.org/en/bible/notes/job/33/16)
-* [Luke 06:39-40](https://door43.org/en/bible/notes/luk/06/39)
-* [Proverbs 01:12-14](https://door43.org/en/bible/notes/pro/01/12)
-

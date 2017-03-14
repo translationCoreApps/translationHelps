@@ -9,10 +9,3 @@ During the time of King David, Geshur was a small kingdom located on the east si
 
 (See also: [absalom](../other/absalom.md) **·** [amnon](../other/amnon.md) **·** [aram](../other/aram.md) **·** [seaofgalilee](../other/seaofgalilee.md))
 
-## Bible References: ##
-
-* [1 Chronicles 02:23-24](https://door43.org/en/bible/notes/1ch/02/23)
-* [2 Samuel 03:2-3](https://door43.org/en/bible/notes/2sa/03/02)
-* [Deuteronomy 03:14](https://door43.org/en/bible/notes/deu/03/14)
-* [Joshua 12:3-5](https://door43.org/en/bible/notes/jos/12/03)
-

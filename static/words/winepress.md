@@ -10,10 +10,3 @@ During Bible times, a "winepress" was a large container or open place where the 
 
 (See also: [grape](../other/grape.md) **·** [wrath](../kt/wrath.md))
 
-## Bible References: ##
-
-* [Isaiah 63:1-2](https://door43.org/en/bible/notes/isa/63/01)
-* [Mark 12:1-3](https://door43.org/en/bible/notes/mrk/12/01)
-* [Matthew 21:33-34](https://door43.org/en/bible/notes/mat/21/33)
-* [Revelation 14:19-20](https://door43.org/en/bible/notes/rev/14/19)
-

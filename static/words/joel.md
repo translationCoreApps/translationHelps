@@ -13,11 +13,3 @@ Joel is the name of a prophet who probably lived during the reign of King Joash 
 
 (See also: [joash](../other/joash.md) **·** [kingdomofjudah](../other/kingdomofjudah.md) **·** [pentecost](../other/pentecost.md))
 
-## Bible References: ##
-
-* [1 Chronicles 06:33-35](https://door43.org/en/bible/notes/1ch/06/33)
-* [1 Samuel 08:1-3](https://door43.org/en/bible/notes/1sa/08/01)
-* [Acts 02:16-17](https://door43.org/en/bible/notes/act/02/16)
-* [Ezra 10:41-44](https://door43.org/en/bible/notes/ezr/10/41)
-* [Joel 01:1-3](https://door43.org/en/bible/notes/jol/01/01)
-

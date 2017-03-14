@@ -15,10 +15,3 @@ The term "ash" or "ashes" refers to the grey powdery substance that is left behi
 
 (See also: [fire](../other/fire.md) **·** [sackcloth](../other/sackcloth.md))
 
-## Bible References: ##
-
-* [1 Kings 20:9-10](https://door43.org/en/bible/notes/1ki/20/09)
-* [Jeremiah 06:25-26](https://door43.org/en/bible/notes/jer/06/25)
-* [Psalms 102:9-10](https://door43.org/en/bible/notes/psa/102/009)
-* [Psalms 113:7-8](https://door43.org/en/bible/notes/psa/113/007)
-

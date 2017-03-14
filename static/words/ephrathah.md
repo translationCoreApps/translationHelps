@@ -12,5 +12,3 @@ Ephrathah was the name of a city and region in the northern part of Israel. The 
 
 (See also: [bethlehem](../other/bethlehem.md) **·** [boaz](../other/boaz.md) **·** [caleb](../other/caleb.md) **·** [david](../other/david.md) **·** [israel](../other/israel.md))
 
-## Bible References: ##
-

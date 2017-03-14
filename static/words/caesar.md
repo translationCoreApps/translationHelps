@@ -15,12 +15,3 @@ The term "Caesar" was the name or title used by many of the rulers of the Roman 
 
 (See also: [king](../other/king.md) **·** [paul](../other/paul.md) **·** [rome](../other/rome.md))
 
-## Bible References: ##
-
-* [Acts 25:6-8](https://door43.org/en/bible/notes/act/25/06)
-* [Luke 02:1-3](https://door43.org/en/bible/notes/luk/02/01)
-* [Luke 20:23-24](https://door43.org/en/bible/notes/luk/20/23)
-* [Luke 23:1-2](https://door43.org/en/bible/notes/luk/23/01)
-* [Mark 12:13-15](https://door43.org/en/bible/notes/mrk/12/13)
-* [Matthew 22:15-17](https://door43.org/en/bible/notes/mat/22/15)
-* [Philippians 04:21-23](https://door43.org/en/bible/notes/php/04/21)

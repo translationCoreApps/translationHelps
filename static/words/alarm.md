@@ -16,9 +16,3 @@ An alarm is something that warns people about something that could harm them.  T
 
 (See also: [jehoshaphat](../other/jehoshaphat.md) **·** [moab](../other/moab.md))
 
-## Bible References: ##
-
-* [Daniel 11:44-45](https://door43.org/en/bible/notes/dan/11/44)
-* [Jeremiah 04:19-20](https://door43.org/en/bible/notes/jer/04/19)
-* [Numbers 10:9](https://door43.org/en/bible/notes/num/10/09)
-

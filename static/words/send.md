@@ -12,13 +12,3 @@ To "send" is to cause someone or something to go somewhere. To "send out" someon
 
 (See also: [appoint](../kt/appoint.md) **·** [redeem](../kt/redeem.md))
 
-## Bible References: ##
-
-* [Acts 07:33-34](https://door43.org/en/bible/notes/act/07/33)
-* [Acts 08:14-17](https://door43.org/en/bible/notes/act/08/14)
-* [John 20:21-23](https://door43.org/en/bible/notes/jhn/20/21)
-* [Matthew 09:37-38](https://door43.org/en/bible/notes/mat/09/37)
-* [Matthew 10:5-7](https://door43.org/en/bible/notes/mat/10/05)
-* [Matthew 10:40-41](https://door43.org/en/bible/notes/mat/10/40)
-* [Matthew 21:1-3](https://door43.org/en/bible/notes/mat/21/01)
-

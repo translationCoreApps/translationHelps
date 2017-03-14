@@ -13,11 +13,3 @@ Boaz was an Israelite man who was the husband of Ruth, the great grandfather of 
 
 (See also: [moab](../other/moab.md) **·** [redeem](../kt/redeem.md) **·** [ruth](../other/ruth.md))
 
-## Bible References: ##
-
-* [1 Chronicles 02:9-12](https://door43.org/en/bible/notes/1ch/02/09)
-* [2 Chronicles 03:15-17](https://door43.org/en/bible/notes/2ch/03/15)
-* [Luke 03:30-32](https://door43.org/en/bible/notes/luk/03/30)
-* [Matthew 01:4-6](https://door43.org/en/bible/notes/mat/01/04)
-* [Ruth 02:3-4](https://door43.org/en/bible/notes/rut/02/03)
-

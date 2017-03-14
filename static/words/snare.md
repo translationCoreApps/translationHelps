@@ -14,10 +14,3 @@ The terms "snare" and "trap" refer to devices that are used to catch animals and
 
 (See also: [free](../kt/free.md), , [prey](../other/prey.md) **·** [satan](../kt/satan.md) **·** [tempt](../kt/tempt.md))
 
-## Bible References: ##
-
-* [Ecclesiastes 07:26](https://door43.org/en/bible/notes/ecc/07/26)
-* [Luke 21:34-35](https://door43.org/en/bible/notes/luk/21/34)
-* [Mark 12:13-15](https://door43.org/en/bible/notes/mrk/12/13)
-* [Psalms 018:4-5](https://door43.org/en/bible/notes/psa/018/004)
-

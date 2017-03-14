@@ -11,10 +11,3 @@ The term "strong drink" refers to drinks that have been fermented and have alcoh
 
 (See also: [grape](../other/grape.md) **·** [nazirite](../other/nazirite.md) **·** [vow](../kt/vow.md) **·** [wine](../other/wine.md))
 
-## Bible References: ##
-
-* [Isaiah 05:11-12](https://door43.org/en/bible/notes/isa/05/11)
-* [Leviticus 10:8-11](https://door43.org/en/bible/notes/lev/10/08)
-* [Luke 01:14-15](https://door43.org/en/bible/notes/luk/01/14)
-* [Numbers 06:1-4](https://door43.org/en/bible/notes/num/06/01)
-

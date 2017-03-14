@@ -12,9 +12,3 @@ The term "Golgotha" is the name of the place where Jesus was crucified. It comes
 
 (See also: [aram](../other/aram.md) **·** [mountofolives](../other/mountofolives.md))
 
-## Bible References: ##
-
-* [John 19:17-18](https://door43.org/en/bible/notes/jhn/19/17)
-* [Mark 15:22-24](https://door43.org/en/bible/notes/mrk/15/22)
-* [Matthew 27:32-34](https://door43.org/en/bible/notes/mat/27/32)
-

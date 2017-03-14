@@ -12,14 +12,3 @@ Fire is the heat, light, and flames that are produced when something is burned.
 
 (See also: [purify](../kt/purify.md))
 
-## Bible References: ##
-
-* [1 Kings 16:18-20](https://door43.org/en/bible/notes/1ki/16/18)
-* [2 Kings 01:9-10](https://door43.org/en/bible/notes/2ki/01/09)
-* [2 Thessalonians 01:6-8](https://door43.org/en/bible/notes/2th/01/06)
-* [Acts 07:29-30](https://door43.org/en/bible/notes/act/07/29)
-* [John 15:5-7](https://door43.org/en/bible/notes/jhn/15/05)
-* [Luke 03:15-16](https://door43.org/en/bible/notes/luk/03/15)
-* [Matthew 03:10-12](https://door43.org/en/bible/notes/mat/03/10)
-* [Nehemiah 01:3](https://door43.org/en/bible/notes/neh/01/03)
-

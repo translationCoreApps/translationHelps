@@ -15,11 +15,3 @@ Daniel was an Israelite prophet who as a young man was taken captive by the Baby
 
 (See also: [babylon](../other/babylon.md) **·** [nebuchadnezzar](../other/nebuchadnezzar.md))
 
-## Bible References: ##
-
-* [Daniel 01:6-7](https://door43.org/en/bible/notes/dan/01/06)
-* [Daniel 05:29-31](https://door43.org/en/bible/notes/dan/05/29)
-* [Daniel 07:27-28](https://door43.org/en/bible/notes/dan/07/27)
-* [Ezekiel 14:12-14](https://door43.org/en/bible/notes/ezk/14/12)
-* [Matthew 24:15-18](https://door43.org/en/bible/notes/mat/24/15)
-

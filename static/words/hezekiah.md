@@ -11,11 +11,3 @@ Hezekiah was the 13th king over the kingdom of Judah. He was a king who trusted 
 
 (See also: [ahaz](../other/ahaz.md) **·** [assyria](../other/assyria.md) **·** [idol](../other/idol.md) **·** [judah](../other/judah.md) **·** [sennacherib](../other/sennacherib.md))
 
-## Bible References: ##
-
-* [1 Chronicles 03:13-14](https://door43.org/en/bible/notes/1ch/03/13)
-* [2 Kings 16:19-20](https://door43.org/en/bible/notes/2ki/16/19)
-* [Hosea 01:1-2](https://door43.org/en/bible/notes/hos/01/01)
-* [Matthew 01:9-11](https://door43.org/en/bible/notes/mat/01/09)
-* [Proverbs 25:1-3](https://door43.org/en/bible/notes/pro/25/01)
-

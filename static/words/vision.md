@@ -14,13 +14,3 @@ The term "vision" refers to something that a person sees. It especially refers t
 
 (See also: [dream](../other/dream.md))
 
-## Bible References: ##
-
-* [Acts 09:10-12](https://door43.org/en/bible/notes/act/09/10)
-* [Acts 10:3-6](https://door43.org/en/bible/notes/act/10/03)
-* [Acts 10:9-12](https://door43.org/en/bible/notes/act/10/09)
-* [Acts 12:9-10](https://door43.org/en/bible/notes/act/12/09)
-* [Luke 01:21-23](https://door43.org/en/bible/notes/luk/01/21)
-* [Luke 24:22-24](https://door43.org/en/bible/notes/luk/24/22)
-* [Matthew 17:9-10](https://door43.org/en/bible/notes/mat/17/09)
-

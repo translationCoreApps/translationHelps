@@ -18,11 +18,3 @@ The term "bloodshed" refers to the death of human beings due to murder, war, or 
 
 (See also: [blood](../kt/blood.md) [slaughter](../other/slaughter.md))
 
-## Bible References: ##
-
-* [1 Chronicles 22:6-8](https://door43.org/en/bible/notes/1ch/22/06)
-* [Genesis 09:5-7](https://door43.org/en/bible/notes/gen/09/05)
-* [Hebrews 09:21-22](https://door43.org/en/bible/notes/heb/09/21)
-* [Isaiah 26:20-21](https://door43.org/en/bible/notes/isa/26/20)
-* [Matthew 23:29-31](https://door43.org/en/bible/notes/mat/23/29)
-

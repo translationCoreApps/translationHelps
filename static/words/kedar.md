@@ -14,7 +14,3 @@ Kedar was the name of Ishmael's second son. It is also the name of an important 
 
 (See also: [Arabia, Arabian](../other/arabia.md) **·** [goat, kid](../other/goat.md) **·** [Ishmael](../other/ishmael.md) **·** [sacrifice, offering](../other/sacrifice.md))
 
-## Bible References: ##
-
-* [Song of Solomon 01:5-6](https://door43.org/en/bible/notes/sng/01/05)
-

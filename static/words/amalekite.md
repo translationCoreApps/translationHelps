@@ -18,10 +18,3 @@ The Amalekites were a nomadic people group who lived throughout the southern par
 * [Prev chunk](../other/altarofincense.md): [publish-current](../other/altarofincense?do=diff&rev2[0]=1412701930&rev2[1]=&difftype=sidebyside.md)
 * [Next chunk](../other/amazed.md): [publish-current](../other/amazed?do=diff&rev2[0]=1423767478&rev2[1]=&difftype=sidebyside.md)
 
-## Bible References: ##
-
-* [1 Chronicles 04:42-43](https://door43.org/en/bible/notes/1ch/04/42)
-* [2 Samuel 01:8-10](https://door43.org/en/bible/notes/2sa/01/08)
-* [Exodus 17:8-10](https://door43.org/en/bible/notes/exo/17/08)
-* [Numbers 14:23-25](https://door43.org/en/bible/notes/num/14/23)
-

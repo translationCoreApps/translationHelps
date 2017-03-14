@@ -12,11 +12,3 @@ The terms "mourn" and "mourning" refer to expressing deep grief, usually in resp
 
 (See also: [sackcloth](../other/sackcloth.md) **·** [sin](../kt/sin.md))
 
-## Bible References: ##
-
-* [1 Samuel 15:34-35](https://door43.org/en/bible/notes/1sa/15/34)
-* [2 Samuel 01:11-13](https://door43.org/en/bible/notes/2sa/01/11)
-* [Genesis 23:1-2](https://door43.org/en/bible/notes/gen/23/01)
-* [Luke 07:31-32](https://door43.org/en/bible/notes/luk/07/31)
-* [Matthew 11:16-17](https://door43.org/en/bible/notes/mat/11/16)
-

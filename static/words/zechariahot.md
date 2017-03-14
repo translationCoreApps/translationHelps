@@ -14,10 +14,3 @@ Zechariah was a prophet who prophesied during the reign of King Darius I of Pers
 
 (See also: [darius](../other/darius.md) **·** [ezra](../other/ezra.md) **·** [jehoshaphat](../other/jehoshaphat.md) **·** [jeroboam](../other/jeroboam.md) **·** [nehemiah](../other/nehemiah.md) **·** [zerubbabel](../other/zerubbabel.md))
 
-## Bible References: ##
-
-* [2 Chronicles 24:20-22](https://door43.org/en/bible/notes/2ch/24/20)
-* [Ezra 05:1-2](https://door43.org/en/bible/notes/ezr/05/01)
-* [Matthew 23:34-36](https://door43.org/en/bible/notes/mat/23/34)
-* [Zechariah 01:1-3](https://door43.org/en/bible/notes/zec/01/01)
-

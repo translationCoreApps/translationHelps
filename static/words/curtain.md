@@ -15,14 +15,3 @@ In the Bible, the term "curtain" refers to a very thick, heavy piece of material
 
 (See also: [holyplace](../kt/holyplace.md) **·** [tabernacle](../kt/tabernacle.md) **·** [temple](../kt/temple.md))
 
-## Bible References: ## 
-
-* [Hebrews 10:19-22](https://door43.org/en/bible/notes/heb/10/19)
-* [Leviticus 04:16-17](https://door43.org/en/bible/notes/lev/04/16)
-* [Luke 23:44-45](https://door43.org/en/bible/notes/luk/23/44)
-* [Matthew 27:51-53](https://door43.org/en/bible/notes/mat/27/51)
-* [Numbers 04:5-6](https://door43.org/en/bible/notes/num/04/05)
-
- 
- 
-

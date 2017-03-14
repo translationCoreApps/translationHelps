@@ -13,10 +13,3 @@ A proverb is a short statement that expresses some wisdom or truth.
 
 (See also: [solomon](../other/solomon.md) **·** [true](../kt/true.md) **·** [wise](../kt/wise.md))
 
-## Bible References: ##
-
-* [1 Kings 04:32-34](https://door43.org/en/bible/notes/1ki/04/32)
-* [1 Samuel 24:12-13](https://door43.org/en/bible/notes/1sa/24/12)
-* [2 Peter 02:20-22](https://door43.org/en/bible/notes/2pe/02/20)
-* [Luke 04:23-24](https://door43.org/en/bible/notes/luk/04/23)
-* [Proverbs 01:1-3](https://door43.org/en/bible/notes/pro/01/01)

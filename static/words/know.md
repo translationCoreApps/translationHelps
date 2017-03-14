@@ -23,13 +23,3 @@ To "know" means to understand something or to be aware of a fact. The expression
 
 (See also: [lawofmoses](../kt/lawofmoses.md) **·** [reveal](../kt/reveal.md) **·** [understand](../other/understand.md) **·** [wise](../kt/wise.md))
 
-## Bible References: ##
-
-* [1 Corinthians 02:12-13](https://door43.org/en/bible/notes/1co/02/12)
-* [1 Samuel 17:46-47](https://door43.org/en/bible/notes/1sa/17/46)
-* [2 Corinthians 02:14-15](https://door43.org/en/bible/notes/2co/02/14)
-* [2 Peter 01:3-4](https://door43.org/en/bible/notes/2pe/01/03)
-* [Deuteronomy 04:39-40](https://door43.org/en/bible/notes/deu/04/39)
-* [Genesis 19:4-5](https://door43.org/en/bible/notes/gen/19/04)
-* [Luke 01:76-77](https://door43.org/en/bible/notes/luk/01/76)
-

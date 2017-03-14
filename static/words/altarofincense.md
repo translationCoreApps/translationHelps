@@ -13,7 +13,3 @@ The altar of incense was a piece of furniture on which a priest would burn incen
 
 (See also: [incense](../other/incense.md))
 
-## Bible References: ##
-
-* [Luke 01:11-13](https://door43.org/en/bible/notes/luk/01/11)
-

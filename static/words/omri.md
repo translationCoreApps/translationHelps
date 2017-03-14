@@ -12,7 +12,3 @@ Omri was an army commander who became the sixth king of Israel.
 
 (See also: [ahab](../other/ahab.md) **·** [israel](../other/israel.md) **·** [jeroboam](../other/jeroboam.md) **·** [tirzah](../other/tirzah.md))
 
-## Bible References: ##
-
-* [2 Chronicles 22:1-3](https://door43.org/en/bible/notes/2ch/22/01)
-

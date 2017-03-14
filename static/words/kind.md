@@ -13,10 +13,3 @@ The terms "kind" and "kinds" refer to groups or classifications of things that a
 * Ways to translate this term could include, "type" or "class" or "group" or "animal (plant) group" or "category."
 * The word "species" would_not_ be an accurate translation of this term, since "kind" is a more general category, with several species within it.
 
-## Bible References: ##
-
-* [Genesis 01:20-21](https://door43.org/en/bible/notes/gen/01/20)
-* [Genesis 01:24-25](https://door43.org/en/bible/notes/gen/01/24)
-* [Mark 09:28-29](https://door43.org/en/bible/notes/mrk/09/28)
-* [Matthew 13:47-48](https://door43.org/en/bible/notes/mat/13/47)
-

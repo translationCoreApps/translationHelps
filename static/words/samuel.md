@@ -14,12 +14,3 @@ Samuel was a prophet and the last judge of Israel. He anointed both Saul and Dav
 
 (See also: [hannah](../other/hannah.md) **·** [judge](../kt/judge.md) **·** [prophet](../kt/prophet.md) **·** [yahweh](../kt/yahweh.md))
 
-## Bible References: ##
-
-* [1 Samuel 01:19-20](https://door43.org/en/bible/notes/1sa/01/19)
-* [1 Samuel 09:23-24](https://door43.org/en/bible/notes/1sa/09/23)
-* [1 Samuel 12:16-18](https://door43.org/en/bible/notes/1sa/12/16)
-* [Acts 03:24-26](https://door43.org/en/bible/notes/act/03/24)
-* [Acts 13:19-20](https://door43.org/en/bible/notes/act/13/19)
-* [Hebrews 11:32-34](https://door43.org/en/bible/notes/heb/11/32)
-

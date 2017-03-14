@@ -13,11 +13,3 @@ Azariah was the name of several men in the Old Testament.
 
 (See also: [babylon](../other/babylon.md) **·** [daniel](../other/daniel.md) **·** [hananiah](../other/hananiah.md) **·** [mishael](../other/mishael.md) **·** [jeremiah](../other/jeremiah.md) **·** [uzziah](../other/uzziah.md))
 
-## Bible References: ##
-
-* [1 Chronicles 02:36-38](https://door43.org/en/bible/notes/1ch/02/36)
-* [1 Kings 04:1-4](https://door43.org/en/bible/notes/1ki/04/01)
-* [2 Chronicles 15:1-2](https://door43.org/en/bible/notes/2ch/15/01)
-* [Daniel 01:6-7](https://door43.org/en/bible/notes/dan/01/06)
-* [Jeremiah 43:1-3](https://door43.org/en/bible/notes/jer/43/01)
-

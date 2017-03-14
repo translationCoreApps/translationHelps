@@ -11,11 +11,3 @@ The term "torment" refers to terrible suffering. To torment someone means to cau
 
 (See also: [beast](../other/beast.md) **·** [eternity](../kt/eternity.md) **·** [job](../other/job.md) **·** [savior](../kt/savior.md) **·** [spirit](../kt/spirit.md) **·** [suffer](../kt/suffer.md) **·** [worship](../kt/worship.md))
 
-## Bible References: ##
-
-* [2 Peter 02:7-9](https://door43.org/en/bible/notes/2pe/02/07)
-* [Jeremiah 30:20-22](https://door43.org/en/bible/notes/jer/30/20)
-* [Lamentations 01:11-12](https://door43.org/en/bible/notes/lam/01/11)
-* [Luke 08:28-29](https://door43.org/en/bible/notes/luk/08/28)
-* [Revelation 11:10-12](https://door43.org/en/bible/notes/rev/11/10)
-

@@ -11,10 +11,3 @@
 
 (See also: [abimelech](../other/abimelech.md) **·** [beersheba](../other/beersheba.md) **·** [hebron](../other/hebron.md) **·** [philistines](../other/philistines.md))
 
-## Bible References: ##
-
-* [2 Chronicles 14:12-13](https://door43.org/en/bible/notes/2ch/14/12)
-* [Genesis 20:1-3](https://door43.org/en/bible/notes/gen/20/01)
-* [Genesis 26:1](https://door43.org/en/bible/notes/gen/26/01)
-* [Genesis 26:6-8](https://door43.org/en/bible/notes/gen/26/06)
-

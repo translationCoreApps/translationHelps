@@ -13,10 +13,3 @@ A "delight" is something that pleases someone greatly or causes much joy.
 * The term "delights" refers to things that a person enjoys. This could be translated as "pleasures" or "things that give joy."
 * An expression such as, "I delight to do your will" could also be translated as, "I enjoy doing your will" or "I am very happy when I obey you."
 
-## Bible References: ##
-
-* [Proverbs 08:30-31](https://door43.org/en/bible/notes/pro/08/30)
-* [Psalm 001:1-2](https://door43.org/en/bible/notes/psa/001/001)
-* [Psalms 119:69-70](https://door43.org/en/bible/notes/psa/119/069)
-* [Song of Solomon 01:1-4](https://door43.org/en/bible/notes/sng/01/01)
-

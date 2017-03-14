@@ -10,8 +10,3 @@ En Gedi is the name of a city in the wilderness of Judah southeast of Jerusalem.
 
 (See also: [david](../other/david.md) **·** [desert](../other/desert.md) **·** [fountain](../other/fountain.md) **·** [judah](../other/judah.md) **·** [rest](../kt/rest.md) **·** [saltsea](../other/saltsea.md) **·** [saul](../other/saul.md) **·** [stronghold](../other/stronghold.md) **·** [vineyard](../other/vineyard.md))
 
-## Bible References: ##
-
-* [2 Chronicles 20:1-2](https://door43.org/en/bible/notes/2ch/20/01)
-* [Song of Solomon 01:12-14](https://door43.org/en/bible/notes/sng/01/12)
-

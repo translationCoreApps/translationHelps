@@ -11,19 +11,3 @@ Assyria was a powerful nation during the time the Israelites were living in the 
 
 (See also: [samaria](../other/samaria.md))
 
-## Bible References: ##
-
-* [Genesis 10:11-14](https://door43.org/en/bible/notes/gen/10/11)
-* [Genesis 25:17-18](https://door43.org/en/bible/notes/gen/25/17)
-* [Isaiah 07:16-17](https://door43.org/en/bible/notes/isa/07/16)
-* [Jeremiah 50:17-18](https://door43.org/en/bible/notes/jer/50/17)
-* [Micah 07:11-13](https://door43.org/en/bible/notes/mic/07/11)
-
-## Examples from the Bible stories: ##
-
-  __*[20-02](https://door43.org/en/obs/notes/frames/20-02)__ So God punished both kingdoms by allowing their enemies to destroy them. The kingdom of Israel was destroyed by the __Assyrian Empire__, a powerful, cruel nation. The __Assyrians__ killed many people in the kingdom of Israel, took away everything of value, and burned much of the country.
-  __*[20-03](https://door43.org/en/obs/notes/frames/20-03)__ The __Assyrians__ gathered all the leaders, the rich people, and the people with skills and took them to __Assyria__.
-  __*[20-04](https://door43.org/en/obs/notes/frames/20-04)__ Then the __Assyrians__ brought foreigners to live in the land where the kingdom of Israel had been. 
-
-
-

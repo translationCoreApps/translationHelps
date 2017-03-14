@@ -12,11 +12,3 @@ Lebanon is a beautiful mountainous region located along the coast of the Mediter
 
 (See also: [cedar](../other/cedar.md) **·** [cypress](../other/cypress.md) **·** [fir](../other/fir.md) **·** [phonecia](../other/phonecia.md))
 
-## Bible References: ##
-
-* [1 Kings 04:32-34](https://door43.org/en/bible/notes/1ki/04/32)
-* [2 Chronicles 02:8-10](https://door43.org/en/bible/notes/2ch/02/08)
-* [Deuteronomy 01:7-8](https://door43.org/en/bible/notes/deu/01/07)
-* [Psalms 029:3-5](https://door43.org/en/bible/notes/psa/029/003)
-* [Zechariah 10:8-10](https://door43.org/en/bible/notes/zec/10/08)
-
