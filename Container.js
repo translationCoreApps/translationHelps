@@ -71,7 +71,7 @@ class Container extends React.Component {
   }
 
   render() {
-    let { currentFile} = this.props;
+    let { currentFile } = this.props;
     currentFile = this.convertToMarkdown(currentFile)
     let modalView = this.convertToMarkdown(this.state.modalView)
     return (
