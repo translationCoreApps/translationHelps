@@ -21,7 +21,7 @@ class TranslationHelpsDisplay extends React.Component {
                                  onHide={this.props.hideModal}>
                         <Markdown options={{html: true}} source={modalFile}/>
                     </THelpsModal>
-                    <div>
+                    <div className="remarkableStyling">
                         <Markdown options={{html: true}} source={currentFile} />
                     </div>
                 </div>
