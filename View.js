@@ -13,6 +13,18 @@ class TranslationHelpsDisplay extends React.Component {
         if (currentFile) {
             return (
                 <div style={style.translationHelpsContent}>
+                  <style dangerouslySetInnerHTML={{
+                    __html: [
+                      '.remarkableStyling h1{',
+                        'font-size: 19px;',
+                        'font-weight: bold;',
+                      '}',
+                      '.remarkableStyling h2{',
+                        'font-size: 14px;',
+                        'font-weight: normal;',
+                      '}'
+                    ].join('\n')
+                  }}>
                     <div onClick={this.props.showModal}>
                       <Glyphicon glyph={"new-window"}
                                  style={style.tHGlyphicon}/>

@@ -21,9 +21,9 @@ class Container extends React.Component {
     let replaced = src.replace(/(=+)([^=]+)\1/g, function(match, equals, header) {
         switch(equals.length) {
             case 6:
-                return "##" + header;
+                return "#####" + header;
             case 5:
-                return "####" + header;
+                return "#####" + header;
             default:
                 return "#####" + header;
         }
