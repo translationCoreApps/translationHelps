@@ -25,6 +25,7 @@ class TranslationHelpsDisplay extends React.Component {
                       '}'
                     ].join('\n')
                   }}>
+                  </style>
                     <div onClick={this.props.showModal}>
                       <Glyphicon glyph={"new-window"}
                                  style={style.tHGlyphicon}/>
