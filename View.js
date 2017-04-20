@@ -22,6 +22,17 @@ class TranslationHelpsDisplay extends React.Component {
                       '.remarkableStyling h2{',
                         'font-size: 14px;',
                         'font-weight: normal;',
+                      '}',
+                      '.remarkableStyling h3{',
+                        'font-size: 16px;',
+                        'font-weight: bold;',
+                      '}',
+                      '.remarkableStyling h4{',
+                        'font-size: 16px;',
+                        'font-weight: bold;',
+                      '}',
+                      '.remarkableStyling blockquote{',
+                        'font-size: small;',
                       '}'
                     ].join('\n')
                   }}>
