@@ -38,7 +38,7 @@ class TranslationHelpsDisplay extends React.Component {
                   }}>
                   </style>
                     <div onClick={this.props.showModal}>
-                      <Glyphicon glyph={"new-window"}
+                      <Glyphicon glyph={"fullscreen"}
                                  style={style.tHGlyphicon}/>
                     </div>
                     <THelpsModal show={this.props.modalVisibility}
