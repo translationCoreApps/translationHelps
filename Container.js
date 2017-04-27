@@ -30,7 +30,8 @@ class Container extends React.Component {
     });
     let followLink = this.followLink;
     window.followLink = followLink;
-    return replaced.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" onclick="return followLink(\'$2\')">$1</a>');
+    let linkedReplaced = replaced.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" onclick="return followLink(\'$2\')">$1</a>');
+    return linkedReplaced.replace(/\/\//g, "_");
 
   }
 
