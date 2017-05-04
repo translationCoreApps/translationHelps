@@ -1,28 +1,28 @@
 var style = {
   translationHelpsContent: {
-    overflowY: "scroll",
+    overflowY: "auto",
     minWidth: "100%",
-    padding: '9px',
-    minHeight: "100%",
-    maxHeight: "100%",
-    backgroundColor: "#e7e7e7",
-    paddingBottom: "100px"
+    padding: '30px 15px 50px',
+    height: "calc(100% - 30px)",
+    backgroundColor: "var(--background-color-light)"
   },
   tHGlyphicon: {
     float: "right",
-    color: "#333333",
+    color: "var(--text-color)",
     fontSize: "20px",
     cursor: "pointer"
   },
   modalTitle:{
     textAlign: "center",
-    color: "#000000"
+    color: "var(--text-color-dark)"
   },
   tHModalContent:{
     fontSize: "18px",
-    backgroundColor: "#e7e7e7",
-    color: "#000000",
-    padding: "45px 80px"
+    backgroundColor: "var(--background-color-light)",
+    color: "var(--text-color-dark)",
+    padding: "45px 80px",
+    height: "500px",
+    overflowY: "auto"
   },
 };
 
