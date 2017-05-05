@@ -15,7 +15,7 @@ class THelpsModal extends React.Component {
 
     return (
       <Modal {...this.props} bsSize="lg" aria-labelledby="contained-modal-title-sm">
-        <Modal.Header style={{backgroundColor: "var(--background-color-light)"}} closeButton>
+        <Modal.Header style={{backgroundColor: "var(--background-color-light)", borderColor: "var(--text-color)"}} closeButton>
           <Modal.Title id="contained-modal-title-sm"
                       style={style.modalTitle}>
               translationHelps
@@ -24,8 +24,8 @@ class THelpsModal extends React.Component {
           <Modal.Body style={style.tHModalContent}>
             {children}
           </Modal.Body>
-        <Modal.Footer style={{backgroundColor: "var(--background-color-light)"}}>
-          <Button bsStyle="second" onClick={() => onHide()}>Close</Button>
+        <Modal.Footer style={{backgroundColor: "var(--background-color-light)", borderColor: "var(--text-color)"}}>
+          <Button bsStyle="prime" onClick={() => onHide()}>Close</Button>
         </Modal.Footer>
       </Modal>
     );
