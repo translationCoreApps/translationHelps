@@ -1,7 +1,7 @@
 {
   "name": "TranslationHelps",
   "version": "1.0.0",
-  "description": "A sub-module for translation helps resources such as translationAcademy and translationWords",
+  "description": "A submodule for translation helps resources such as translationAcademy and translationWords",
   "main": "Container.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
