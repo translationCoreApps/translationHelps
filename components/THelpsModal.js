@@ -6,7 +6,7 @@
 const api = window.ModuleApi;
 const React = api.React;
 const RB = api.ReactBootstrap;
-const {Modal, Button, FormControl} = RB;
+const {Modal, Glyphicon} = RB;
 const style = require('../css/style');
 
 class THelpsModal extends React.Component {
@@ -15,17 +15,22 @@ class THelpsModal extends React.Component {
 
     return (
       <Modal {...this.props} bsSize="lg" aria-labelledby="contained-modal-title-sm">
-        <Modal.Header style={{backgroundColor: "var(--background-color-light)", borderColor: "var(--text-color)"}} closeButton>
+        <Modal.Header style={{backgroundColor: "var(--background-color-light)", borderColor: "var(--text-color)"}}>
           <Modal.Title id="contained-modal-title-sm"
                       style={style.modalTitle}>
               translationHelps
+              <Glyphicon
+                  onClick={onHide}
+                  glyph={"remove"}
+                  style={{color: "var(--text-color)", cursor: "pointer", fontSize: "18px", float: "right"}}
+              />
           </Modal.Title>
         </Modal.Header>
           <Modal.Body style={style.tHModalContent}>
             {children}
           </Modal.Body>
-        <Modal.Footer style={{backgroundColor: "var(--background-color-light)", borderColor: "var(--text-color)"}}>
-          <Button bsStyle="prime" onClick={() => onHide()}>Close</Button>
+        <Modal.Footer style={{padding: '0', backgroundColor: "var(--background-color-light)", borderColor: "var(--text-color)"}}>
+          <button className="btn-prime" onClick={() => onHide()}>Close</button>
         </Modal.Footer>
       </Modal>
     );
