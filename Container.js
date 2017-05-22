@@ -3,8 +3,10 @@ const React = api.React;
 const ReactBootstrap = api.ReactBootstrap;
 const View = require('./View');
 const fs = require(window.__base + 'node_modules/fs-extra');
+const {BrowserWindow} = require('electron');
 
 const NAMESPACE = 'TranslationHelps';
+let tHelpsWindow;
 
 class Container extends React.Component {
   constructor(){
@@ -15,6 +17,11 @@ class Container extends React.Component {
     this.wordList = api.getDataFromCheckStore(NAMESPACE, 'wordList');
     this.sectionList = api.getDataFromCheckStore(NAMESPACE, 'sectionList') || {};
     this.followLink = this.followLink.bind(this);
+
+    tHelpsWindow = new BrowserWindow({
+      show: false,
+      title: 'translationHelps'
+    })
   }
   convertToMarkdown(src) {
     if (!src) return src;
