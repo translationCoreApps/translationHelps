@@ -38,9 +38,7 @@ class Container extends React.Component {
   }
 
   followLink(word) {
-    console.log(word)
     if(urlRegex.test(word)){
-      console.log("its a url")
       ipcRenderer.send('open-helper', word);
       return true;
     } else {
