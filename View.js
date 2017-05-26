@@ -16,7 +16,7 @@ class TranslationHelpsDisplay extends React.Component {
         page.scrollTop = 0;
       }
       return (
-        <div id="helpsbody" style={style.translationHelpsContent}>
+        <div style={{flex: 'auto', display: 'flex'}}>
           <style dangerouslySetInnerHTML={{
             __html: [
               '.remarkableStyling h1{',
@@ -45,17 +45,21 @@ class TranslationHelpsDisplay extends React.Component {
             ].join('\n')
           }}>
           </style>
-          <div onClick={this.props.showModal}>
-            <Glyphicon glyph={"fullscreen"} title="Click to show expanded helps"
-              style={style.tHGlyphicon} />
+          <div style={style.helpsContent}>
+            <div style={style.helpsHeader}>
+              <Glyphicon glyph={"fullscreen"}
+                         title="Click to show expanded helps"
+                         onClick={this.props.showModal}
+                         style={style.helpsIcon} />
+            </div>
+            <div id="helpsbody" className="remarkableStyling" style={style.helpsBody}>
+              <Markdown options={{ html: true }} source={currentFile} />
+            </div>
           </div>
           <THelpsModal show={this.props.modalVisibility}
             onHide={this.props.hideModal}>
             <Markdown options={{ html: true }} source={modalFile} />
           </THelpsModal>
-          <div className="remarkableStyling">
-            <Markdown options={{ html: true }} source={currentFile} />
-          </div>
         </div>
       );
     }
