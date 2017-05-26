@@ -1,13 +1,24 @@
 var style = {
-  translationHelpsContent: {
-    overflowY: "auto",
-    minWidth: "100%",
-    padding: '30px 15px 50px',
-    height: "calc(100% - 30px)",
+  helpsContent: {
+    display: 'flex',
+    flexDirection: 'column',
+    flex: 'auto',
     backgroundColor: "var(--background-color-light)"
   },
-  tHGlyphicon: {
-    float: "right",
+  helpsHeader: {
+    flex: '0 0 50px',
+    display: 'flex',
+    justifyContent: 'flex-end',
+    alignItems: 'center',
+    padding: '0 15px',
+    borderBottom: '1px solid var(--border-color)',
+  },
+  helpsBody: {
+    flex: 'auto',
+    overflowY: "auto",
+    padding: '0 15px 30px',
+  },
+  helpsIcon: {
     color: "var(--text-color)",
     fontSize: "20px",
     cursor: "pointer"
