@@ -11,8 +11,12 @@ class TranslationHelpsDisplay extends React.Component {
   render() {
     let { currentFile, modalFile } = this.props;
     if (currentFile) {
+      var page = document.getElementById("helpsbody");
+      if (page) {
+        page.scrollTop = 0;
+      }
       return (
-        <div style={style.translationHelpsContent}>
+        <div id="helpsbody" style={style.translationHelpsContent}>
           <style dangerouslySetInnerHTML={{
             __html: [
               '.remarkableStyling h1{',
