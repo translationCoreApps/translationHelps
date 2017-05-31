@@ -12,6 +12,10 @@ const style = require('../css/style');
 class THelpsModal extends React.Component {
   render() {
     let { onHide, children } = this.props;
+    var page = document.getElementById("modalbody");
+    if (page) {
+        page.scrollTop = 0;
+    }
 
     return (
       <Modal {...this.props} bsSize="lg" aria-labelledby="contained-modal-title-sm">
@@ -26,7 +30,7 @@ class THelpsModal extends React.Component {
               />
           </Modal.Title>
         </Modal.Header>
-          <Modal.Body style={style.tHModalContent}>
+          <Modal.Body id="modalbody" style={style.tHModalContent}>
             {children}
           </Modal.Body>
         <Modal.Footer style={{padding: '0', backgroundColor: "var(--background-color-light)", borderColor: "var(--text-color)"}}>
