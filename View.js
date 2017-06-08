@@ -1,11 +1,8 @@
-
-const api = window.ModuleApi;
-const React = api.React;
-const RB = api.ReactBootstrap;
-const { Glyphicon } = RB;
-const Markdown = require('react-remarkable');
-const THelpsModal = require('./components/THelpsModal');
-const style = require('./css/style');
+import React from 'react';
+import { Glyphicon } from 'react-bootstrap';
+import Markdown from 'react-remarkable';
+import THelpsModal from './components/THelpsModal';
+import style from './css/style';
 
 class TranslationHelpsDisplay extends React.Component {
   render() {
@@ -69,4 +66,4 @@ class TranslationHelpsDisplay extends React.Component {
   }
 }
 
-module.exports = TranslationHelpsDisplay;
+export default TranslationHelpsDisplay;
