@@ -3,18 +3,16 @@
   * @description This component displays a modal when the user clicks the
   * new-window glyphicon button on translationHelps component.
 ******************************************************************************/
-const api = window.ModuleApi;
-const React = api.React;
-const RB = api.ReactBootstrap;
-const {Modal, Glyphicon} = RB;
-const style = require('../css/style');
+import React from 'react';
+import {Modal, Glyphicon} from 'react-bootstrap';
+import style from '../css/style';
 
 class THelpsModal extends React.Component {
   render() {
     let { onHide, children } = this.props;
     var page = document.getElementById("modalbody");
     if (page) {
-        page.scrollTop = 0;
+      page.scrollTop = 0;
     }
 
     return (
@@ -41,4 +39,4 @@ class THelpsModal extends React.Component {
   }
 }
 
-module.exports = THelpsModal;
+export default THelpsModal;

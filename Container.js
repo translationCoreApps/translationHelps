@@ -1,11 +1,9 @@
-const api = window.ModuleApi;
-const React = api.React;
-const ReactBootstrap = api.ReactBootstrap;
-const View = require('./View');
-const fs = require(window.__base + 'node_modules/fs-extra');
-const ipcRenderer = require('electron').ipcRenderer;
+import React from 'react';
+import View from './View';
+import fs from 'fs-extra';
+import {ipcRenderer} from 'electron';
+// constant declaration
 const urlRegex = new RegExp("(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9]\.[^\s]{2,})");
-
 const NAMESPACE = 'TranslationHelps';
 
 class Container extends React.Component {
