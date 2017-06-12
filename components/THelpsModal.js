@@ -1,5 +1,4 @@
 /**
-  * @author      Manny Colon
   * @description This component displays a modal when the user clicks the
   * new-window glyphicon button on translationHelps component.
 ******************************************************************************/
