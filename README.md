@@ -1,2 +1,2 @@
 # translationHelps
-A sub-module for translation helps resources such as translationAcademy and translationWords
+A submodule for translation helps resources such as translationAcademy and translationWords
