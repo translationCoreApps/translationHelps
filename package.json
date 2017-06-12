@@ -1,5 +1,5 @@
 {
-  "name": "TranslationHelps",
+  "name": "translationHelps",
   "version": "1.0.0",
   "description": "A submodule for translation helps resources such as translationAcademy and translationWords",
   "main": "Container.js",
