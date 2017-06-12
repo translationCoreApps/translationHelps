@@ -1,7 +1,7 @@
 /**
-  * @description This component displays a modal when the user clicks the
-  * new-window glyphicon button on translationHelps component.
-******************************************************************************/
+* @description This component displays a modal when the user clicks the
+* new-window glyphicon button on translationHelps component.
+*/
 import React from 'react';
 import {Modal, Glyphicon} from 'react-bootstrap';
 import style from '../css/style';
