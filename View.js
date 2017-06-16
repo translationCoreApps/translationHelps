@@ -5,13 +5,17 @@ import THelpsModal from './components/THelpsModal';
 import style from './css/style';
 
 class TranslationHelpsDisplay extends React.Component {
+
+  componentWillReceiveProps(nextProps) {
+    if (this.props.currentFile !== nextProps.currentFile) {
+      var page = document.getElementById("helpsbody");
+      if (page) page.scrollTop = 0;
+    }
+  }
+
   render() {
     let { currentFile, modalFile } = this.props;
     if (currentFile) {
-      var page = document.getElementById("helpsbody");
-      if (page) {
-        page.scrollTop = 0;
-      }
       return (
         <div style={{flex: 'auto', display: 'flex'}}>
           <style dangerouslySetInnerHTML={{
