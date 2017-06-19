@@ -53,55 +53,40 @@ class Container extends React.Component {
   }
 
   followLink(link, type) {
-    let { dataList } = this.props;
-    var found = null;
-
-    if (type === "note") {
-      found = dataList[link + ".md"];
-      if (!found) {
-        found = dataList["translate_" + link + ".md"];
-      }
-      if (found && found.file) {
-        this.setState({
-          modalVisibility: true,
-          modalView: found.file
-        });
-        return true;
-      }
-      this.setState({
-        modalVisibility: true,
-        modalView: "Cannot find specified file."
-      });
-      return true;
-    }
-
-    if (type === "word") {
-      found = dataList.filter((wordObject) => {
-        return wordObject.name === link + '.txt';
-      });
-      if (found && found[0] && found[0].file) {
-        this.setState({
-          modalVisibility: true,
-          modalView: found[0].file
-        });
-        return true;
-      }
-      this.setState({
-        modalVisibility: true,
-        modalView: "Cannot find specified file."
-      });
-      return true;
-    }
-
-    if (type === "url") {
+    if (type === 'url') {
       if (!this.props.online) {
-        this.setState({modalVisibility: true, modalView: "You are attempting to load an external resource in offline mode, please enable online mode to view this resource"});
-        return true;
+        let message = 'You are attempting to load an external resource in offline mode, please enable online mode to view this resource';
+        this.setState({modalVisibility: true, modalView: message});
+      } else ipcRenderer.send('open-helper', link);
+    } else {
+      let resourceType;
+      switch (type) {
+        case 'note':
+          resourceType = 'translationAcademy';
+          break;
+        case 'word':
+          resourceType = 'translationWords';
+          break;
+        default:
+          break;
       }
-      ipcRenderer.send('open-helper', link);
-      return true;
-    }
 
+      let articleId = link;
+      this.props.actions.loadResourceArticle('translationAcademy', articleId);
+      let articleData = this.props.resourcesReducer.translationHelps[resourceType][articleId];
+
+      if (articleData) {
+        this.setState({
+          modalVisibility: true,
+          modalView: articleData
+        });
+      } else {
+        this.setState({
+          modalVisibility: true,
+          modalView: 'Cannot find specified file.'
+        });
+      }
+    }
   }
 
   render() {
