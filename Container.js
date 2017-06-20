@@ -72,7 +72,7 @@ class Container extends React.Component {
       }
 
       let articleId = link;
-      this.props.actions.loadResourceArticle('translationAcademy', articleId);
+      this.props.actions.loadResourceArticle(resourceType, articleId);
       let articleData = this.props.resourcesReducer.translationHelps[resourceType][articleId];
 
       if (articleData) {
