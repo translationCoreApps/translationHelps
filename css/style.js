@@ -2,7 +2,6 @@ var style = {
   helpsContent: {
     display: 'flex',
     flexDirection: 'column',
-    flex: 'auto',
     backgroundColor: "var(--background-color-light)"
   },
   helpsHeader: {
@@ -14,7 +13,6 @@ var style = {
     borderBottom: '1px solid var(--border-color)',
   },
   helpsBody: {
-    flex: 'auto',
     overflowY: "auto",
     padding: '0 15px 30px',
   },
