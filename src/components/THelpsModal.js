@@ -4,6 +4,7 @@
 */
 import React from 'react';
 import {Modal, Glyphicon} from 'react-bootstrap';
+import PropTypes from 'prop-types';
 import style from '../css/style';
 
 class THelpsModal extends React.Component {
@@ -37,5 +38,10 @@ class THelpsModal extends React.Component {
     );
   }
 }
+
+THelpsModal.propTypes = {
+  onHide: PropTypes.func.isRequired,
+  children: PropTypes.any.isRequired
+};
 
 export default THelpsModal;

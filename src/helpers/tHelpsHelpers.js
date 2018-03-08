@@ -1,5 +1,3 @@
-const urlRegex = new RegExp();
-
 /**
  * 
  * @param {String} src
