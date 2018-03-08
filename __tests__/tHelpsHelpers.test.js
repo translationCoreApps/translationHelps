@@ -5,12 +5,10 @@ import { extractZipFile } from "../src/helpers/zipHelpers";
 
 describe('Test tHelpsHelpers.convertMarkdownLinks() with large files', () => {
   const tempFilePath = path.join('.', '__tests__', 'output', 'trans_help');
-  const resourcePath = path.join('.', '__tests__', 'fixtures', 'resources');
 
   beforeEach(() => {
-    const zipFileName = 'all_ta_tw_links.zip';
-    const zipfilepath = path.join(tempFilePath, zipFileName);
-    fs.copySync(path.join(resourcePath, zipFileName), zipfilepath); // copy zip to new location since it will be deleted
+    const resourcePath = path.join('.', '__tests__', 'fixtures', 'resources');
+    const zipfilepath = path.join(resourcePath, 'all_ta_tw_links.zip');
     extractZipFile(zipfilepath, tempFilePath);
   });
 
