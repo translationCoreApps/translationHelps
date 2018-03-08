@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import View from './View';
 import fs from 'fs-extra';
 import {ipcRenderer} from 'electron';
@@ -13,6 +14,7 @@ class Container extends React.Component {
     };
     this.followLink = this.followLink.bind(this);
   }
+
   convertToMarkdown(src) {
     if (!src) return src;
 
@@ -38,20 +40,23 @@ class Container extends React.Component {
         }
     });
 
+    const languageId = this.props.projectDetailsReducer.currentProjectToolsSelectedGL[this.props.toolsReducer.currentToolName];
+
     src = src.replace(/(\/\/)(?!git|cdn|ufw)/g, "_");
-    src = src.replace(/\[([^\]]+)\]\((en\/tn\/obs[^)]+)\)/g, 'Open Bible Stories $1');
-    src = src.replace(/\[([^\]]+)\]\((en\/tn\/[^)]+)\)/g, '$1');
-    src = src.replace(/\[\[en:bible[^|]+\|([^\]]+)\]\]/g, '$1');
-    src = src.replace(/\[\[(en:ta:[^\|\]:]+:[^\|\]:]+:)([^\|\]:]+)\|([^\]]+)\]\]/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\')">$3</a>');
-    src = src.replace(/\[\[(en:ta:[^\|\]:]+:[^\|\]:]+:)([^\|\]:]+)\]\]/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\')">$2</a>');
-    src = src.replace(/\[([^\]]+)\]\(\.\.\/(other|kt)\/([^\.)]+)\.md\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$3\', \'word\')">$1</a>');
-    src = src.replace(/\[([^\]]+)\]\(([^)\.]+)\.md\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\')">$1</a>');
-    src = src.replace(/\[([^\]]+)\]\([^\])]+master\/content\/([^)\.]+)\.md\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\')">$1</a>');
+    src = src.replace(/\[([^\]]+)\]\(([^/]+\/tn\/obs[^)]+)\)/g, 'Open Bible Stories $1');
+    src = src.replace(/\[([^\]]+)\]\(([^/]+\/tn\/[^)]+)\)/g, '$1');
+    src = src.replace(/\[\[[^:]+:bible[^|]+\|([^\]]+)\]\]/g, '$1');
+    src = src.replace(/\[([^\]]+)\]\(rc:_([^/]+)\/ta\/[^/]+\/([^/]+)\/([^)]+)\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$4\', \'note\', \'$2\')">$1</a>');
+    src = src.replace(/\[([^\]]+)\]\(\.\.\/(other|kt|names)\/([^.)]+)\.md\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$3\', \'word\', \''+languageId+'\')">$1</a>');
+    src = src.replace(/\[([^\]]+)\]\(\.\.\/([^/)]+)(\/01.md){0,1}\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\', \''+languageId+'\')">$1</a>');
+    src = src.replace(/\[([^\]]+)\]\(([^/)]+)(\/01.md){0,1}\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\', \''+languageId+'\')">$1</a>');
+    src = src.replace(/\[([^\]]+)\]\(([^).]+)\.md\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\', \''+languageId+'\')">$1</a>');
+    src = src.replace(/\[([^\]]+)\]\([^\])]+master\/content\/([^).]+)\.md\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\', \''+languageId+'\')">$1</a>');
 
     return src;
   }
 
-  followLink(link, type) {
+  followLink(link, type, languageId) {
     if (type === 'url') {
       if (!this.props.online) {
         let message = 'You are attempting to load an external resource in offline mode, please enable online mode to view this resource';
@@ -71,7 +76,7 @@ class Container extends React.Component {
       }
 
       let articleId = link;
-      this.props.actions.loadResourceArticle(resourceType, articleId);
+      this.props.actions.loadResourceArticle(resourceType, articleId, languageId);
       let articleData = this.props.resourcesReducer.translationHelps[resourceType][articleId];
 
       if (articleData) {
@@ -103,5 +108,23 @@ class Container extends React.Component {
     );
   }
 }
+
+Container.propTypes = {
+  translate: PropTypes.func,
+  actions: PropTypes.shape({
+    loadResourceArticle: PropTypes.func.isRequired
+  }),
+  currentFile: PropTypes.string.isRequired,
+  online: PropTypes.bool,
+  projectDetailsReducer: PropTypes.shape({
+    currentProjectToolsSelectedGL: PropTypes.object.isRequired
+  }),
+  resourcesReducer: PropTypes.shape({
+    translationHelps: PropTypes.object.isRequired
+  }),
+  toolsReducer: PropTypes.shape({
+    currentToolName: PropTypes.string.isRequired
+  }),
+};
 
 export default Container;
