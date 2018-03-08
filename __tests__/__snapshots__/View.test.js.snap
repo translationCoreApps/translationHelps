@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`View component Tests Check View component 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flex": "auto",
+    }
+  }
+>
+  <style
+    dangerouslySetInnerHTML={
+      Object {
+        "__html": ".remarkableStyling h1{
+font-size: 19px;
+font-weight: bold;
+}
+.remarkableStyling h2{
+font-size: 14px;
+font-weight: normal;
+}
+.remarkableStyling h3{
+font-size: 16px;
+font-weight: bold;
+}
+.remarkableStyling h4{
+font-size: 16px;
+font-weight: bold;
+}
+.remarkableStyling blockquote {
+font-size: small;
+}
+.remarkableStyling blockquote strong {
+text-decoration: underline;
+font-weight: normal;
+}",
+      }
+    }
+  />
+  <div
+    style={
+      Object {
+        "backgroundColor": "var(--background-color-light)",
+        "display": "flex",
+        "flexDirection": "column",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "alignItems": "center",
+          "borderBottom": "1px solid var(--border-color)",
+          "display": "flex",
+          "flex": "0 0 50px",
+          "justifyContent": "flex-end",
+          "padding": "0 15px",
+        }
+      }
+    >
+      <span
+        className="glyphicon glyphicon-fullscreen"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "var(--text-color)",
+            "cursor": "pointer",
+            "fontSize": "20px",
+          }
+        }
+        title="Click to show expanded helps"
+      />
+    </div>
+    <div
+      className="remarkableStyling"
+      id="helpsbody"
+      style={
+        Object {
+          "overflowY": "auto",
+          "padding": "0 15px 30px",
+        }
+      }
+    >
+      <div>
+        <span
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "<h1>current file</h1>
+<p>Here is the current file content</p>
+",
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+  <[THelpsModal]
+    onHide={[Function]}
+    show={true}
+  >
+    <div>
+      <span
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "<h1>modal file</h1>
+<p>Here is the modal file content</p>
+",
+          }
+        }
+      />
+    </div>
+  </[THelpsModal]>
+</div>
+`;

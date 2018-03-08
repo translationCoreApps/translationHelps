@@ -1,10 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import View from './View';
-import fs from 'fs-extra';
 import {ipcRenderer} from 'electron';
-// constant declaration
-const urlRegex = new RegExp("(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9]\.[^\s]{2,})");
+import View from './components/View';
+import { convertMarkdownLinks } from './helpers/tHelpsHelpers';
 
 class Container extends React.Component {
   constructor(){
@@ -15,74 +13,37 @@ class Container extends React.Component {
     this.followLink = this.followLink.bind(this);
   }
 
-  convertToMarkdown(src) {
-    if (!src) return src;
+  followLink(link) {
+    let linkParts = link.split('/'); // Could be a relative article link, e.g. en/tw/kt/inchrist, or a full URL, e.g. http://unfoldingword.org
 
-    let followLink = this.followLink;
-    window.followLink = followLink;
-
-    src = src.replace(/-{3}\ntitle: ([^\n]+)[^]+-{3}/g, '===== $1 =====');
-
-    src = src.replace(/(=+)([^=]+)\1/g, function(match, equals, header) {
-        switch(equals.length) {
-            case 6:
-                return "#" + header + "#";
-            case 5:
-                return "#" + header + "#";
-            case 4:
-              return "##" + header + "##";
-            case 3:
-              return "###" + header + "###";
-            case 2:
-              return "####" + header + "####";
-            default:
-                return "#####" + header + "#####";
-        }
-    });
-
-    const languageId = this.props.projectDetailsReducer.currentProjectToolsSelectedGL[this.props.toolsReducer.currentToolName];
-
-    src = src.replace(/(\/\/)(?!git|cdn|ufw)/g, "_");
-    src = src.replace(/\[([^\]]+)\]\(([^/]+\/tn\/obs[^)]+)\)/g, 'Open Bible Stories $1');
-    src = src.replace(/\[([^\]]+)\]\(([^/]+\/tn\/[^)]+)\)/g, '$1');
-    src = src.replace(/\[\[[^:]+:bible[^|]+\|([^\]]+)\]\]/g, '$1');
-    src = src.replace(/\[([^\]]+)\]\(rc:_([^/]+)\/ta\/[^/]+\/([^/]+)\/([^)]+)\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$4\', \'note\', \'$2\')">$1</a>');
-    src = src.replace(/\[([^\]]+)\]\(\.\.\/(other|kt|names)\/([^.)]+)\.md\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$3\', \'word\', \''+languageId+'\')">$1</a>');
-    src = src.replace(/\[([^\]]+)\]\(\.\.\/([^/)]+)(\/01.md){0,1}\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\', \''+languageId+'\')">$1</a>');
-    src = src.replace(/\[([^\]]+)\]\(([^/)]+)(\/01.md){0,1}\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\', \''+languageId+'\')">$1</a>');
-    src = src.replace(/\[([^\]]+)\]\(([^).]+)\.md\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\', \''+languageId+'\')">$1</a>');
-    src = src.replace(/\[([^\]]+)\]\([^\])]+master\/content\/([^).]+)\.md\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\', \''+languageId+'\')">$1</a>');
-
-    return src;
-  }
-
-  followLink(link, type, languageId) {
-    if (type === 'url') {
+    // If the link doesn't have 4 parts, like a relative article link should, or has http:, https: or ftp: treat it as an external link
+    if (linkParts.length != 4 || ['http:', 'https:', 'ftp:'].includes(linkParts[0]) ) {
       if (!this.props.online) {
         let message = 'You are attempting to load an external resource in offline mode, please enable online mode to view this resource';
         this.setState({modalVisibility: true, modalView: message});
       } else ipcRenderer.send('open-helper', link);
     } else {
-      let resourceType;
+      const [languageId, type, articleCat, articleId] = linkParts;
+      let resourceDir = type;
       switch (type) {
-        case 'note':
-          resourceType = 'translationAcademy';
+        case 'ta':
+          resourceDir = 'translationAcademy';
           break;
-        case 'word':
-          resourceType = 'translationWords';
+        case 'tw':
+          resourceDir = 'translationWords';
           break;
         default:
           break;
       }
 
-      let articleId = link;
-      this.props.actions.loadResourceArticle(resourceType, articleId, languageId);
-      let articleData = this.props.resourcesReducer.translationHelps[resourceType][articleId];
+      this.props.actions.loadResourceArticle(resourceDir, articleId, languageId, articleCat);
+      let articleData = this.props.resourcesReducer.translationHelps[resourceDir][articleId];
 
       if (articleData) {
         this.setState({
           modalVisibility: true,
-          modalView: articleData
+          modalView: articleData,
+          articleCat: articleCat
         });
       } else {
         this.setState({
@@ -94,14 +55,16 @@ class Container extends React.Component {
   }
 
   render() {
-    let { currentFile } = this.props;
-    currentFile = this.convertToMarkdown(currentFile);
-    let modalView = this.convertToMarkdown(this.state.modalView);
+    const languageId = this.props.projectDetailsReducer.currentProjectToolsSelectedGL[this.props.toolsReducer.currentToolName];
+    const followLink = this.followLink;
+    const currentFile = convertMarkdownLinks(this.props.currentFile, languageId);
+    const modalView = convertMarkdownLinks(this.state.modalView, languageId, this.state.articleCat);
+    window.followLink = followLink;
     return (
         <View
             modalVisibility={this.state.modalVisibility}
             currentFile={currentFile}
-            modalFile={modalView|| currentFile}
+            modalFile={modalView || currentFile}
             showModal={() => this.setState({ modalVisibility: true })}
             hideModal={() => this.setState({ modalVisibility: false, modalView: null })}
         />
@@ -114,7 +77,7 @@ Container.propTypes = {
   actions: PropTypes.shape({
     loadResourceArticle: PropTypes.func.isRequired
   }),
-  currentFile: PropTypes.string.isRequired,
+  currentFile: PropTypes.string,
   online: PropTypes.bool,
   projectDetailsReducer: PropTypes.shape({
     currentProjectToolsSelectedGL: PropTypes.object.isRequired

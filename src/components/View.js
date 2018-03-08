@@ -1,10 +1,11 @@
 import React from 'react';
 import { Glyphicon } from 'react-bootstrap';
 import Markdown from 'react-remarkable';
-import THelpsModal from './components/THelpsModal';
-import style from './css/style';
+import PropTypes from 'prop-types';
+import THelpsModal from './THelpsModal';
+import style from '../css/style';
 
-class TranslationHelpsDisplay extends React.Component {
+class View extends React.Component {
 
   componentWillReceiveProps(nextProps) {
     if (this.props.currentFile !== nextProps.currentFile) {
@@ -70,4 +71,13 @@ class TranslationHelpsDisplay extends React.Component {
   }
 }
 
-export default TranslationHelpsDisplay;
+View.propTypes = {
+  translate: PropTypes.func,
+  currentFile: PropTypes.string,
+  modalFile: PropTypes.string,
+  modalVisibility: PropTypes.bool.isRequired,
+  showModal: PropTypes.func.isRequired,
+  hideModal: PropTypes.func.isRequired
+};
+
+export default View;
