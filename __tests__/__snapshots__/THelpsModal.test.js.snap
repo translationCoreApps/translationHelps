@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`THelpsModal component Tests Check THelpsModal component 1`] = `
+<[THelpsModal]
+  onHide={[Function]}
+  show={true}
+  translate={[Function]}
+>
+  [children]
+</[THelpsModal]>
+`;
