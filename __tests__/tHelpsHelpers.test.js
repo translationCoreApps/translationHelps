@@ -128,10 +128,10 @@ describe('Test tHelpsHelpers.getResourceDirByType()', () => {
     expect(tHelpsHelpers.getResourceDirByType('ta')).toEqual('translationAcademy');
   });
   test('Test type of "tn"', () => {
-    expect(tHelpsHelpers.getResourceDirByType('ta')).toEqual('translationNotes');
+    expect(tHelpsHelpers.getResourceDirByType('tn')).toEqual('translationNotes');
   });
   test('Test type of "tw"', () => {
-    expect(tHelpsHelpers.getResourceDirByType('ta')).toEqual('translationWords');
+    expect(tHelpsHelpers.getResourceDirByType('tw')).toEqual('translationWords');
   });
   test('Test type that is not defined', () => {
     const type = 'nd';
