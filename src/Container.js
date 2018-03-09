@@ -7,7 +7,8 @@ class Container extends React.Component {
   constructor(){
     super();
     this.state = {
-      modalVisibility: false
+      modalVisibility: false,
+      articleCategory: ''
     };
     this.followLink = this.followLink.bind(this);
   }
