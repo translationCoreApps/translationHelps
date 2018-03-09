@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/translationCoreApps/translationHelps#readme",
   "devDependencies": {
+    "adm-zip": "^0.4.7",
     "babel-eslint": "8.2.1",
     "babel-jest": "21.2.0",
     "babel-plugin-transform-object-rest-spread": "6.26.0",
