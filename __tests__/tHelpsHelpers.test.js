@@ -4,7 +4,7 @@ import * as tHelpsHelpers from "../src/helpers/tHelpsHelpers";
 import { extractZipFile } from "../src/helpers/zipHelpers";
 
 describe('Test tHelpsHelpers.convertMarkdownLinks() with large files', () => {
-  const tempFilePath = path.join('.', '__tests__', 'output', 'trans_help');
+  const tempFilePath = path.join('.', '__tests__', 'temp');
 
   beforeEach(() => {
     const resourcePath = path.join('.', '__tests__', 'fixtures', 'resources');

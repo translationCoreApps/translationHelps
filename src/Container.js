@@ -16,31 +16,36 @@ class Container extends React.Component {
   followLink(link) {
     let linkParts = link.split('/'); // link format: <lang>/<resource>/<category>/<article>
 
-    const [languageId, type, articleCat, articleId] = linkParts;
+    const [lang, type, category, article] = linkParts;
     const resourceDir = tHelpsHelpers.getResourceDirByType(type);
 
-    this.props.actions.loadResourceArticle(resourceDir, articleId, languageId, articleCat);
-    let articleData = this.props.resourcesReducer.translationHelps[resourceDir][articleId];
+    this.props.actions.loadResourceArticle(resourceDir, article, lang, category);
+    let articleData = this.props.resourcesReducer.translationHelps[resourceDir][article];
 
+    let newState = {
+      modalVisibility: true,
+      articleCategory: category
+    };
     if (articleData) {
-      this.setState({
-        modalVisibility: true,
+      newState = {
+        ...newState,
         modalView: articleData,
-        articleCat: articleCat
-      });
+      };
     } else {
-      this.setState({
-        modalVisibility: true,
-        modalView: 'Cannot find specified file.'
-      });
+      newState = {
+        ...newState,
+        modalView: 'Cannot find an article for '+link
+      };
     }
+    this.setState(newState);
+    return newState;
   }
 
   render() {
     const languageId = this.props.projectDetailsReducer.currentProjectToolsSelectedGL[this.props.toolsReducer.currentToolName];
     const followLink = this.followLink;
     const currentFile = tHelpsHelpers.convertMarkdownLinks(this.props.currentFile, languageId);
-    const modalView = tHelpsHelpers.convertMarkdownLinks(this.state.modalView, languageId, this.state.articleCat);
+    const modalView = tHelpsHelpers.convertMarkdownLinks(this.state.modalView, languageId, this.state.articleCategory);
     window.followLink = followLink;
     return (
         <View
