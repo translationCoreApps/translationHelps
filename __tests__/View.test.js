@@ -1,27 +1,34 @@
 /* eslint-env jest */
 import React from 'react';
 import View from '../src/components/View';
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import renderer from 'react-test-renderer';
+import { shallow } from 'enzyme';
+import toJson from 'enzyme-to-json';
 
-jest.mock('../src/components/THelpsModal.js', () => '[THelpsModal]');
+const props = {
+  translate:k=>k,
+  currentFile: '# current file #\n\nHere is the current file content',
+  modalFile: '# modal file #\n\nHere is the modal file content',
+  modalVisibility: true,
+  showModal: jest.fn(),
+  hideModal: jest.fn()
+};
 
 describe('View component Tests', () => {
   it('Check View component', () => {
-    let props = {
-      translate:k=>k,
-      currentFile: '# current file #\n\nHere is the current file content',
-      modalFile: '# modal file #\n\nHere is the modal file content',
-      modalVisibility: true,
-      showModal: jest.fn(),
-      hideModal: jest.fn()
+    const wrapper = shallow(<View {...props} />);
+    expect(toJson(wrapper)).toMatchSnapshot();
+  });
+
+  it('Test View.componentWillReceiveProps', () => {
+    const wrapper = shallow(<View {...props} />);
+    document.getElementById('test');
+    expect(wrapper.instance().props.currentFile).toEqual(props.currentFile);
+    const newCurrentFile = '# new current file #\n\nnew current file contents';
+    const nextProps = {
+      ...props,
+      currentFile: newCurrentFile
     };
-    const component = renderer.create(
-      <MuiThemeProvider>
-        <View {...props} />
-      </MuiThemeProvider>
-    );
-    const tree = component.toJSON();
-    expect(tree).toMatchSnapshot();
+    wrapper.setProps(nextProps);
+    expect(wrapper.instance().props.currentFile).toEqual(newCurrentFile);
   });
 });

@@ -1,11 +1,8 @@
 /* eslint-env jest */
 import React from 'react';
 import Container from '../src/Container';
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import renderer from 'react-test-renderer';
 import { shallow } from 'enzyme';
-
-jest.mock('../src/components/View.js', () => '[View]');
+import toJson from 'enzyme-to-json';
 
 const props = {
   translate: k=>k,
@@ -31,13 +28,8 @@ const props = {
 
 describe('Container Tests', () => {
   it('Test Container', () => {
-    const component = renderer.create(
-      <MuiThemeProvider>
-        <Container {...props} />
-      </MuiThemeProvider>
-    );
-    const tree = component.toJSON();
-    expect(tree).toMatchSnapshot();
+    const wrapper = shallow(<Container {...props} />);
+    expect(toJson(wrapper)).toMatchSnapshot();
   });
 
   it('Test Container.followLink() with valid article', () => {

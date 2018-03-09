@@ -59,8 +59,9 @@ font-weight: normal;
         }
       }
     >
-      <span
-        className="glyphicon glyphicon-fullscreen"
+      <Glyphicon
+        bsClass="glyphicon"
+        glyph="fullscreen"
         onClick={[Function]}
         style={
           Object {
@@ -82,34 +83,34 @@ font-weight: normal;
         }
       }
     >
-      <div>
-        <span
-          dangerouslySetInnerHTML={
-            Object {
-              "__html": "<h1>current file</h1>
-<p>Here is the current file content</p>
-",
-            }
+      <Remarkable
+        container="div"
+        options={
+          Object {
+            "html": true,
           }
-        />
-      </div>
+        }
+        source="# current file #
+
+Here is the current file content"
+      />
     </div>
   </div>
-  <[THelpsModal]
+  <THelpsModal
     onHide={[Function]}
     show={true}
   >
-    <div>
-      <span
-        dangerouslySetInnerHTML={
-          Object {
-            "__html": "<h1>modal file</h1>
-<p>Here is the modal file content</p>
-",
-          }
+    <Remarkable
+      container="div"
+      options={
+        Object {
+          "html": true,
         }
-      />
-    </div>
-  </[THelpsModal]>
+      }
+      source="# modal file #
+
+Here is the modal file content"
+    />
+  </THelpsModal>
 </div>
 `;
