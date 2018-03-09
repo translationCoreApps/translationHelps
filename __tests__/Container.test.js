@@ -3,13 +3,16 @@ import React from 'react';
 import Container from '../src/Container';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import renderer from 'react-test-renderer';
+import { shallow } from 'enzyme';
 
 jest.mock('../src/components/View.js', () => '[View]');
 
 const props = {
   translate: k=>k,
   actions: {
-    loadResourceArticle: (a, b, c)=>a+', '+b+', '+c
+    loadResourceArticle: (lang, type, cat, article)=>{
+      return lang+', '+type+', '+cat+', '+article;
+    }
   },
   currentFile: '# test #\n\nThis is a [test](rc://en/ta/man/translate/test)',
   online: true,
@@ -17,7 +20,7 @@ const props = {
     currentProjectToolsSelectedGL: {'testTool': 'en'}
   },
   resourcesReducer: {
-    translationHelps: jest.fn()
+    translationHelps: {'type':{}}
   },
   toolsReducer: {
     currentToolName: 'testTool'
@@ -33,5 +36,11 @@ describe('Container Tests', () => {
     );
     const tree = component.toJSON();
     expect(tree).toMatchSnapshot();
+  });
+
+  it('Test Container.followLink()', () => {
+    const wrapper = shallow(<Container {...props} />);
+    const container = wrapper.instance();
+    container.followLink('lang/type/cat/article');
   });
 });

@@ -122,3 +122,19 @@ describe('Test tHelpsHelpers.convertMarkdownLinks() with large files', () => {
     });
   });
 });
+
+describe('Test tHelpsHelpers.getResourceDirByType()', () => {
+  test('Test type of "ta"', () => {
+    expect(tHelpsHelpers.getResourceDirByType('ta')).toEqual('translationAcademy');
+  });
+  test('Test type of "tn"', () => {
+    expect(tHelpsHelpers.getResourceDirByType('ta')).toEqual('translationNotes');
+  });
+  test('Test type of "tw"', () => {
+    expect(tHelpsHelpers.getResourceDirByType('ta')).toEqual('translationWords');
+  });
+  test('Test type that is not defined', () => {
+    const type = 'nd';
+    expect(tHelpsHelpers.getResourceDirByType(type)).toEqual(type);
+  });
+});

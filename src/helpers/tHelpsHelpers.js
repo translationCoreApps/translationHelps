@@ -28,3 +28,15 @@ export function convertMarkdownLinks(src, languageId, articleCat='') {
   return src;    
 }
 
+export function getResourceDirByType(type) {
+  switch (type) {
+    case 'ta':
+      return 'translationAcademy';
+    case 'tw':
+      return 'translationWords';
+    case 'tn':
+      return 'translationNotes';
+    default:
+      return type;
+  }
+}
