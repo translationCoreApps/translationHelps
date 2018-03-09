@@ -19,7 +19,7 @@ class Container extends React.Component {
     const resourceDir = tHelpsHelpers.getResourceDirByType(type);
 
     this.props.actions.loadResourceArticle(resourceDir, article, lang, category);
-    let articleData = this.props.resourcesReducer.translationHelps[resourceDir][article];
+    const articleData = this.props.resourcesReducer.translationHelps[resourceDir][article];
 
     let newState = {
       modalVisibility: true,
