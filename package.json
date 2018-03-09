@@ -51,6 +51,7 @@
     "react-test-renderer": "16.2.0"
   },
   "dependencies": {
+    "path-extra": "^4.2.1",
     "react-remarkable": "1.1.2"
   }
 }
