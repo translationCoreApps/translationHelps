@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import {ipcRenderer} from 'electron';
 import View from './components/View';
 import * as tHelpsHelpers from './helpers/tHelpsHelpers';
 
