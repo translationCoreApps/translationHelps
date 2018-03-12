@@ -1,107 +1,80 @@
 import React from 'react';
-import View from './View';
-import fs from 'fs-extra';
-import {ipcRenderer} from 'electron';
-// constant declaration
-const urlRegex = new RegExp("(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9]\.[^\s]{2,})");
+import PropTypes from 'prop-types';
+import View from './components/View';
+import * as tHelpsHelpers from './helpers/tHelpsHelpers';
 
 class Container extends React.Component {
   constructor(){
     super();
     this.state = {
-      modalVisibility: false
+      modalVisibility: false,
+      articleCategory: ''
     };
     this.followLink = this.followLink.bind(this);
   }
-  convertToMarkdown(src) {
-    if (!src) return src;
 
-    let followLink = this.followLink;
-    window.followLink = followLink;
+  followLink(link) {
+    let linkParts = link.split('/'); // link format: <lang>/<resource>/<category>/<article>
 
-    src = src.replace(/-{3}\ntitle: ([^\n]+)[^]+-{3}/g, '===== $1 =====');
+    const [lang, type, category, article] = linkParts;
+    const resourceDir = tHelpsHelpers.getResourceDirByType(type);
 
-    src = src.replace(/(=+)([^=]+)\1/g, function(match, equals, header) {
-        switch(equals.length) {
-            case 6:
-                return "#" + header + "#";
-            case 5:
-                return "#" + header + "#";
-            case 4:
-              return "##" + header + "##";
-            case 3:
-              return "###" + header + "###";
-            case 2:
-              return "####" + header + "####";
-            default:
-                return "#####" + header + "#####";
-        }
-    });
+    this.props.actions.loadResourceArticle(resourceDir, article, lang, category);
+    const articleData = this.props.resourcesReducer.translationHelps[resourceDir][article];
 
-    src = src.replace(/(\/\/)(?!git|cdn|ufw)/g, "_");
-    src = src.replace(/\[([^\]]+)\]\((en\/tn\/obs[^)]+)\)/g, 'Open Bible Stories $1');
-    src = src.replace(/\[([^\]]+)\]\((en\/tn\/[^)]+)\)/g, '$1');
-    src = src.replace(/\[\[en:bible[^|]+\|([^\]]+)\]\]/g, '$1');
-    src = src.replace(/\[\[(en:ta:[^\|\]:]+:[^\|\]:]+:)([^\|\]:]+)\|([^\]]+)\]\]/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\')">$3</a>');
-    src = src.replace(/\[\[(en:ta:[^\|\]:]+:[^\|\]:]+:)([^\|\]:]+)\]\]/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\')">$2</a>');
-    src = src.replace(/\[([^\]]+)\]\(\.\.\/(other|kt)\/([^\.)]+)\.md\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$3\', \'word\')">$1</a>');
-    src = src.replace(/\[([^\]]+)\]\(([^)\.]+)\.md\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\')">$1</a>');
-    src = src.replace(/\[([^\]]+)\]\([^\])]+master\/content\/([^)\.]+)\.md\)/g, '<a style="cursor: pointer" onclick="return followLink(\'$2\', \'note\')">$1</a>');
-
-    return src;
-  }
-
-  followLink(link, type) {
-    if (type === 'url') {
-      if (!this.props.online) {
-        let message = 'You are attempting to load an external resource in offline mode, please enable online mode to view this resource';
-        this.setState({modalVisibility: true, modalView: message});
-      } else ipcRenderer.send('open-helper', link);
+    let newState = {
+      modalVisibility: true,
+      articleCategory: category
+    };
+    if (articleData) {
+      newState = {
+        ...newState,
+        modalView: articleData,
+      };
     } else {
-      let resourceType;
-      switch (type) {
-        case 'note':
-          resourceType = 'translationAcademy';
-          break;
-        case 'word':
-          resourceType = 'translationWords';
-          break;
-        default:
-          break;
-      }
-
-      let articleId = link;
-      this.props.actions.loadResourceArticle(resourceType, articleId);
-      let articleData = this.props.resourcesReducer.translationHelps[resourceType][articleId];
-
-      if (articleData) {
-        this.setState({
-          modalVisibility: true,
-          modalView: articleData
-        });
-      } else {
-        this.setState({
-          modalVisibility: true,
-          modalView: 'Cannot find specified file.'
-        });
-      }
+      newState = {
+        ...newState,
+        modalView: 'Cannot find an article for '+link
+      };
     }
+    this.setState(newState);
+    return newState;
   }
 
   render() {
-    let { currentFile } = this.props;
-    currentFile = this.convertToMarkdown(currentFile);
-    let modalView = this.convertToMarkdown(this.state.modalView);
+    const languageId = this.props.projectDetailsReducer.currentProjectToolsSelectedGL[this.props.toolsReducer.currentToolName];
+    const followLink = this.followLink;
+    const currentFile = tHelpsHelpers.convertMarkdownLinks(this.props.currentFile, languageId);
+    const modalView = tHelpsHelpers.convertMarkdownLinks(this.state.modalView, languageId, this.state.articleCategory);
+    window.followLink = followLink;
     return (
         <View
             modalVisibility={this.state.modalVisibility}
             currentFile={currentFile}
-            modalFile={modalView|| currentFile}
+            modalFile={modalView || currentFile}
             showModal={() => this.setState({ modalVisibility: true })}
             hideModal={() => this.setState({ modalVisibility: false, modalView: null })}
         />
     );
   }
 }
+
+Container.propTypes = {
+  translate: PropTypes.func,
+  actions: PropTypes.shape({
+    loadResourceArticle: PropTypes.func.isRequired
+  }),
+  currentFile: PropTypes.string,
+  online: PropTypes.bool,
+  projectDetailsReducer: PropTypes.shape({
+    currentProjectToolsSelectedGL: PropTypes.object.isRequired
+  }),
+  resourcesReducer: PropTypes.shape({
+    translationHelps: PropTypes.object.isRequired
+  }),
+  toolsReducer: PropTypes.shape({
+    currentToolName: PropTypes.string.isRequired
+  }),
+};
 
 export default Container;

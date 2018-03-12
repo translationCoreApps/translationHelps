@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container Tests Test Container 1`] = `
+<View
+  currentFile="# test #
+
+This is a <a style=\\"cursor: pointer\\" onclick=\\"return followLink('en/ta/translate/test')\\">test</a>"
+  hideModal={[Function]}
+  modalFile="# test #
+
+This is a <a style=\\"cursor: pointer\\" onclick=\\"return followLink('en/ta/translate/test')\\">test</a>"
+  modalVisibility={false}
+  showModal={[Function]}
+/>
+`;
